@@ -1,0 +1,18 @@
+{
+  "name": "IWAN Research Group",
+  "short_name": "IWAN Research Group",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/username/media/icon_huc217d821a31333fc8ba111272ea3b0f6_6756_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/username/media/icon_huc217d821a31333fc8ba111272ea3b0f6_6756_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/username/?utm_source=web_app_manifest"
+}
