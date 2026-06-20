@@ -14,6 +14,15 @@ const LINK_ICONS = {
 function memEsc(s){ return (s==null?"":String(s)).replace(/[&<>"]/g,c=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;" }[c])); }
 function initials(name){ return name.split(/\s+/).slice(0,2).map(w=>w[0]).join("").toUpperCase(); }
 
+// If a member photo fails to load (e.g. not uploaded yet), swap it for coloured initials.
+window.iwanAvatarFail = function(img){
+  const d = document.createElement("div");
+  d.className = img.dataset.cls;
+  d.setAttribute("style", img.dataset.style || "");
+  d.textContent = img.dataset.initials || "";
+  img.replaceWith(d);
+};
+
 function memberLinks(links){
   if(!links) return "";
   const order = ["scholar","openalex","github","hf","x","web","email"];
@@ -26,9 +35,10 @@ function memberLinks(links){
 function leadCard(m, lang){
   const name = lang==="ar"?m.name_ar:m.name_en;
   const bio = lang==="ar"?(m.bio_ar||m.area_ar):(m.bio_en||m.area_en);
+  const leadFallStyle = `display:grid;place-items:center;color:#fff;font-family:var(--font-display);font-size:62px;background:${m.color||'#00638c'}`;
   const photo = m.photo
-    ? `<img class="lead-card__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}">`
-    : `<div class="lead-card__photo" style="display:grid;place-items:center;color:#fff;font-family:var(--font-display);font-size:62px;background:${m.color||'#00638c'}">${initials(m.name_en)}</div>`;
+    ? `<img class="lead-card__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}" data-cls="lead-card__photo" data-initials="${initials(m.name_en)}" data-style="${leadFallStyle}" onerror="iwanAvatarFail(this)">`
+    : `<div class="lead-card__photo" style="${leadFallStyle}">${initials(m.name_en)}</div>`;
   return `<div class="lead-card reveal">
     ${photo}
     <div>
@@ -44,7 +54,7 @@ function leadCard(m, lang){
 function memberCard(m, lang){
   const name = lang==="ar"?m.name_ar:m.name_en;
   const avatar = m.photo
-    ? `<img class="member__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}">`
+    ? `<img class="member__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}" data-cls="member__avatar" data-initials="${initials(m.name_en)}" data-style="background:${m.color||'#00638c'}" onerror="iwanAvatarFail(this)">`
     : `<div class="member__avatar" style="background:${m.color||'#00638c'}">${initials(m.name_en)}</div>`;
   return `<div class="card member reveal">
     ${avatar}
