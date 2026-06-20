@@ -94,7 +94,10 @@ const I18N = {
     "mem.g.alumni": "Alumni & Collaborators",
     "mem.join.t": "Join the group",
     "mem.join.d": "We're always looking for motivated graduate students and collaborators in Arabic NLP.",
-    "mem.join.b": "Get in touch",
+    "mem.join.b": "Apply now",
+    "mem.join.formtitle": "Application form",
+    "mem.join.formlead": "Complete the form below to apply to join iWAN. The form is in Arabic.",
+    "mem.join.fallback": "Trouble viewing the form? Open it on the iWAN site ↗",
 
     "res.eyebrow": "Build with us",
     "res.title": "Resources",
@@ -204,7 +207,10 @@ const I18N = {
     "mem.g.alumni": "الخريجون والمتعاونون",
     "mem.join.t": "انضمّ إلى المجموعة",
     "mem.join.d": "نبحث دائمًا عن طلاب دراسات عليا متحمّسين ومتعاونين في معالجة اللغة العربية.",
-    "mem.join.b": "تواصل معنا",
+    "mem.join.b": "قدّم الآن",
+    "mem.join.formtitle": "نموذج الانضمام",
+    "mem.join.formlead": "عبّئ النموذج أدناه لتقديم طلب الانضمام إلى إيوان.",
+    "mem.join.fallback": "تواجه مشكلة في عرض النموذج؟ افتحه على موقع إيوان ↗",
 
     "res.eyebrow": "ابْنِ معنا",
     "res.title": "المصادر",
