@@ -1,0 +1,72 @@
+{
+  "_comment": "Edit this file to manage the Members page. group: lead | faculty | students | alumni. Provide bilingual fields. 'photo' is optional (path under assets/img/); if omitted, colored initials are shown. links: scholar, openalex, github, hf, x, email, web. NOTE: Arabic name spellings and roles below are best-effort placeholders — please verify.",
+  "members": [
+    {
+      "group": "lead",
+      "name_en": "Hend S. Al-Khalifa",
+      "name_ar": "هند بنت سليمان الخليفة",
+      "role_en": "Professor · Group Lead",
+      "role_ar": "أستاذة · قائدة المجموعة",
+      "area_en": "Arabic NLP, large language models, computational linguistics & responsible AI",
+      "area_ar": "معالجة اللغة العربية، النماذج اللغوية الكبيرة، اللسانيات الحاسوبية والذكاء الاصطناعي المسؤول",
+      "bio_en": "Professor of Information Technology at King Saud University and lead of the iWAN Research Group. Her work spans Arabic language models, datasets, sentiment analysis, and human-centered AI, with an h-index of 45 across 250+ publications.",
+      "bio_ar": "أستاذة تقنية المعلومات بجامعة الملك سعود وقائدة مجموعة إيوان البحثية. تشمل أبحاثها النماذج اللغوية العربية ومجموعات البيانات وتحليل المشاعر والذكاء الاصطناعي المتمحور حول الإنسان، بمؤشر h يبلغ 45 عبر أكثر من 250 منشورًا.",
+      "color": "#0f5c4a",
+      "photo": "",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?user=T08HWpEAAAAJ&hl=en",
+        "openalex": "https://openalex.org/A5063710079",
+        "x": "https://x.com/IWAN_RG",
+        "web": "https://iwan.ksu.edu.sa/ar"
+      }
+    },
+    {
+      "group": "students",
+      "name_en": "Ameera Almasoud",
+      "name_ar": "أميرة المسعود",
+      "role_en": "Researcher",
+      "role_ar": "باحثة",
+      "area_en": "Arabic NLP, knowledge & semantic technologies",
+      "area_ar": "معالجة اللغة العربية، المعرفة والتقنيات الدلالية",
+      "color": "#0f5c4a",
+      "photo": "",
+      "links": { "openalex": "https://openalex.org/A5058010431" }
+    },
+    {
+      "group": "students",
+      "name_en": "Sharefah Al-Ghamdi",
+      "name_ar": "شريفة الغامدي",
+      "role_en": "Researcher",
+      "role_ar": "باحثة",
+      "area_en": "Arabic NLP, morphology & parsing",
+      "area_ar": "معالجة اللغة العربية، الصرف والتحليل النحوي",
+      "color": "#b9822b",
+      "photo": "",
+      "links": { "openalex": "https://openalex.org/A5086802719" }
+    },
+    {
+      "group": "students",
+      "name_en": "Reem Alqifari",
+      "name_ar": "ريم القفاري",
+      "role_en": "Researcher",
+      "role_ar": "باحثة",
+      "area_en": "Arabic NLP, language models",
+      "area_ar": "معالجة اللغة العربية، النماذج اللغوية",
+      "color": "#1d8a6e",
+      "photo": "",
+      "links": { "openalex": "https://openalex.org/A5044468810" }
+    },
+    {
+      "group": "students",
+      "name_en": "Noof Alfear",
+      "name_ar": "نوف الفير",
+      "role_en": "Researcher",
+      "role_ar": "باحثة",
+      "area_en": "Topic modeling, sentiment analysis & hate-speech detection",
+      "area_ar": "نمذجة المواضيع، تحليل المشاعر وكشف خطاب الكراهية",
+      "color": "#8a5a00",
+      "photo": "",
+      "links": { "openalex": "https://openalex.org/A5126231795" }
+    }
+  ]
+}

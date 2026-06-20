@@ -1,0 +1,11 @@
+{
+  "_comment": "OpenAlex author IDs aggregated into the Publications page. Add a member's OpenAlex id (e.g. A5063710079) to include their works. Find an id at https://openalex.org by searching the author name.",
+  "openalex_authors": [
+    { "id": "A5063710079", "name": "Hend S. Al-Khalifa" },
+    { "id": "A5058010431", "name": "Ameera M. Almasoud" },
+    { "id": "A5086802719", "name": "Sharefah A. Al-Ghamdi" },
+    { "id": "A5044468810", "name": "Reem Alqifari" },
+    { "id": "A5126231795", "name": "Noof Alfear" }
+  ],
+  "highlight_author": "Al-Khalifa"
+}

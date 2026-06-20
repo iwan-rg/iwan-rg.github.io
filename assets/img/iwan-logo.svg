@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 150" role="img" aria-label="iWAN — إيوان">
+  <!-- Fallback wordmark. Replace assets/img/iwan-logo.png with the official artwork to override this everywhere. -->
+  <text x="180" y="104" text-anchor="middle" direction="rtl"
+        font-family="'Aref Ruqaa','Amiri','Scheherazade New',Georgia,serif"
+        font-weight="700" font-size="112" fill="#b9822b">إيوان</text>
+</svg>

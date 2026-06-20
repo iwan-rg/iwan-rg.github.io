@@ -1,0 +1,4858 @@
+{
+  "updated": "2026-06-20T10:31:08+00:00",
+  "count": 269,
+  "source": "OpenAlex",
+  "highlight_author": "Al-Khalifa",
+  "publications": [
+    {
+      "key": "doi:10.1145/3807946",
+      "title": "A Survey of Large Language Models for Arabic Language and its Dialects",
+      "year": 2026,
+      "date": "2026-04-09",
+      "venue": "ACM Transactions on Asian and Low-Resource Language Information Processing",
+      "type": "preprint",
+      "cites": 6,
+      "doi": "10.1145/3807946",
+      "url": "https://doi.org/10.1145/3807946",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2410.20238",
+      "authors": [
+        "Malak Mashaabi",
+        "Shahad Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.63317/559a7pqqchr2",
+      "title": "ADAB: Arabic Dataset for Automated Politeness Benchmarking - a Large-Scale Resource for Computational Sociopragmatics",
+      "year": 2026,
+      "date": "2026-04-30",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.63317/559a7pqqchr2",
+      "url": "https://doi.org/10.63317/559a7pqqchr2",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend Al-Khalifa",
+        "Nadia Ghezaiel",
+        "Maria Bounnit",
+        "Hend Hamed Alhazmi",
+        "Noof Abdullah Alfear",
+        "Reem Fahad Alqifari",
+        "Ameera M. Almasoud",
+        "Sharefah Ahmed Al-Ghamdi"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2602.13870",
+      "title": "ADAB: Arabic Dataset for Automated Politeness Benchmarking -- A Large-Scale Resource for Computational Sociopragmatics",
+      "year": 2026,
+      "date": "2026-02-14",
+      "venue": "Open MIND",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2602.13870",
+      "url": "https://doi.org/10.48550/arxiv.2602.13870",
+      "oa": true,
+      "oa_url": null,
+      "authors": [
+        "Hend Al-Khalifa",
+        "Nadia Ghezaiel",
+        "Maria Bounnit",
+        "Hend Hamed Alhazmi",
+        "Noof Abdullah Alfear",
+        "Reem Fahad Alqifari",
+        "Ameera M. Almasoud",
+        "Sharefah Ahmed Al-Ghamdi"
+      ]
+    },
+    {
+      "key": "t:adab: arabic dataset for automated politeness benchmarking -- a large-scale resource for computational sociopragmatics",
+      "title": "ADAB: Arabic Dataset for Automated Politeness Benchmarking -- A Large-Scale Resource for Computational Sociopragmatics",
+      "year": 2026,
+      "date": "2026-02-14",
+      "venue": "ArXiv.org",
+      "type": "journal",
+      "cites": 0,
+      "doi": "",
+      "url": "http://arxiv.org/abs/2602.13870",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2602.13870",
+      "authors": [
+        "Hend Al-Khalifa",
+        "Nadia Ghezaiel",
+        "Maria Bounnit",
+        "Hend Hamed Alhazmi",
+        "Noof Abdullah Alfear",
+        "Reem Fahad Alqifari",
+        "Ameera M. Almasoud",
+        "Sharefah Ahmed Al-Ghamdi"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2026.3705337",
+      "title": "HADS: A Large-Scale Parallel Benchmark for Physical Commonsense Reasoning",
+      "year": 2026,
+      "date": "2026-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/access.2026.3705337",
+      "url": "https://doi.org/10.1109/access.2026.3705337",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1109/access.2026.3705337",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.dib.2026.112589",
+      "title": "MirathQA: A dataset for evaluating large language models on Hanbali Islamic inheritance reasoning tasks",
+      "year": 2026,
+      "date": "2026-02-14",
+      "venue": "Data in Brief",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1016/j.dib.2026.112589",
+      "url": "https://doi.org/10.1016/j.dib.2026.112589",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.dib.2026.112589",
+      "authors": [
+        "Ameera Almasoud",
+        "Sharefah A. Al-Ghamdi",
+        "Reem Alqifari",
+        "Noof Alfear",
+        "Hend Al-Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.17632/7jhycpbdpw.2",
+      "title": "MirathQA: An Arabic Dataset for Islamic Inheritance Reasoning",
+      "year": 2026,
+      "date": "2026-01-22",
+      "venue": "Mendeley Data",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.17632/7jhycpbdpw.2",
+      "url": "https://doi.org/10.17632/7jhycpbdpw.2",
+      "oa": true,
+      "oa_url": "https://doi.org/10.17632/7jhycpbdpw.2",
+      "authors": [
+        "Reem Alqifari",
+        "Ameera M. Almasoud",
+        "Sharefah Abdallah Master Alghamdi",
+        "Noof Alfear",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1371/journal.pone.0351074",
+      "title": "Mumtathil: Automatic PDPL compliance identification system of Arabic privacy policies documents",
+      "year": 2026,
+      "date": "2026-06-10",
+      "venue": "PLoS ONE",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1371/journal.pone.0351074",
+      "url": "https://doi.org/10.1371/journal.pone.0351074",
+      "oa": true,
+      "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351074&type=printable",
+      "authors": [
+        "Malak Mashaabi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s10791-024-09489-8",
+      "title": "Improving mispronunciation detection and diagnosis for non- native learners of the Arabic language",
+      "year": 2025,
+      "date": "2025-01-06",
+      "venue": "Discover Computing",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1007/s10791-024-09489-8",
+      "url": "https://doi.org/10.1007/s10791-024-09489-8",
+      "oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10791-024-09489-8.pdf",
+      "authors": [
+        "Norah Alrashoudi",
+        "Hend S. Al‐Khalifa",
+        "Yousef Ajami Alotaibi"
+      ]
+    },
+    {
+      "key": "doi:10.3390/computation13060151",
+      "title": "English-Arabic Hybrid Semantic Text Chunking Based on Fine-Tuning BERT",
+      "year": 2025,
+      "date": "2025-06-16",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.3390/computation13060151",
+      "url": "https://doi.org/10.3390/computation13060151",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/6/151/pdf?version=1750063742",
+      "authors": [
+        "Mai Alammar",
+        "Khalil El Hindi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3389/frai.2025.1615800",
+      "title": "Constructing and evaluating ArabicStanceX: a social media dataset for Arabic stance detection",
+      "year": 2025,
+      "date": "2025-06-19",
+      "venue": "Frontiers in Artificial Intelligence",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.3389/frai.2025.1615800",
+      "url": "https://doi.org/10.3389/frai.2025.1615800",
+      "oa": true,
+      "oa_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1615800/pdf",
+      "authors": [
+        "Ali Alkhathlan",
+        "Faris Alahmadi",
+        "Faris Kateb",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/computation13050108",
+      "title": "AraEyebility: Eye-Tracking Data for Arabic Text Readability",
+      "year": 2025,
+      "date": "2025-05-05",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.3390/computation13050108",
+      "url": "https://doi.org/10.3390/computation13050108",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/5/108/pdf?version=1746517519",
+      "authors": [
+        "Ibtehal Baazeem",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-031-97141-9_11",
+      "title": "MultiProSE: A Multi-label Arabic Dataset for Propaganda, Sentiment, and Emotion Detection",
+      "year": 2025,
+      "date": "2025-06-30",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 2,
+      "doi": "10.1007/978-3-031-97141-9_11",
+      "url": "https://doi.org/10.1007/978-3-031-97141-9_11",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Lubna Al-Henaki",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Hajar Alqubayshi",
+        "Hind Al-Twailay",
+        "Gheeda Alghamdi",
+        "Hawra Aljasim"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app15158160",
+      "title": "Enhancing Propaganda Detection in Arabic News Context Through Multi-Task Learning",
+      "year": 2025,
+      "date": "2025-07-22",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.3390/app15158160",
+      "url": "https://doi.org/10.3390/app15158160",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/15/15/8160/pdf?version=1753193700",
+      "authors": [
+        "Lubna Al-Henaki",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/aiccsa66935.2025.11315303",
+      "title": "The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models",
+      "year": 2025,
+      "date": "2025-10-19",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/aiccsa66935.2025.11315303",
+      "url": "https://doi.org/10.1109/aiccsa66935.2025.11315303",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Raneem Almansour",
+        "Layan Abdulrahman Alhuasini",
+        "Alanood Alsaleh",
+        "Mohamad-Hani Temsah",
+        "Ashwag R. Alruwaili"
+      ]
+    },
+    {
+      "key": "doi:10.3390/jemr18040030",
+      "title": "Eye Movement Patterns as Indicators of Text Complexity in Arabic: A Comparative Analysis of Classical and Modern Standard Arabic",
+      "year": 2025,
+      "date": "2025-07-16",
+      "venue": "Journal of Eye Movement Research",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.3390/jemr18040030",
+      "url": "https://doi.org/10.3390/jemr18040030",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/1995-8692/18/4/30/pdf?version=1752673576",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/computation13110258",
+      "title": "Integrating Linguistic and Eye Movements Features for Arabic Text Readability Assessment Using ML and DL Models",
+      "year": 2025,
+      "date": "2025-11-03",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.3390/computation13110258",
+      "url": "https://doi.org/10.3390/computation13110258",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/11/258/pdf?version=1762171624",
+      "authors": [
+        "Ibtehal Baazeem",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2502.08319",
+      "title": "MultiProSE: A Multi-label Arabic Dataset for Propaganda, Sentiment, and Emotion Detection",
+      "year": 2025,
+      "date": "2025-02-12",
+      "venue": "ArXiv.org",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2502.08319",
+      "url": "https://doi.org/10.48550/arxiv.2502.08319",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2502.08319",
+      "authors": [
+        "Lubna Al-Henaki",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Hajar Alqubayshi",
+        "Hind Al-Twailay",
+        "Gheeda Alghamdi",
+        "Hawra Aljasim"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2506.01340",
+      "title": "The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology",
+      "year": 2025,
+      "date": "2025-06-02",
+      "venue": "ArXiv.org",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2506.01340",
+      "url": "https://doi.org/10.48550/arxiv.2506.01340",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2506.01340",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Nadir Durrani",
+        "Hend S. Al‐Khalifa",
+        "Firoj Alam"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2508.14869",
+      "title": "The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models",
+      "year": 2025,
+      "date": "2025-08-20",
+      "venue": "ArXiv.org",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2508.14869",
+      "url": "https://doi.org/10.48550/arxiv.2508.14869",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2508.14869",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Raneem Almansour",
+        "Layan Abdulrahman Alhuasini",
+        "Alanood Alsaleh",
+        "Mohamad‐Hani Temsah",
+        "Mohamad-Hani_Temsah",
+        "Alruwaili, Ashwag Rafea S"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-031-93598-5_23",
+      "title": "Understanding Users’ Behavior in Food Delivery Applications: The EBAI Conceptual Model for Clickstream-Based Segmentation",
+      "year": 2025,
+      "date": "2025-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-3-031-93598-5_23",
+      "url": "https://doi.org/10.1007/978-3-031-93598-5_23",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/mti8030021",
+      "title": "Accessible Metaverse: A Theoretical Framework for Accessibility and Inclusion in the Metaverse",
+      "year": 2024,
+      "date": "2024-03-01",
+      "venue": "Multimodal Technologies and Interaction",
+      "type": "journal",
+      "cites": 66,
+      "doi": "10.3390/mti8030021",
+      "url": "https://doi.org/10.3390/mti8030021",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2414-4088/8/3/21/pdf?version=1709304758",
+      "authors": [
+        "Achraf Othman",
+        "Khansa Chemnad",
+        "Aboul Ella Hassanien",
+        "Ahmed Tlili",
+        "Christina Yan Zhang",
+        "Dena Al‐Thani",
+        "Fahriye Altınay",
+        "Hajer Chalghoumi",
+        "Hend S. Al‐Khalifa",
+        "Maisa Obeid",
+        "Mohamed Jemni",
+        "Tawfik Al-Hadhrami",
+        "Zehra Altınay"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s44230-024-00061-7",
+      "title": "Error Analysis of Pretrained Language Models (PLMs) in English-to-Arabic Machine Translation",
+      "year": 2024,
+      "date": "2024-02-05",
+      "venue": "Human-Centric Intelligent Systems",
+      "type": "journal",
+      "cites": 20,
+      "doi": "10.1007/s44230-024-00061-7",
+      "url": "https://doi.org/10.1007/s44230-024-00061-7",
+      "oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44230-024-00061-7.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Khaloud Al-Khalefah",
+        "Hesham Haroon"
+      ]
+    },
+    {
+      "key": "doi:10.3390/electronics13173574",
+      "title": "A Benchmark Evaluation of Multilingual Large Language Models for Arabic Cross-Lingual Named-Entity Recognition",
+      "year": 2024,
+      "date": "2024-09-09",
+      "venue": "Electronics",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.3390/electronics13173574",
+      "url": "https://doi.org/10.3390/electronics13173574",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-9292/13/17/3574/pdf",
+      "authors": [
+        "Mashael Al-Duwais",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2024.3450931",
+      "title": "Arabic Paraphrase Generation Using Transformer-Based Approaches",
+      "year": 2024,
+      "date": "2024-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1109/access.2024.3450931",
+      "url": "https://doi.org/10.1109/access.2024.3450931",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1109/access.2024.3450931",
+      "authors": [
+        "Noora Aref Al-Shameri",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/data9040052",
+      "title": "Natural Language Processing Patents Landscape Analysis",
+      "year": 2024,
+      "date": "2024-03-31",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.3390/data9040052",
+      "url": "https://doi.org/10.3390/data9040052",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/9/4/52/pdf?version=1711870823",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Taif AlOmar",
+        "Ghala AlOlyyan"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.dib.2024.111004",
+      "title": "Arabic paraphrased parallel synthetic dataset",
+      "year": 2024,
+      "date": "2024-10-10",
+      "venue": "Data in Brief",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1016/j.dib.2024.111004",
+      "url": "https://doi.org/10.1016/j.dib.2024.111004",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.dib.2024.111004",
+      "authors": [
+        "Noora Aref Al-Shameri",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2024.3404668",
+      "title": "Quantifying Gender Bias in Arabic Pre-Trained Language Models",
+      "year": 2024,
+      "date": "2024-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1109/access.2024.3404668",
+      "url": "https://doi.org/10.1109/access.2024.3404668",
+      "oa": true,
+      "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10537164.pdf",
+      "authors": [
+        "Wafa Alrajhi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s10209-024-01140-z",
+      "title": "Accessibility barriers in arabic news websites for visually impaired users: a mixed-method evaluation approach",
+      "year": 2024,
+      "date": "2024-10-09",
+      "venue": "Universal Access in the Information Society",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1007/s10209-024-01140-z",
+      "url": "https://doi.org/10.1007/s10209-024-01140-z",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Duaa AlSaeed",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa",
+        "Nadia Al-Ghreimil"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2408.12362",
+      "title": "CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset",
+      "year": 2024,
+      "date": "2024-08-22",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 1,
+      "doi": "10.48550/arxiv.2408.12362",
+      "url": "https://doi.org/10.48550/arxiv.2408.12362",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2408.12362",
+      "authors": [
+        "Mashael Al-Duwais",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.63317/2k438wqndxce",
+      "title": "Meta-Evaluation of Sentence Simplification Metrics",
+      "year": 2024,
+      "date": "2024-05-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.63317/2k438wqndxce",
+      "url": "https://doi.org/10.63317/2k438wqndxce",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Noof Abdullah Alfear",
+        "Dimitar Kazakov",
+        "Hend Al-Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.20944/preprints202411.0248.v1",
+      "title": "Arabic Temporal Common Sense Understanding",
+      "year": 2024,
+      "date": "2024-11-05",
+      "venue": "Preprints.org",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.20944/preprints202411.0248.v1",
+      "url": "https://doi.org/10.20944/preprints202411.0248.v1",
+      "oa": true,
+      "oa_url": "https://doi.org/10.20944/preprints202411.0248.v1",
+      "authors": [
+        "Reem Alqifari",
+        "Hend S. Al‐Khalifa",
+        "Simon O’Keefe"
+      ]
+    },
+    {
+      "key": "doi:10.3390/computation13010005",
+      "title": "Arabic Temporal Common Sense Understanding",
+      "year": 2024,
+      "date": "2024-12-28",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.3390/computation13010005",
+      "url": "https://doi.org/10.3390/computation13010005",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/1/5/pdf?version=1735377191",
+      "authors": [
+        "Reem Alqifari",
+        "Hend S. Al‐Khalifa",
+        "Simon O’Keefe"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2412.15259",
+      "title": "GLARE: Google Apps Arabic Reviews Dataset",
+      "year": 2024,
+      "date": "2024-12-16",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2412.15259",
+      "url": "https://doi.org/10.48550/arxiv.2412.15259",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2412.15259",
+      "authors": [
+        "Fatima AlGhamdi",
+        "Reem Mohammed",
+        "Hend S. Al‐Khalifa",
+        "Areeb Alowisheq"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2407.00146",
+      "title": "The Qiyas Benchmark: Measuring ChatGPT Mathematical and Language Understanding in Arabic",
+      "year": 2024,
+      "date": "2024-06-28",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.48550/arxiv.2407.00146",
+      "url": "https://doi.org/10.48550/arxiv.2407.00146",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2407.00146",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3594806.3596572",
+      "title": "Towards Designing a ChatGPT Conversational Companion for Elderly People",
+      "year": 2023,
+      "date": "2023-07-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 64,
+      "doi": "10.1145/3594806.3596572",
+      "url": "https://doi.org/10.1145/3594806.3596572",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Abeer Alessa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s44230-023-00024-4",
+      "title": "Handwritten Arabic Character Recognition for Children Writing Using Convolutional Neural Network and Stroke Identification",
+      "year": 2023,
+      "date": "2023-05-13",
+      "venue": "Human-Centric Intelligent Systems",
+      "type": "journal",
+      "cites": 30,
+      "doi": "10.1007/s44230-023-00024-4",
+      "url": "https://doi.org/10.1007/s44230-023-00024-4",
+      "oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s44230-023-00024-4.pdf",
+      "authors": [
+        "Mais Alheraki",
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app13074225",
+      "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
+      "year": 2023,
+      "date": "2023-03-27",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 16,
+      "doi": "10.3390/app13074225",
+      "url": "https://doi.org/10.3390/app13074225",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/13/7/4225/pdf?version=1679901443",
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.3390/data8110171",
+      "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
+      "year": 2023,
+      "date": "2023-11-14",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 15,
+      "doi": "10.3390/data8110171",
+      "url": "https://doi.org/10.3390/data8110171",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/8/11/171/pdf?version=1699974341",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Fatima Alhumaidhi",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2023.3250256",
+      "title": "Intelligent Framework for Detecting Predatory Publishing Venues",
+      "year": 2023,
+      "date": "2023-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 12,
+      "doi": "10.1109/access.2023.3250256",
+      "url": "https://doi.org/10.1109/access.2023.3250256",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1109/access.2023.3250256",
+      "authors": [
+        "Wed Ateeq",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/data8100155",
+      "title": "A Data-Driven Exploration of a New Islamic Fatwas Dataset for Arabic NLP Tasks",
+      "year": 2023,
+      "date": "2023-10-19",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.3390/data8100155",
+      "url": "https://doi.org/10.3390/data8100155",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/8/10/155/pdf?version=1697687515",
+      "authors": [
+        "Ohoud Alyemny",
+        "Hend S. Al‐Khalifa",
+        "Abdulrahman Mirza"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-031-35320-8_7",
+      "title": "Arabic Privacy Policy Corpus and Classification",
+      "year": 2023,
+      "date": "2023-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 6,
+      "doi": "10.1007/978-3-031-35320-8_7",
+      "url": "https://doi.org/10.1007/978-3-031-35320-8_7",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Malak Mashaabi",
+        "Ghadi Al-Yahya",
+        "Raghad Alnashwan",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2304.09866",
+      "title": "Towards Designing a ChatGPT Conversational Companion for Elderly People",
+      "year": 2023,
+      "date": "2023-04-18",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 4,
+      "doi": "10.48550/arxiv.2304.09866",
+      "url": "https://doi.org/10.48550/arxiv.2304.09866",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2304.09866",
+      "authors": [
+        "Abeer Alessa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2304.02757",
+      "title": "The Saudi Privacy Policy Dataset",
+      "year": 2023,
+      "date": "2023-04-05",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 3,
+      "doi": "10.48550/arxiv.2304.02757",
+      "url": "https://doi.org/10.48550/arxiv.2304.02757",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2304.02757",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Malak Mashaabi",
+        "Ghadi Al-Yahya",
+        "Raghad Alnashwan"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2212.09523",
+      "title": "Natural Language Processing in Customer Service: A Systematic Review",
+      "year": 2022,
+      "date": "2022-12-16",
+      "venue": "arXiv (Cornell University)",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.48550/arxiv.2212.09523",
+      "url": "https://doi.org/10.48550/arxiv.2212.09523",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2212.09523",
+      "authors": [
+        "Malak Mashaabi",
+        "Areej Alotaibi",
+        "Hala Qudaih",
+        "Raghad Alnashwan",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.2211.02119",
+      "title": "Handwritten Arabic Character Recognition for Children Writ-ing Using Convolutional Neural Network and Stroke Identification",
+      "year": 2022,
+      "date": "2022-11-03",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 4,
+      "doi": "10.48550/arxiv.2211.02119",
+      "url": "https://doi.org/10.48550/arxiv.2211.02119",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2211.02119",
+      "authors": [
+        "Mais Alheraki",
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.18653/v1/2022.wanlp-1.17",
+      "title": "Assessing the Linguistic Knowledge in Arabic Pre-trained Language Models Using Minimal Pairs",
+      "year": 2022,
+      "date": "2022-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.18653/v1/2022.wanlp-1.17",
+      "url": "https://doi.org/10.18653/v1/2022.wanlp-1.17",
+      "oa": true,
+      "oa_url": "https://aclanthology.org/2022.wanlp-1.17.pdf",
+      "authors": [
+        "Wafa Alrajhi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.18653/v1/2022.wanlp-1.26",
+      "title": "Establishing a Baseline for Arabic Patents Classification: A Comparison of Twelve Approaches",
+      "year": 2022,
+      "date": "2022-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.18653/v1/2022.wanlp-1.26",
+      "url": "https://doi.org/10.18653/v1/2022.wanlp-1.26",
+      "oa": true,
+      "oa_url": "https://aclanthology.org/2022.wanlp-1.26.pdf",
+      "authors": [
+        "Taif AlOmar",
+        "Hend S. Al‐Khalifa",
+        "Rawan Al-Matham"
+      ]
+    },
+    {
+      "key": "doi:10.5281/zenodo.6457824",
+      "title": "GLARE: Google Apps Arabic Reviews Dataset",
+      "year": 2022,
+      "date": "2022-04-13",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.5281/zenodo.6457824",
+      "url": "https://doi.org/10.5281/zenodo.6457824",
+      "oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.6457824",
+      "authors": [
+        "Fatima AlGhamdi",
+        "Reem Mohammed",
+        "Hend S. Al‐Khalifa",
+        "Areeb Alowisheq"
+      ]
+    },
+    {
+      "key": "doi:10.5281/zenodo.6457823",
+      "title": "GLARE: Google Apps Arabic Reviews Dataset",
+      "year": 2022,
+      "date": "2022-04-13",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.5281/zenodo.6457823",
+      "url": "https://doi.org/10.5281/zenodo.6457823",
+      "oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.6457823",
+      "authors": [
+        "Fatima AlGhamdi",
+        "Reem Mohammed",
+        "Hend S. Al‐Khalifa",
+        "Areeb Alowisheq"
+      ]
+    },
+    {
+      "key": "doi:10.54455/mcn.21.06",
+      "title": "Usability Assessment of Delivery Applications for Visually Impaired People: A Case from Saudi Arabia",
+      "year": 2022,
+      "date": "2022-10-16",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.54455/mcn.21.06",
+      "url": "https://doi.org/10.54455/mcn.21.06",
+      "oa": true,
+      "oa_url": "https://nafath.mada.org.qa/wp-content/uploads/2022/10/6-Usability-Assessment-of-Delivery-Applications-for-Visually-Impaired-People-A-Case-from-Saudi-Arabia.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Bayan Albatati"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.procs.2021.05.096",
+      "title": "BERT for Arabic Topic Modeling: An Experimental Study on BERTopic Technique",
+      "year": 2021,
+      "date": "2021-01-01",
+      "venue": "Procedia Computer Science",
+      "type": "journal",
+      "cites": 184,
+      "doi": "10.1016/j.procs.2021.05.096",
+      "url": "https://doi.org/10.1016/j.procs.2021.05.096",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.procs.2021.05.096",
+      "authors": [
+        "Abeer Abuzayed",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2021/5516945",
+      "title": "Arabic Fake News Detection: Comparative Study of Neural Networks and Transformer‐Based Approaches",
+      "year": 2021,
+      "date": "2021-01-01",
+      "venue": "Complexity",
+      "type": "journal",
+      "cites": 102,
+      "doi": "10.1155/2021/5516945",
+      "url": "https://doi.org/10.1155/2021/5516945",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/complexity/2021/5516945.pdf",
+      "authors": [
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa",
+        "Heyam H. Al-Baity",
+        "Duaa AlSaeed",
+        "Amr Essam"
+      ]
+    },
+    {
+      "key": "t:sarcasm and sentiment detection in arabic tweets using bert-based models and data augmentation",
+      "title": "Sarcasm and Sentiment Detection In Arabic Tweets Using BERT-based Models and Data Augmentation",
+      "year": 2021,
+      "date": "2021-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 25,
+      "doi": "",
+      "url": "https://www.aclweb.org/anthology/2021.wanlp-1.38.pdf",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Abeer Abuzayed",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2021/6627434",
+      "title": "SynoExtractor: A Novel Pipeline for Arabic Synonym Extraction Using Word2Vec Word Embeddings",
+      "year": 2021,
+      "date": "2021-01-01",
+      "venue": "Complexity",
+      "type": "journal",
+      "cites": 16,
+      "doi": "10.1155/2021/6627434",
+      "url": "https://doi.org/10.1155/2021/6627434",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/complexity/2021/6627434.pdf",
+      "authors": [
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app11188607",
+      "title": "Cognitively Driven Arabic Text Readability Assessment Using Eye-Tracking",
+      "year": 2021,
+      "date": "2021-09-16",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.3390/app11188607",
+      "url": "https://doi.org/10.3390/app11188607",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/11/18/8607/pdf?version=1631874337",
+      "authors": [
+        "Ibtehal Baazeem",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3447735",
+      "title": "A panoramic survey of natural language processing in the Arab world",
+      "year": 2021,
+      "date": "2021-03-22",
+      "venue": "Communications of the ACM",
+      "type": "preprint",
+      "cites": 7,
+      "doi": "10.1145/3447735",
+      "url": "https://doi.org/10.1145/3447735",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2011.12631",
+      "authors": [
+        "Kareem Darwish",
+        "Nizar Habash",
+        "Mourad Abbas",
+        "Hend S. Al‐Khalifa",
+        "Huseein T. Al-Natsheh",
+        "Houda Bouamor",
+        "Karim Bouzoubaa",
+        "Violetta Cavalli‐Sforza",
+        "Samhaa R. El-Beltagy",
+        "Wassim El-Hajj",
+        "Mustafa Jarrar",
+        "Hamdy Mubarak"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ialp54817.2021.9675147",
+      "title": "An Exploratory Study to Extract Analogies from Arabic Text",
+      "year": 2021,
+      "date": "2021-12-11",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/ialp54817.2021.9675147",
+      "url": "https://doi.org/10.1109/ialp54817.2021.9675147",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1142/s271755452150003x",
+      "title": "Reading Process of Arab Children: An Eye-Tracking Study on Saudi Elementary Students",
+      "year": 2021,
+      "date": "2021-03-01",
+      "venue": "International Journal of Asian Language Processing",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1142/s271755452150003x",
+      "url": "https://doi.org/10.1142/s271755452150003x",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Khaloud Al-Khalefah",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3450329.3476850",
+      "title": "Tadawl",
+      "year": 2021,
+      "date": "2021-09-16",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1145/3450329.3476850",
+      "url": "https://doi.org/10.1145/3450329.3476850",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Rawan Al-Matham"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3485557.3485573",
+      "title": "Towards an Understanding of Arab Women Researchers Contribution in Arabic NLP",
+      "year": 2021,
+      "date": "2021-08-25",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1145/3485557.3485573",
+      "url": "https://doi.org/10.1145/3485557.3485573",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Daliyah Hesham Alzeer",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app10238614",
+      "title": "A Deep Learning Approach for Automatic Hate Speech Detection in the Saudi Twittersphere",
+      "year": 2020,
+      "date": "2020-12-01",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 130,
+      "doi": "10.3390/app10238614",
+      "url": "https://doi.org/10.3390/app10238614",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/10/23/8614/pdf?version=1606835354",
+      "authors": [
+        "Raghad Alshalan",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.2196/22609",
+      "title": "Detection of Hate Speech in COVID-19–Related Tweets in the Arab Region: Deep Learning and Topic Modeling Approach",
+      "year": 2020,
+      "date": "2020-11-16",
+      "venue": "Journal of Medical Internet Research",
+      "type": "journal",
+      "cites": 81,
+      "doi": "10.2196/22609",
+      "url": "https://doi.org/10.2196/22609",
+      "oa": true,
+      "oa_url": "https://www.jmir.org/2020/12/e22609/PDF",
+      "authors": [
+        "Raghad Alshalan",
+        "Hend S. Al‐Khalifa",
+        "Duaa AlSaeed",
+        "Heyam H. Al-Baity",
+        "Shahad Alshalan"
+      ]
+    },
+    {
+      "key": "t:overview of osact4 arabic offensive language detection shared task",
+      "title": "Overview of OSACT4 Arabic Offensive Language Detection Shared Task",
+      "year": 2020,
+      "date": "2020-05-01",
+      "venue": "Edinburgh Research Explorer (University of Edinburgh)",
+      "type": "journal",
+      "cites": 55,
+      "doi": "",
+      "url": "https://www.research.ed.ac.uk/en/publications/61d93e1d-580c-4a19-a044-2b7f67033eba",
+      "oa": true,
+      "oa_url": "https://www.pure.ed.ac.uk/ws/files/144563707/Overview_of_OSACT4_MUBARAK_DOA13032020_AFV.pdf",
+      "authors": [
+        "Hamdy Mubarak",
+        "Kareem Darwish",
+        "Walid Magdy",
+        "Tamer Elsayed",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app10175984",
+      "title": "Deep-Learning-Based Models for Pain Recognition: A Systematic Review",
+      "year": 2020,
+      "date": "2020-08-29",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 39,
+      "doi": "10.3390/app10175984",
+      "url": "https://doi.org/10.3390/app10175984",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/10/17/5984/pdf",
+      "authors": [
+        "Rasha M. Al‐Eidan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.3390/su12135320",
+      "title": "Teaching Programming to Students with Vision Impairment: Impact of Tactile Teaching Strategies on Student’s Achievements and Perceptions",
+      "year": 2020,
+      "date": "2020-07-01",
+      "venue": "Sustainability",
+      "type": "journal",
+      "cites": 22,
+      "doi": "10.3390/su12135320",
+      "url": "https://doi.org/10.3390/su12135320",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2071-1050/12/13/5320/pdf?version=1594132289",
+      "authors": [
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa",
+        "Duaa AlSaeed"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app10155279",
+      "title": "Error Detection for Arabic Text Using Neural Sequence Labeling",
+      "year": 2020,
+      "date": "2020-07-30",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 19,
+      "doi": "10.3390/app10155279",
+      "url": "https://doi.org/10.3390/app10155279",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/10/15/5279/pdf?version=1596447064",
+      "authors": [
+        "Nora Madi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-030-58796-3_23",
+      "title": "Move-IT: A Virtual Reality Game for Upper Limb Stroke Rehabilitation Patients",
+      "year": 2020,
+      "date": "2020-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 17,
+      "doi": "10.1007/978-3-030-58796-3_23",
+      "url": "https://doi.org/10.1007/978-3-030-58796-3_23",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Maram AlMousa",
+        "Hend S. Al‐Khalifa",
+        "Hana Alsobayel"
+      ]
+    },
+    {
+      "key": "t:hate speech detection in saudi twittersphere: a deep learning approach",
+      "title": "Hate Speech Detection in Saudi Twittersphere: A Deep Learning Approach",
+      "year": 2020,
+      "date": "2020-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "",
+      "url": "https://www.aclweb.org/anthology/2020.wanlp-1.2/",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Raghad Alshaalan",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ialp51396.2020.9310456",
+      "title": "Comparative Analysis of Nine Arabic Stemmers on Microblog Information Retrieval",
+      "year": 2020,
+      "date": "2020-12-04",
+      "venue": "",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.1109/ialp51396.2020.9310456",
+      "url": "https://doi.org/10.1109/ialp51396.2020.9310456",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Amal Almazrua",
+        "Manal Almazrua",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app10217528",
+      "title": "Accessibility Evaluation of Saudi E-Government Systems for Teachers: A Visually Impaired User’s Perspective",
+      "year": 2020,
+      "date": "2020-10-26",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.3390/app10217528",
+      "url": "https://doi.org/10.3390/app10217528",
+      "oa": true,
+      "oa_url": "https://doi.org/10.3390/app10217528",
+      "authors": [
+        "Duaa AlSaeed",
+        "Hend S. Al‐Khalifa",
+        "Hind M. Alotaibi",
+        "Raghad Alshalan",
+        "Nourah Almutlaq",
+        "Shahad Alshalan",
+        "Hind Taleb Bintaleb",
+        "Areej Mansour AlSahow"
+      ]
+    },
+    {
+      "key": "doi:10.20944/preprints202008.0040.v1",
+      "title": "Deep Learning-Based Models for Pain Recognition: A Systematic Review",
+      "year": 2020,
+      "date": "2020-08-02",
+      "venue": "Preprints.org",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.20944/preprints202008.0040.v1",
+      "url": "https://doi.org/10.20944/preprints202008.0040.v1",
+      "oa": true,
+      "oa_url": "https://www.preprints.org/manuscript/202008.0040/v1/download",
+      "authors": [
+        "Rasha M. Al‐Eidan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.3390/app10207092",
+      "title": "A Framework for Enhancing Big Data Integration in Biological Domain Using Distributed Processing",
+      "year": 2020,
+      "date": "2020-10-12",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.3390/app10207092",
+      "url": "https://doi.org/10.3390/app10207092",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/10/20/7092/pdf?version=1602515950",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Miltiadis D. Lytras"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-030-60149-2_22",
+      "title": "A Low-Cost Gaze-Based Arabic Augmentative and Alternative Communication System for People with Severe Speech and Motor Impairments",
+      "year": 2020,
+      "date": "2020-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-3-030-60149-2_22",
+      "url": "https://doi.org/10.1007/978-3-030-60149-2_22",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rabia Jafri",
+        "Ameera M. Almasoud",
+        "Reema Mohammed Taj Alshammari",
+        "Shahad Eid Mohammed Alosaimi",
+        "Raghad Talal Mohammed Alhamad",
+        "Amzan Abdullah Saleh Aldowighri"
+      ]
+    },
+    {
+      "key": "doi:10.3217/jucs-021-10-1307",
+      "title": "MLab: A Mobile Language Learning Lab System for Language Learners",
+      "year": 2020,
+      "date": "2020-04-07",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.3217/jucs-021-10-1307",
+      "url": "https://doi.org/10.3217/jucs-021-10-1307",
+      "oa": true,
+      "oa_url": "https://zenodo.org/record/5505651",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hind M. Alotaibi",
+        "Reem A. Alamer"
+      ]
+    },
+    {
+      "key": "doi:10.2196/preprints.22609",
+      "title": "Detection of Hate Speech in COVID-19–Related Tweets in the Arab Region: Deep Learning and Topic Modeling Approach (Preprint)",
+      "year": 2020,
+      "date": "2020-07-17",
+      "venue": "",
+      "type": "preprint",
+      "cites": 0,
+      "doi": "10.2196/preprints.22609",
+      "url": "https://doi.org/10.2196/preprints.22609",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Raghad Alshalan",
+        "Hend S. Al‐Khalifa",
+        "Duaa AlSaeed",
+        "Heyam H. Al-Baity",
+        "Shahad Alshalan"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-030-42835-8_16",
+      "title": "Improving Arabic Microblog Retrieval with Distributed Representations",
+      "year": 2020,
+      "date": "2020-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-3-030-42835-8_16",
+      "url": "https://doi.org/10.1007/978-3-030-42835-8_16",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Shahad Alshalan",
+        "Raghad Alshalan",
+        "Hend S. Al‐Khalifa",
+        "Reem Suwaileh",
+        "Tamer Elsayed"
+      ]
+    },
+    {
+      "key": "doi:10.1142/s2717554520500137",
+      "title": "Qillah: A Morphological Extension for Identifying Plural-of-Paucity Arabic Words",
+      "year": 2020,
+      "date": "2020-09-01",
+      "venue": "International Journal of Asian Language Processing",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1142/s2717554520500137",
+      "url": "https://doi.org/10.1142/s2717554520500137",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Ahlam Fuad",
+        "Amany bin Gahman",
+        "Rasha Alenezy",
+        "Wed Ateeq",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/educon.2019.8725049",
+      "title": "Teaching Mobile Application Development in 20 Hours for High School Girls: A Web-Based Approach",
+      "year": 2019,
+      "date": "2019-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1109/educon.2019.8725049",
+      "url": "https://doi.org/10.1109/educon.2019.8725049",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hadil R. Faisal",
+        "Ghadah N. Al-Gumaei"
+      ]
+    },
+    {
+      "key": "doi:10.26615/issn.2603-2821.2019_011",
+      "title": "Question Answering Systems Approaches and Challenges",
+      "year": 2019,
+      "date": "2019-09-15",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.26615/issn.2603-2821.2019_011",
+      "url": "https://doi.org/10.26615/issn.2603-2821.2019_011",
+      "oa": true,
+      "oa_url": "https://doi.org/10.26615/issn.2603-2821.2019_011",
+      "authors": [
+        "Reem Alqifari"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2019/6750296",
+      "title": "Handling Big Data Scalability in Biological Domain Using Parallel and Distributed Processing: A Case of Three Biological Semantic Similarity Measures",
+      "year": 2019,
+      "date": "2019-01-27",
+      "venue": "BioMed Research International",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1155/2019/6750296",
+      "url": "https://doi.org/10.1155/2019/6750296",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/bmri/2019/6750296.pdf",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2019.2920726",
+      "title": "UMSG: An Extended Model to Investigate the Use of Mobile Social Games",
+      "year": 2019,
+      "date": "2019-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1109/access.2019.2920726",
+      "url": "https://doi.org/10.1109/access.2019.2920726",
+      "oa": true,
+      "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08730330.pdf",
+      "authors": [
+        "Nora Almuhanna",
+        "Hind M. Alotaibi",
+        "Rawan Al-Matham",
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/access.2019.2925011",
+      "title": "A System for Decoding and Coloring Arabic Text for Language Learners",
+      "year": 2019,
+      "date": "2019-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/access.2019.2925011",
+      "url": "https://doi.org/10.1109/access.2019.2925011",
+      "oa": true,
+      "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/8600701/08746116.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1108/dta-01-2019-0001",
+      "title": "Grammar checking and relation extraction in text: approaches, techniques and open challenges",
+      "year": 2019,
+      "date": "2019-06-14",
+      "venue": "Data Technologies and Applications",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1108/dta-01-2019-0001",
+      "url": "https://doi.org/10.1108/dta-01-2019-0001",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Madi",
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/cais.2019.8769488",
+      "title": "HealthSEA: Towards Improving the Search Engine of KAAHE Arabic Health Encyclopedia",
+      "year": 2019,
+      "date": "2019-05-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/cais.2019.8769488",
+      "url": "https://doi.org/10.1109/cais.2019.8769488",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Madi",
+        "Nourah Almutlaq",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-030-34058-2_19",
+      "title": "Towards a Story-Based Search Engine for Arabic-Speaking Children",
+      "year": 2019,
+      "date": "2019-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-3-030-34058-2_19",
+      "url": "https://doi.org/10.1007/978-3-030-34058-2_19",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rawan Al-Matham",
+        "Wed Ateeq",
+        "Reem Alotaibi",
+        "Sarah Omar Alabdulkarim",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2018/5853917",
+      "title": "A Review of Wrist-Worn Wearable: Sensors, Models, and Challenges",
+      "year": 2018,
+      "date": "2018-12-19",
+      "venue": "Journal of Sensors",
+      "type": "journal",
+      "cites": 61,
+      "doi": "10.1155/2018/5853917",
+      "url": "https://doi.org/10.1155/2018/5853917",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/js/2018/5853917.pdf",
+      "authors": [
+        "Rasha M. Al‐Eidan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.48550/arxiv.1805.08533",
+      "title": "Sentiment Analysis of Arabic Tweets: Feature Engineering and A Hybrid Approach",
+      "year": 2018,
+      "date": "2018-05-22",
+      "venue": "arXiv (Cornell University)",
+      "type": "preprint",
+      "cites": 27,
+      "doi": "10.48550/arxiv.1805.08533",
+      "url": "https://doi.org/10.48550/arxiv.1805.08533",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/1805.08533",
+      "authors": [
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Yousef Al-Ohali"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.procs.2018.10.482",
+      "title": "A Proposed Arabic Grammatical Error Detection Tool Based on Deep Learning",
+      "year": 2018,
+      "date": "2018-01-01",
+      "venue": "Procedia Computer Science",
+      "type": "journal",
+      "cites": 21,
+      "doi": "10.1016/j.procs.2018.10.482",
+      "url": "https://doi.org/10.1016/j.procs.2018.10.482",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.procs.2018.10.482",
+      "authors": [
+        "Nora Madi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2018.8847020",
+      "title": "Grammatical Error Checking Systems: A Review of Approaches and Emerging Directions",
+      "year": 2018,
+      "date": "2018-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 19,
+      "doi": "10.1109/icdim.2018.8847020",
+      "url": "https://doi.org/10.1109/icdim.2018.8847020",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Madi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/technologies7010002",
+      "title": "RabbitRun: An Immersive Virtual Reality Game for Promoting Physical Activities Among People with Low Back Pain",
+      "year": 2018,
+      "date": "2018-12-20",
+      "venue": "Technologies",
+      "type": "journal",
+      "cites": 17,
+      "doi": "10.3390/technologies7010002",
+      "url": "https://doi.org/10.3390/technologies7010002",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2227-7080/7/1/2/pdf?version=1545305729",
+      "authors": [
+        "Amal Alazba",
+        "Hend S. Al‐Khalifa",
+        "Hana Alsobayel"
+      ]
+    },
+    {
+      "key": "doi:10.1186/s12913-018-2944-x",
+      "title": "Readability of written medicine information materials in Arabic language: expert and consumer evaluation",
+      "year": 2018,
+      "date": "2018-02-27",
+      "venue": "BMC Health Services Research",
+      "type": "journal",
+      "cites": 14,
+      "doi": "10.1186/s12913-018-2944-x",
+      "url": "https://doi.org/10.1186/s12913-018-2944-x",
+      "oa": true,
+      "oa_url": "https://bmchealthservres.biomedcentral.com/counter/pdf/10.1186/s12913-018-2944-x",
+      "authors": [
+        "Sinaa Al-Aqeel",
+        "Norah O. Abanmy",
+        "Abeer Aldayel",
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Mona Diab"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2018/7528278",
+      "title": "A Systematic Review of Modifications and Validation Methods for the Extension of the Keystroke-Level Model",
+      "year": 2018,
+      "date": "2018-12-05",
+      "venue": "Advances in Human-Computer Interaction",
+      "type": "journal",
+      "cites": 12,
+      "doi": "10.1155/2018/7528278",
+      "url": "https://doi.org/10.1155/2018/7528278",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/ahci/2018/7528278.pdf",
+      "authors": [
+        "Shiroq Al-Megren",
+        "Joharah Khabti",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.dib.2018.11.146",
+      "title": "A7׳ta: Data on a monolingual Arabic parallel corpus for grammar checking",
+      "year": 2018,
+      "date": "2018-12-04",
+      "venue": "Data in Brief",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.1016/j.dib.2018.11.146",
+      "url": "https://doi.org/10.1016/j.dib.2018.11.146",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.dib.2018.11.146",
+      "authors": [
+        "Nora Madi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.20944/preprints201810.0677.v1",
+      "title": "RabbitRun: An Immersive Virtual Reality Game for Promoting Physical Activities Among People with Low Back Pain &lt;sup&gt;&amp;dagger;&lt;/sup&gt;",
+      "year": 2018,
+      "date": "2018-10-29",
+      "venue": "Preprints.org",
+      "type": "preprint",
+      "cites": 8,
+      "doi": "10.20944/preprints201810.0677.v1",
+      "url": "https://doi.org/10.20944/preprints201810.0677.v1",
+      "oa": true,
+      "oa_url": "https://www.preprints.org/manuscript/201810.0677/v1/download",
+      "authors": [
+        "Amal Alazba",
+        "Hend S. Al‐Khalifa",
+        "Hana Alsobayel"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3197768.3197780",
+      "title": "A Proposed Game for Promoting Physical Activities among People with Low Back Pain using Virtual Reality",
+      "year": 2018,
+      "date": "2018-06-26",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1145/3197768.3197780",
+      "url": "https://doi.org/10.1145/3197768.3197780",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Amal Alazba",
+        "Hend S. Al‐Khalifa",
+        "Hana Alsobayel"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3241815.3241866",
+      "title": "Rejuvenation of the IT Program at King Saud University",
+      "year": 2018,
+      "date": "2018-09-14",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1145/3241815.3241866",
+      "url": "https://doi.org/10.1145/3241815.3241866",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Heyam H. Al-Baity",
+        "Duaa AlSaeed",
+        "Sahar Bayoumi",
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3844/jcssp.2018.1440.1453",
+      "title": "Basma: An Interactive IoT-Based Plush Toy for Arabic-Speaking Children",
+      "year": 2018,
+      "date": "2018-11-01",
+      "venue": "Journal of Computer Science",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.3844/jcssp.2018.1440.1453",
+      "url": "https://doi.org/10.3844/jcssp.2018.1440.1453",
+      "oa": true,
+      "oa_url": "https://thescipub.com/pdf/jcssp.2018.1440.1453.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hadil R. Faisal",
+        "Shuhd M. Rushdi",
+        "Ghaida M. AlNawwar",
+        "Ghadah N. Al-Gumaei",
+        "Alaa A. Alabduljabbar"
+      ]
+    },
+    {
+      "key": "doi:10.4018/978-1-5225-7368-5.ch058",
+      "title": "Haptics-Based Systems Characteristics, Classification, and Applications",
+      "year": 2018,
+      "date": "2018-08-29",
+      "venue": "Advances in computer and electrical engineering book series",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.4018/978-1-5225-7368-5.ch058",
+      "url": "https://doi.org/10.4018/978-1-5225-7368-5.ch058",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Abeer Bayousuf",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/cais.2018.8441946",
+      "title": "Motivating Factors and Potential Deterrents of Using Wikipedia in Teaching in Higher Education",
+      "year": 2018,
+      "date": "2018-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/cais.2018.8441946",
+      "url": "https://doi.org/10.1109/cais.2018.8441946",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Sumayah Al-Rabiaah"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-94274-2_47",
+      "title": "Blind FLM Web-Based Tools for Keystroke-Level Predictive Assessment of Visually Impaired Smartphone Interaction",
+      "year": 2018,
+      "date": "2018-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-3-319-94274-2_47",
+      "url": "https://doi.org/10.1007/978-3-319-94274-2_47",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Shiroq Al-Megren",
+        "Wejdan Altamimi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.4018/ijtd.2018040101",
+      "title": "Evolution of Linked Data Application Domains From 2009 to 2015",
+      "year": 2018,
+      "date": "2018-02-16",
+      "venue": "International Journal of Technology Diffusion",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.4018/ijtd.2018040101",
+      "url": "https://doi.org/10.4018/ijtd.2018040101",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Alia Bahanshal",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ncg.2018.8593020",
+      "title": "Named Entity Recognition Using Word-Embedding Techniques for ArabicWeb16: An Empirical Study",
+      "year": 2018,
+      "date": "2018-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/ncg.2018.8593020",
+      "url": "https://doi.org/10.1109/ncg.2018.8593020",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Mashael Al-Duwais",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.procs.2017.10.094",
+      "title": "AraSenTi-Tweet: A Corpus for Arabic Sentiment Analysis of Saudi Tweets",
+      "year": 2017,
+      "date": "2017-01-01",
+      "venue": "Procedia Computer Science",
+      "type": "journal",
+      "cites": 141,
+      "doi": "10.1016/j.procs.2017.10.094",
+      "url": "https://doi.org/10.1016/j.procs.2017.10.094",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.procs.2017.10.094",
+      "authors": [
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Yousef Al-Ohali"
+      ]
+    },
+    {
+      "key": "doi:10.1002/cae.21848",
+      "title": "CHEMOTION: A gesture based chemistry virtual laboratory with leap motion",
+      "year": 2017,
+      "date": "2017-06-16",
+      "venue": "Computer Applications in Engineering Education",
+      "type": "journal",
+      "cites": 26,
+      "doi": "10.1002/cae.21848",
+      "url": "https://doi.org/10.1002/cae.21848",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2017/7507940",
+      "title": "Requirements Elicitation and Prototyping of a Fully Immersive Virtual Reality Gaming System for Upper Limb Stroke Rehabilitation in Saudi Arabia",
+      "year": 2017,
+      "date": "2017-01-01",
+      "venue": "Mobile Information Systems",
+      "type": "journal",
+      "cites": 18,
+      "doi": "10.1155/2017/7507940",
+      "url": "https://doi.org/10.1155/2017/7507940",
+      "oa": true,
+      "oa_url": "http://downloads.hindawi.com/journals/misy/2017/7507940.pdf",
+      "authors": [
+        "Maram AlMousa",
+        "Hend S. Al‐Khalifa",
+        "Hana Alsobayel"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2017.8244649",
+      "title": "Exploring NLP web APIs for building Arabic systems",
+      "year": 2017,
+      "date": "2017-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1109/icdim.2017.8244649",
+      "url": "https://doi.org/10.1109/icdim.2017.8244649",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Joharah Khabti",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-67744-6_10",
+      "title": "Blind FLM: An Enhanced Keystroke-Level Model for Visually Impaired Smartphone Interaction",
+      "year": 2017,
+      "date": "2017-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 7,
+      "doi": "10.1007/978-3-319-67744-6_10",
+      "url": "https://doi.org/10.1007/978-3-319-67744-6_10",
+      "oa": true,
+      "oa_url": "https://inria.hal.science/hal-01676160",
+      "authors": [
+        "Shiroq Al-Megren",
+        "Wejdan Altamimi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icta.2017.8336008",
+      "title": "The experience of developing Mr. saud educational system using NAO humanoid robot",
+      "year": 2017,
+      "date": "2017-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1109/icta.2017.8336008",
+      "url": "https://doi.org/10.1109/icta.2017.8336008",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Bashayer Alsalman",
+        "Deema Alnuhait",
+        "Atheer Alkhalifah",
+        "Ohoud Meldah",
+        "Sara Aloud"
+      ]
+    },
+    {
+      "key": "doi:10.4018/978-1-5225-2255-3.ch404",
+      "title": "Haptics-Based Systems Characteristics, Classification, and Applications",
+      "year": 2017,
+      "date": "2017-06-20",
+      "venue": "IGI Global eBooks",
+      "type": "book",
+      "cites": 4,
+      "doi": "10.4018/978-1-5225-2255-3.ch404",
+      "url": "https://doi.org/10.4018/978-1-5225-2255-3.ch404",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Abeer Bayousuf",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "t:sahl: a touchscreen mobile launcher for arab elderly",
+      "title": "Sahl: a touchscreen mobile launcher for Arab elderly",
+      "year": 2017,
+      "date": "2017-09-01",
+      "venue": "Journal of Multimedia",
+      "type": "journal",
+      "cites": 4,
+      "doi": "",
+      "url": "https://dblp.uni-trier.de/db/journals/jmm/jmm13.html#Al-RazganA17",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Muna Al‐Razgan",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icta.2017.8336013",
+      "title": "Requirement elicitation for a toilet training wearable watch to serve autistic children",
+      "year": 2017,
+      "date": "2017-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/icta.2017.8336013",
+      "url": "https://doi.org/10.1109/icta.2017.8336013",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Wafa Alrajhi",
+        "Sarah Alhassan",
+        "Mariah Almotlag"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3151759.3151844",
+      "title": "A crowdsourcing web-based system for reporting predatory publishers",
+      "year": 2017,
+      "date": "2017-12-04",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/3151759.3151844",
+      "url": "https://doi.org/10.1145/3151759.3151844",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rawan Al-Matham",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ithet.2017.8067793",
+      "title": "Applying the Marshmallow Challenge in a research methods course: Lessons learned",
+      "year": 2017,
+      "date": "2017-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1109/ithet.2017.8067793",
+      "url": "https://doi.org/10.1109/ithet.2017.8067793",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icta.2017.8336009",
+      "title": "Moving towards digital manufacturing in the Arab Region: A 3D printing workshop experience",
+      "year": 2017,
+      "date": "2017-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/icta.2017.8336009",
+      "url": "https://doi.org/10.1109/icta.2017.8336009",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Noha Al-Rajhi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3390/s16050707",
+      "title": "Ultra Wideband Indoor Positioning Technologies: Analysis and Recent Advances",
+      "year": 2016,
+      "date": "2016-05-16",
+      "venue": "Sensors",
+      "type": "journal",
+      "cites": 1111,
+      "doi": "10.3390/s16050707",
+      "url": "https://doi.org/10.3390/s16050707",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/1424-8220/16/5/707/pdf?version=1463639532",
+      "authors": [
+        "Abdulrahman Alarifi",
+        "AbdulMalik S. Al‐Salman",
+        "Mansour Alsaleh",
+        "Ahmad Alnafessah",
+        "Suheer Al-Hadhrami",
+        "Mai Al-Ammar",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s10209-016-0495-7",
+      "title": "Revisiting the accessibility of Saudi Arabia government websites",
+      "year": 2016,
+      "date": "2016-09-16",
+      "venue": "Universal Access in the Information Society",
+      "type": "journal",
+      "cites": 67,
+      "doi": "10.1007/s10209-016-0495-7",
+      "url": "https://doi.org/10.1007/s10209-016-0495-7",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Ibtehal Baazeem",
+        "Reem Alamer"
+      ]
+    },
+    {
+      "key": "doi:10.18653/v1/p16-1066",
+      "title": "AraSenTi: Large-Scale Twitter-Specific Arabic Sentiment Lexicons",
+      "year": 2016,
+      "date": "2016-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 60,
+      "doi": "10.18653/v1/p16-1066",
+      "url": "https://doi.org/10.18653/v1/p16-1066",
+      "oa": true,
+      "oa_url": "https://www.aclweb.org/anthology/P16-1066.pdf",
+      "authors": [
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.chb.2016.02.028",
+      "title": "The next generation of language labs: Can mobiles help? A case study",
+      "year": 2016,
+      "date": "2016-02-18",
+      "venue": "Computers in Human Behavior",
+      "type": "journal",
+      "cites": 19,
+      "doi": "10.1016/j.chb.2016.02.028",
+      "url": "https://doi.org/10.1016/j.chb.2016.02.028",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hind M. Alotaibi",
+        "Reem A. Alamer",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1177/155014776152342",
+      "title": "Developing an Ultra Wideband Indoor Navigation System for Visually Impaired People",
+      "year": 2016,
+      "date": "2016-07-01",
+      "venue": "International Journal of Distributed Sensor Networks",
+      "type": "journal",
+      "cites": 14,
+      "doi": "10.1177/155014776152342",
+      "url": "https://doi.org/10.1177/155014776152342",
+      "oa": true,
+      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/155014776152342",
+      "authors": [
+        "Ahmad Alnafessah",
+        "Mai Al-Ammar",
+        "Suheer Al-Hadhrami",
+        "AbdulMalik S. Al‐Salman",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.procs.2016.04.017",
+      "title": "Readability of Arabic Medicine Information Leaflets: A Machine Learning Approach",
+      "year": 2016,
+      "date": "2016-01-01",
+      "venue": "Procedia Computer Science",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.1016/j.procs.2016.04.017",
+      "url": "https://doi.org/10.1016/j.procs.2016.04.017",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.procs.2016.04.017",
+      "authors": [
+        "Sihaam Alotaibi",
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa",
+        "Sinaa Alageel",
+        "Norah O. Abanmy"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3011141.3011189",
+      "title": "A heuristic checklist for usability evaluation of Saudi government mobile applications",
+      "year": 2016,
+      "date": "2016-11-28",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1145/3011141.3011189",
+      "url": "https://doi.org/10.1145/3011141.3011189",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Bashayer Al-Twaim",
+        "Bedour AlHarbi"
+      ]
+    },
+    {
+      "key": "doi:10.1109/educon.2016.7474582",
+      "title": "Using app inventor 2 in a summer programming workshop: Improvements over previous years",
+      "year": 2016,
+      "date": "2016-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1109/educon.2016.7474582",
+      "url": "https://doi.org/10.1109/educon.2016.7474582",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. A-Ghamdi",
+        "Noha Al-Rajhi",
+        "Nouf M. Al-Onaizy",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ithet.2016.7760696",
+      "title": "A professional development workshop on advanced computing technologies for high and middle school teachers",
+      "year": 2016,
+      "date": "2016-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1109/ithet.2016.7760696",
+      "url": "https://doi.org/10.1109/ithet.2016.7760696",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa",
+        "Sharefah A. Al-Ghamdi",
+        "Nouf M. Al-Onaizy",
+        "Noha Al-Rajhi",
+        "Wed Al-Ateeq",
+        "Bashayer Al-Habeeb"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3011141.3011211",
+      "title": "A proposed checklist for the technical maturity of open government data",
+      "year": 2016,
+      "date": "2016-11-28",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1145/3011141.3011211",
+      "url": "https://doi.org/10.1145/3011141.3011211",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nouf Alromaih",
+        "Hend Albassam",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.63317/3fwynhvmk5mq",
+      "title": "MADAD: A Readability Annotation Tool for Arabic Text",
+      "year": 2016,
+      "date": "2016-05-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.63317/3fwynhvmk5mq",
+      "url": "https://doi.org/10.63317/3fwynhvmk5mq",
+      "oa": true,
+      "oa_url": "https://doi.org/10.63317/3fwynhvmk5mq",
+      "authors": [
+        "Nora Al-Twairesh",
+        "Abeer Aldayel",
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Sinaa Alageel",
+        "Norah O. Abanmy",
+        "Nouf AlShenaifi"
+      ]
+    },
+    {
+      "key": "doi:10.1108/ijwis-11-2015-0037",
+      "title": "Enhancing web accessibility by implementing context aware proxy",
+      "year": 2016,
+      "date": "2016-06-20",
+      "venue": "International Journal of Web Information Systems",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1108/ijwis-11-2015-0037",
+      "url": "https://doi.org/10.1108/ijwis-11-2015-0037",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3011141.3011214",
+      "title": "A hands-on approach to the web of things",
+      "year": 2016,
+      "date": "2016-11-28",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1145/3011141.3011214",
+      "url": "https://doi.org/10.1145/3011141.3011214",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Wed Al-Ateeq",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-40542-1_76",
+      "title": "Design and Implementation of an NFC Food Labeler for Smart Healthcare",
+      "year": 2016,
+      "date": "2016-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 2,
+      "doi": "10.1007/978-3-319-40542-1_76",
+      "url": "https://doi.org/10.1007/978-3-319-40542-1_76",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Yara Al-Tehini",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-41267-2_83",
+      "title": "EasyTrans: Accessible Translation System for Blind Translators",
+      "year": 2016,
+      "date": "2016-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 2,
+      "doi": "10.1007/978-3-319-41267-2_83",
+      "url": "https://doi.org/10.1007/978-3-319-41267-2_83",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Dina Al-Bassam",
+        "Hessah Alotaibi",
+        "Samira Alotaibi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/3011141.3011188",
+      "title": "A web-based system and web service for coloring and decoding Arabic text for Arabic learners",
+      "year": 2016,
+      "date": "2016-11-28",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1145/3011141.3011188",
+      "url": "https://doi.org/10.1145/3011141.3011188",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Afnan Alfaadhel",
+        "Daniah Albulikhi",
+        "Lamya Alrakhes",
+        "Nada Almugren",
+        "Sara Alqubaisi",
+        "Muna A. Muhaureq"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2016.7829759",
+      "title": "Defining requirements for color-coding text software in teaching of Arabic",
+      "year": 2016,
+      "date": "2016-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/icdim.2016.7829759",
+      "url": "https://doi.org/10.1109/icdim.2016.7829759",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Muna A. Muhaureq"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2837185.2843850",
+      "title": "Advancements in web accessibility evaluation methods",
+      "year": 2015,
+      "date": "2015-12-11",
+      "venue": "",
+      "type": "journal",
+      "cites": 36,
+      "doi": "10.1145/2837185.2843850",
+      "url": "https://doi.org/10.1145/2837185.2843850",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Ibtehal Baazeem",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/econf.2015.27",
+      "title": "Programming Unplugged: Bridging CS Unplugged Activities Gap for Learning Key Programming Concepts",
+      "year": 2015,
+      "date": "2015-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 22,
+      "doi": "10.1109/econf.2015.27",
+      "url": "https://doi.org/10.1109/econf.2015.27",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Reem A. Alamer",
+        "Wejdan A. Al-Doweesh",
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2015.17",
+      "title": "Using NAO Humanoid Robot in Kindergarten: A Proposed System",
+      "year": 2015,
+      "date": "2015-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 21,
+      "doi": "10.1109/icalt.2015.17",
+      "url": "https://doi.org/10.1109/icalt.2015.17",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Atheer Alkhalifah",
+        "Bashayer Alsalman",
+        "Deema Alnuhait",
+        "Ohoud Meldah",
+        "Sara Aloud",
+        "Hend S. Al‐Khalifa",
+        "Hind M. Alotaibi"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2015.7381867",
+      "title": "Recent developments in data mining applications and techniques",
+      "year": 2015,
+      "date": "2015-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 20,
+      "doi": "10.1109/icdim.2015.7381867",
+      "url": "https://doi.org/10.1109/icdim.2015.7381867",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1108/ijpcc-09-2015-0033",
+      "title": "The accessibility and usage of smartphones by Arab-speaking visually impaired people",
+      "year": 2015,
+      "date": "2015-11-02",
+      "venue": "International Journal of Pervasive Computing and Communications",
+      "type": "journal",
+      "cites": 14,
+      "doi": "10.1108/ijpcc-09-2015-0033",
+      "url": "https://doi.org/10.1108/ijpcc-09-2015-0033",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.18653/v1/w15-3214",
+      "title": "Arib$@$QALB-2015 Shared Task: A Hybrid Cascade Model for Arabic Spelling Error Detection and Correction",
+      "year": 2015,
+      "date": "2015-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.18653/v1/w15-3214",
+      "url": "https://doi.org/10.18653/v1/w15-3214",
+      "oa": true,
+      "oa_url": "https://www.aclweb.org/anthology/W15-3214.pdf",
+      "authors": [
+        "Nouf AlShenaifi",
+        "Rehab AlNefie",
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.4018/ijtd.2015010103",
+      "title": "On the Analysis of Twitter Spam Accounts in Saudi Arabia",
+      "year": 2015,
+      "date": "2015-01-01",
+      "venue": "International Journal of Technology Diffusion",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.4018/ijtd.2015010103",
+      "url": "https://doi.org/10.4018/ijtd.2015010103",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/acling.2015.23",
+      "title": "Towards Analyzing Saudi Tweets",
+      "year": 2015,
+      "date": "2015-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.1109/acling.2015.23",
+      "url": "https://doi.org/10.1109/acling.2015.23",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2837126.2837141",
+      "title": "UWB Indoor Tracking System for Visually Impaired People",
+      "year": 2015,
+      "date": "2015-12-11",
+      "venue": "",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1145/2837126.2837141",
+      "url": "https://doi.org/10.1145/2837126.2837141",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Suheer Al-Hadhrami",
+        "Ahmad Alnafessah",
+        "Mai Al-Ammar",
+        "Abdulrahman Alarifi",
+        "Hend S. Al‐Khalifa",
+        "Mansour Alsaleh"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2015/639787",
+      "title": "A New Hybrid Algorithm to Solve Winner Determination Problem in Multiunit Double Internet Auction",
+      "year": 2015,
+      "date": "2015-01-01",
+      "venue": "Mathematical Problems in Engineering",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1155/2015/639787",
+      "url": "https://doi.org/10.1155/2015/639787",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/mpe/2015/639787.pdf",
+      "authors": [
+        "Mourad Ykhlef",
+        "Reem Alqifari"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2015.46",
+      "title": "Making Linear Equations Accessible for Visually Impaired Students Using 3D Printing",
+      "year": 2015,
+      "date": "2015-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1109/icalt.2015.46",
+      "url": "https://doi.org/10.1109/icalt.2015.46",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Noha Al-Rajhi",
+        "Amal Alabdulkarim",
+        "Hend S. Al‐Khalifa",
+        "Hind M. Alotaibi"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2015.7381856",
+      "title": "Evaluating Arabic Text-to-Speech synthesizers for mobile phones",
+      "year": 2015,
+      "date": "2015-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/icdim.2015.7381856",
+      "url": "https://doi.org/10.1109/icdim.2015.7381856",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend AlRouqi",
+        "Abdulrahman Alarifi",
+        "Ahmad Alnafessah",
+        "Suheer Al-Hadhrami",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Mai Al-Ammar"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2015.13",
+      "title": "L3MS: A Lightweight Language Learning Management System Using Mobile Web Technologies",
+      "year": 2015,
+      "date": "2015-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1109/icalt.2015.13",
+      "url": "https://doi.org/10.1109/icalt.2015.13",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Reem A. Alamer",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2837185.2837265",
+      "title": "Towards accessible web browsing for visually impaired people using Google Glass",
+      "year": 2015,
+      "date": "2015-12-11",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1145/2837185.2837265",
+      "url": "https://doi.org/10.1145/2837185.2837265",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/cw.2014.41",
+      "title": "Comparative Survey of Indoor Positioning Technologies, Techniques, and Algorithms",
+      "year": 2014,
+      "date": "2014-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 164,
+      "doi": "10.1109/cw.2014.41",
+      "url": "https://doi.org/10.1109/cw.2014.41",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Mai Al-Ammar",
+        "Suheer Al-Hadhrami",
+        "AbdulMalik S. Al‐Salman",
+        "Abdulrahman Alarifi",
+        "Hend S. Al‐Khalifa",
+        "Ahmad Alnafessah",
+        "Mansour Alsaleh"
+      ]
+    },
+    {
+      "key": "doi:10.1109/aiccsa.2014.7073192",
+      "title": "Subjectivity and sentiment analysis of Arabic: Trends and challenges",
+      "year": 2014,
+      "date": "2014-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 59,
+      "doi": "10.1109/aiccsa.2014.7073192",
+      "url": "https://doi.org/10.1109/aiccsa.2014.7073192",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Al-Twairesh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-08596-8_22",
+      "title": "A First Look into MOOCs Accessibility",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 40,
+      "doi": "10.1007/978-3-319-08596-8_22",
+      "url": "https://doi.org/10.1007/978-3-319-08596-8_22",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07668-3_40",
+      "title": "Heuristics for Evaluating the Usability of Mobile Launchers for Elderly People",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 39,
+      "doi": "10.1007/978-3-319-07668-3_40",
+      "url": "https://doi.org/10.1007/978-3-319-07668-3_40",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Muna Al‐Razgan",
+        "Hend S. Al‐Khalifa",
+        "Mona Alshahrani"
+      ]
+    },
+    {
+      "key": "doi:10.1108/oir-12-2012-0231",
+      "title": "A framework for evaluating university mobile websites",
+      "year": 2014,
+      "date": "2014-02-25",
+      "venue": "Online Information Review",
+      "type": "journal",
+      "cites": 31,
+      "doi": "10.1108/oir-12-2012-0231",
+      "url": "https://doi.org/10.1108/oir-12-2012-0231",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/educon.2014.6826086",
+      "title": "Using App Inventor and LEGO mindstorm NXT in a summer camp to attract high school girls to computing fields",
+      "year": 2014,
+      "date": "2014-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 29,
+      "doi": "10.1109/educon.2014.6826086",
+      "url": "https://doi.org/10.1109/educon.2014.6826086",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sarah Alhumoud",
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan",
+        "Auhood Alfaries"
+      ]
+    },
+    {
+      "key": "doi:10.1108/ijwis-01-2014-0001",
+      "title": "Scientometric assessment of Saudi publication productivity in computer science in the period of 1978-2012",
+      "year": 2014,
+      "date": "2014-06-10",
+      "venue": "International Journal of Web Information Systems",
+      "type": "journal",
+      "cites": 24,
+      "doi": "10.1108/ijwis-01-2014-0001",
+      "url": "https://doi.org/10.1108/ijwis-01-2014-0001",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2014/631394",
+      "title": "A System for Sentiment Analysis of Colloquial Arabic Using Human Computation",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "The Scientific World JOURNAL",
+      "type": "journal",
+      "cites": 23,
+      "doi": "10.1155/2014/631394",
+      "url": "https://doi.org/10.1155/2014/631394",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/tswj/2014/631394.pdf",
+      "authors": [
+        "Afnan S. Al-Subaihin",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07626-3_2",
+      "title": "Website Design Based on Cultures: An Investigation of Saudis, Filipinos, and Indians Government Websites’ Attributes",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 11,
+      "doi": "10.1007/978-3-319-07626-3_2",
+      "url": "https://doi.org/10.1007/978-3-319-07626-3_2",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Regina Garcia Almonte"
+      ]
+    },
+    {
+      "key": "t:a first look into moocs accessibility - the case of coursera.",
+      "title": "A First Look into MOOCs Accessibility - The Case of Coursera.",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 9,
+      "doi": "",
+      "url": "https://dblp.uni-trier.de/db/conf/icchp/icchp2014-1.html#Al-MouhAA14",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07854-0_67",
+      "title": "AraMedReader: An Arabic Medicine Identifier Using Barcodes",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 8,
+      "doi": "10.1007/978-3-319-07854-0_67",
+      "url": "https://doi.org/10.1007/978-3-319-07854-0_67",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Norah I. Al-Quwayfili",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icwoal.2014.7009189",
+      "title": "Observing online discussions in educational social networks: A case study",
+      "year": 2014,
+      "date": "2014-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1109/icwoal.2014.7009189",
+      "url": "https://doi.org/10.1109/icwoal.2014.7009189",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Amal Al-Ibrahim",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2596695.2596712",
+      "title": "Making Arabic PDF books accessible using gamification",
+      "year": 2014,
+      "date": "2014-04-07",
+      "venue": "",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1145/2596695.2596712",
+      "url": "https://doi.org/10.1145/2596695.2596712",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend AlRouqi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07854-0_49",
+      "title": "Technologies Developed for Older Adults: Trends and Directions",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 4,
+      "doi": "10.1007/978-3-319-07854-0_49",
+      "url": "https://doi.org/10.1007/978-3-319-07854-0_49",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Manahel Al-Twaim",
+        "Moneerah Al-Mohsin",
+        "Muna Al‐Razgan"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07854-0_37",
+      "title": "ACCESS: A Free and Open Source Arabic Assistive Technology Repository",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-3-319-07854-0_37",
+      "url": "https://doi.org/10.1007/978-3-319-07854-0_37",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2014.6991405",
+      "title": "How rational are people? Economic behavior based on sentiment analysis",
+      "year": 2014,
+      "date": "2014-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/icdim.2014.6991405",
+      "url": "https://doi.org/10.1109/icdim.2014.6991405",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Al Mohanna",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-07854-0_36",
+      "title": "What Color? A Real-time Color Identification Mobile Application for Visually Impaired People",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-3-319-07854-0_36",
+      "url": "https://doi.org/10.1007/978-3-319-07854-0_36",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sara A. Al-Doweesh",
+        "Felwah A. Al-Hamed",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2684200.2684330",
+      "title": "An Empirical Pilot Study of CAPTCHA Complexity Using Eye Tracking",
+      "year": 2014,
+      "date": "2014-12-04",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/2684200.2684330",
+      "url": "https://doi.org/10.1145/2684200.2684330",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2668260.2668283",
+      "title": "Soft Keyboard UX Evaluation",
+      "year": 2014,
+      "date": "2014-09-15",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/2668260.2668283",
+      "url": "https://doi.org/10.1145/2668260.2668283",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Moneerah Al-Mohsin",
+        "Manahel Al-Twaim",
+        "Muna Al‐Razgan"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2668260.2668275",
+      "title": "Towards Building Arabic Corpus For Drug Information",
+      "year": 2014,
+      "date": "2014-09-15",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/2668260.2668275",
+      "url": "https://doi.org/10.1145/2668260.2668275",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Haifa Al-Ibrahim",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.4018/978-1-4666-5888-2.ch031",
+      "title": "Context-Aware Computing for Persons with Disabilities",
+      "year": 2014,
+      "date": "2014-07-31",
+      "venue": "Advances in information quality and management",
+      "type": "book",
+      "cites": 1,
+      "doi": "10.4018/978-1-4666-5888-2.ch031",
+      "url": "https://doi.org/10.4018/978-1-4666-5888-2.ch031",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1155/2014/602745",
+      "title": "Proposed Framework for the Evaluation of Standalone Corpora Processing Systems: An Application to Arabic Corpora",
+      "year": 2014,
+      "date": "2014-01-01",
+      "venue": "The Scientific World JOURNAL",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1155/2014/602745",
+      "url": "https://doi.org/10.1155/2014/602745",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/tswj/2014/602745.pdf",
+      "authors": [
+        "Abdulmohsen Al-Thubaity",
+        "Hend S. Al‐Khalifa",
+        "Reem Alqifari",
+        "Manal Almazrua"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.jksuci.2014.10.001",
+      "title": "Introduction to the special issue on Arabic NLP: Current state and future challenges",
+      "year": 2014,
+      "date": "2014-12-01",
+      "venue": "Journal of King Saud University - Computer and Information Sciences",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1016/j.jksuci.2014.10.001",
+      "url": "https://doi.org/10.1016/j.jksuci.2014.10.001",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.jksuci.2014.10.001",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.4018/978-1-4666-5888-2.ch032",
+      "title": "Mobile Technologies for Elderly People",
+      "year": 2014,
+      "date": "2014-07-31",
+      "venue": "Advances in information quality and management",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.4018/978-1-4666-5888-2.ch032",
+      "url": "https://doi.org/10.4018/978-1-4666-5888-2.ch032",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Muna Al‐Razgan",
+        "Hend S. Al‐Khalifa",
+        "Mona Alshahrani",
+        "Hessah H. AlAjmi"
+      ]
+    },
+    {
+      "key": "doi:10.4018/ijtem.2013010105",
+      "title": "The State of Social Media in Saudi Arabia’s Higher Education",
+      "year": 2013,
+      "date": "2013-01-01",
+      "venue": "International Journal of Technology and Educational Marketing",
+      "type": "journal",
+      "cites": 53,
+      "doi": "10.4018/ijtem.2013010105",
+      "url": "https://doi.org/10.4018/ijtem.2013010105",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Regina Garcia Almonte"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2591888.2591898",
+      "title": "Evaluating the accessibility and usability of top Saudi e-government services",
+      "year": 2013,
+      "date": "2013-10-22",
+      "venue": "",
+      "type": "journal",
+      "cites": 42,
+      "doi": "10.1145/2591888.2591898",
+      "url": "https://doi.org/10.1145/2591888.2591898",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Auhood Alfaries",
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan",
+        "Mashael Al-Duwais"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-981-4585-18-7_80",
+      "title": "Educational Data Mining: A Systematic Review of the Published Literature 2006-2013",
+      "year": 2013,
+      "date": "2013-12-14",
+      "venue": "Lecture notes in electrical engineering",
+      "type": "journal",
+      "cites": 30,
+      "doi": "10.1007/978-981-4585-18-7_80",
+      "url": "https://doi.org/10.1007/978-981-4585-18-7_80",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Muna Al‐Razgan",
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s13369-013-0791-y",
+      "title": "Extracting Ontologies from Arabic Wikipedia: A Linguistic Approach",
+      "year": 2013,
+      "date": "2013-09-14",
+      "venue": "Arabian Journal for Science and Engineering",
+      "type": "journal",
+      "cites": 19,
+      "doi": "10.1007/s13369-013-0791-y",
+      "url": "https://doi.org/10.1007/s13369-013-0791-y",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Alrajebah",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icta.2013.6815285",
+      "title": "Teaching programming for blinds: A review",
+      "year": 2013,
+      "date": "2013-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.1109/icta.2013.6815285",
+      "url": "https://doi.org/10.1109/icta.2013.6815285",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nusaibah M. Al-Ratta",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/educon.2013.6530111",
+      "title": "Increasing high school girls awareness of computer science through summer camp",
+      "year": 2013,
+      "date": "2013-03-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1109/educon.2013.6530111",
+      "url": "https://doi.org/10.1109/educon.2013.6530111",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "M. Al-Duwis",
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan",
+        "Nora Alrajebah",
+        "Afnan A. Al-Subaihin"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icta.2013.6815294",
+      "title": "Investigating accessibility problems of Arabic PDF documents",
+      "year": 2013,
+      "date": "2013-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1109/icta.2013.6815294",
+      "url": "https://doi.org/10.1109/icta.2013.6815294",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ctit.2013.6749498",
+      "title": "Towards classifying applications in mobile phone markets: The case of religious apps",
+      "year": 2013,
+      "date": "2013-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1109/ctit.2013.6749498",
+      "url": "https://doi.org/10.1109/ctit.2013.6749498",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Norah I. Al-Quwayfili",
+        "Norah AlRomi",
+        "Najla AlZakari",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/nbis.2013.99",
+      "title": "A Lightweight Approach to Semantify Saudi Open Government Data",
+      "year": 2013,
+      "date": "2013-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1109/nbis.2013.99",
+      "url": "https://doi.org/10.1109/nbis.2013.99",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-319-03737-0_5",
+      "title": "Accessibility of Mobile Web Apps by Screen Readers of Touch-Based Mobile Phones",
+      "year": 2013,
+      "date": "2013-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 5,
+      "doi": "10.1007/978-3-319-03737-0_5",
+      "url": "https://doi.org/10.1007/978-3-319-03737-0_5",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Afnan A. Al-Subaihin",
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2539150.2539199",
+      "title": "Toward Recipes for Arabic DBpedia",
+      "year": 2013,
+      "date": "2013-12-02",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1145/2539150.2539199",
+      "url": "https://doi.org/10.1145/2539150.2539199",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Alia Bahanshal",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2513383.2513400",
+      "title": "Towards the development of haptic-based interface for teaching visually impaired arabic handwriting",
+      "year": 2013,
+      "date": "2013-10-17",
+      "venue": "",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1145/2513383.2513400",
+      "url": "https://doi.org/10.1145/2513383.2513400",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Abeer Bayousuf",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2539150.2539210",
+      "title": "Proxy Service to Contextualize Web Browsing for the Visually Impaired",
+      "year": 2013,
+      "date": "2013-12-02",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/2539150.2539210",
+      "url": "https://doi.org/10.1145/2539150.2539210",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Najd A. Al-Mouh",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ithet.2013.6671016",
+      "title": "Applying Knowledge, Skills and Abilities in undergraduate research seminar course",
+      "year": 2013,
+      "date": "2013-10-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/ithet.2013.6671016",
+      "url": "https://doi.org/10.1109/ithet.2013.6671016",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ctit.2013.6749479",
+      "title": "A brief survey on corpus uses",
+      "year": 2013,
+      "date": "2013-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/ctit.2013.6749479",
+      "url": "https://doi.org/10.1109/ctit.2013.6749479",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Haifa Al-Ibrahim",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2462476.2466527",
+      "title": "Raising awareness of mobile widgets among developers",
+      "year": 2013,
+      "date": "2013-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1145/2462476.2466527",
+      "url": "https://doi.org/10.1145/2462476.2466527",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Afnan A. Al-Subaihin",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-642-39473-7_37",
+      "title": "The E-training Caravans: An e-Inclusion Initiative in Saudi Arabia",
+      "year": 2013,
+      "date": "2013-01-01",
+      "venue": "Communications in computer and information science",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-3-642-39473-7_37",
+      "url": "https://doi.org/10.1007/978-3-642-39473-7_37",
+      "oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-39473-7_37.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-642-34478-7_69",
+      "title": "Touch-Based Mobile Phone Interface Guidelines and Design Recommendations for Elderly People: A Survey of the Literature",
+      "year": 2012,
+      "date": "2012-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 77,
+      "doi": "10.1007/978-3-642-34478-7_69",
+      "url": "https://doi.org/10.1007/978-3-642-34478-7_69",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Muna Al‐Razgan",
+        "Hend S. Al‐Khalifa",
+        "Mona Alshahrani",
+        "Hessah H. AlAjmi"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2428736.2428813",
+      "title": "Exploring the problems of sentiment analysis in informal Arabic",
+      "year": 2012,
+      "date": "2012-12-03",
+      "venue": "",
+      "type": "journal",
+      "cites": 34,
+      "doi": "10.1145/2428736.2428813",
+      "url": "https://doi.org/10.1145/2428736.2428813",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Lamya Albraheem",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.4236/jsea.2012.58069",
+      "title": "SemSignWriting: A Proposed Semantic System for Arabic Text-to-SignWriting Translation",
+      "year": 2012,
+      "date": "2012-01-01",
+      "venue": "Journal of Software Engineering and Applications",
+      "type": "journal",
+      "cites": 31,
+      "doi": "10.4236/jsea.2012.58069",
+      "url": "https://doi.org/10.4236/jsea.2012.58069",
+      "oa": true,
+      "oa_url": "https://content.scirp.org/pdf/jsea20120800008_80176901.pdf",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.5539/cis.v5n6p73",
+      "title": "WCAG 2.0 Semi-automatic Accessibility Evaluation System: Design and Implementation",
+      "year": 2012,
+      "date": "2012-10-22",
+      "venue": "Computer and Information Science",
+      "type": "journal",
+      "cites": 14,
+      "doi": "10.5539/cis.v5n6p73",
+      "url": "https://doi.org/10.5539/cis.v5n6p73",
+      "oa": true,
+      "oa_url": "https://ccsenet.org/journal/index.php/cis/article/download/20594/14046",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2012.6360094",
+      "title": "Design considerations for the localization of arabic e-commerce websites",
+      "year": 2012,
+      "date": "2012-08-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 12,
+      "doi": "10.1109/icdim.2012.6360094",
+      "url": "https://doi.org/10.1109/icdim.2012.6360094",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Aram AlSedrani",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2012.6360097",
+      "title": "A first approach to the evaluation of arabic diacritization systems",
+      "year": 2012,
+      "date": "2012-08-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1109/icdim.2012.6360097",
+      "url": "https://doi.org/10.1109/icdim.2012.6360097",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Alia Bahanshal",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1108/17440081211282883",
+      "title": "A first step towards understanding Saudi political activities on Twitter",
+      "year": 2012,
+      "date": "2012-11-16",
+      "venue": "International Journal of Web Information Systems",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1108/17440081211282883",
+      "url": "https://doi.org/10.1108/17440081211282883",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2463728.2463776",
+      "title": "Exploring social media usage in Saudi e-government websites",
+      "year": 2012,
+      "date": "2012-10-22",
+      "venue": "",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1145/2463728.2463776",
+      "url": "https://doi.org/10.1145/2463728.2463776",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Muna Al‐Razgan",
+        "Nora Alrajebah",
+        "Ameera M. Almasoud"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-642-31534-3_82",
+      "title": "Do-It-Yourself Object Identification Using Augmented Reality for Visually Impaired People",
+      "year": 2012,
+      "date": "2012-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 7,
+      "doi": "10.1007/978-3-642-31534-3_82",
+      "url": "https://doi.org/10.1007/978-3-642-31534-3_82",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2428736.2428794",
+      "title": "Makhtota+",
+      "year": 2012,
+      "date": "2012-12-03",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1145/2428736.2428794",
+      "url": "https://doi.org/10.1145/2428736.2428794",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Alrajebah",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2428736.2428812",
+      "title": "An initial comparative study of Arabic speech synthesis engines in iOS and Android",
+      "year": 2012,
+      "date": "2012-12-03",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1145/2428736.2428812",
+      "url": "https://doi.org/10.1145/2428736.2428812",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora B. Al-Saud",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ngmast.2012.16",
+      "title": "Developing Interactive Quizzes Using LAYAR(TM) Augmented Reality: Lessons Learned",
+      "year": 2012,
+      "date": "2012-09-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/ngmast.2012.16",
+      "url": "https://doi.org/10.1109/ngmast.2012.16",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1016/j.procs.2012.06.130",
+      "title": "Emerging URL Patterns in Mobile Websites: A Preliminary Results",
+      "year": 2012,
+      "date": "2012-01-01",
+      "venue": "Procedia Computer Science",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1016/j.procs.2012.06.130",
+      "url": "https://doi.org/10.1016/j.procs.2012.06.130",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.procs.2012.06.130",
+      "authors": [
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/iccse.2012.6295372",
+      "title": "The localization of CS4HS workshop for serving national computing curriculum",
+      "year": 2012,
+      "date": "2012-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1109/iccse.2012.6295372",
+      "url": "https://doi.org/10.1109/iccse.2012.6295372",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Mashael Al-Duwais",
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Nora Alrajebah",
+        "Afnan A. Al-Subaihin"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2380552.2380569",
+      "title": "Introducing mobile widgets development in an advanced web technologies course",
+      "year": 2012,
+      "date": "2012-10-11",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1145/2380552.2380569",
+      "url": "https://doi.org/10.1145/2380552.2380569",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Afnan A. Al-Subaihin"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2012.6360090",
+      "title": "On the evaluation of linguistic ontological models: An application on the SemQ ontology",
+      "year": 2012,
+      "date": "2012-08-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/icdim.2012.6360090",
+      "url": "https://doi.org/10.1109/icdim.2012.6360090",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Alia Bahanshal",
+        "Iman Al-Odah"
+      ]
+    },
+    {
+      "key": "doi:10.1108/17440081111141772",
+      "title": "An experimental system for measuring the credibility of news content in Twitter",
+      "year": 2011,
+      "date": "2011-06-18",
+      "venue": "International Journal of Web Information Systems",
+      "type": "journal",
+      "cites": 69,
+      "doi": "10.1108/17440081111141772",
+      "url": "https://doi.org/10.1108/17440081111141772",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Rasha M. Al‐Eidan"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2095536.2095651",
+      "title": "A proposed sentiment analysis tool for modern Arabic using human-based computing",
+      "year": 2011,
+      "date": "2011-12-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 53,
+      "doi": "10.1145/2095536.2095651",
+      "url": "https://doi.org/10.1145/2095536.2095651",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Afnan A. Al-Subaihin",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2095536.2095647",
+      "title": "A proposed indoor navigation system for blind individuals",
+      "year": 2011,
+      "date": "2011-12-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 30,
+      "doi": "10.1145/2095536.2095647",
+      "url": "https://doi.org/10.1145/2095536.2095647",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Mai Al-Ammar",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2107556.2107579",
+      "title": "A proposed semantic machine translation system for translating Arabic text to Arabic sign language",
+      "year": 2011,
+      "date": "2011-04-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 20,
+      "doi": "10.1145/2107556.2107579",
+      "url": "https://doi.org/10.1145/2107556.2107579",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/innovations.2011.5893835",
+      "title": "A pilot study for evaluating Arabic websites using automated WCAG 2.0 evaluation tools",
+      "year": 2011,
+      "date": "2011-04-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 12,
+      "doi": "10.1109/innovations.2011.5893835",
+      "url": "https://doi.org/10.1109/innovations.2011.5893835",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Maryam Al-Kanhal",
+        "Hailah Al-Nafisah",
+        "Noura Al-soukaih",
+        "Raja Rizwan Hussain",
+        "Moneerah Al-onzi"
+      ]
+    },
+    {
+      "key": "doi:10.1109/stair.2011.5995767",
+      "title": "Exploiting Arabic Wikipedia for automatic ontology generation: A proposed approach",
+      "year": 2011,
+      "date": "2011-06-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 12,
+      "doi": "10.1109/stair.2011.5995767",
+      "url": "https://doi.org/10.1109/stair.2011.5995767",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Alrajebah",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.3844/jcssp.2011.427.430",
+      "title": "An M-Learning System Based on Mobile Phones and Quick Response Codes",
+      "year": 2011,
+      "date": "2011-03-01",
+      "venue": "Journal of Computer Science",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.3844/jcssp.2011.427.430",
+      "url": "https://doi.org/10.3844/jcssp.2011.427.430",
+      "oa": true,
+      "oa_url": "https://thescipub.com/pdf/jcssp.2011.427.430.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2095536.2095629",
+      "title": "Development of mobile government websites",
+      "year": 2011,
+      "date": "2011-12-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1145/2095536.2095629",
+      "url": "https://doi.org/10.1145/2095536.2095629",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/iccitechnol.2011.5762661",
+      "title": "Al-Baseet: A proposed simplification authoring tool for the Arabic language",
+      "year": 2011,
+      "date": "2011-03-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.1109/iccitechnol.2011.5762661",
+      "url": "https://doi.org/10.1109/iccitechnol.2011.5762661",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Afnan A. Al-Subaihin",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ialp.2011.38",
+      "title": "Sentence Boundary Detection in Colloquial Arabic Text: A Preliminary Result",
+      "year": 2011,
+      "date": "2011-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.1109/ialp.2011.38",
+      "url": "https://doi.org/10.1109/ialp.2011.38",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Afnan A. Al-Subaihin",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1969289.1969328",
+      "title": "An educational tool for generating inaccessible page examples based on WCAG 2.0 failures",
+      "year": 2011,
+      "date": "2011-03-28",
+      "venue": "",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1145/1969289.1969328",
+      "url": "https://doi.org/10.1145/1969289.1969328",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2047594.2047619",
+      "title": "Integrating mobile web development into IT curriculum",
+      "year": 2011,
+      "date": "2011-10-20",
+      "venue": "",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1145/2047594.2047619",
+      "url": "https://doi.org/10.1145/2047594.2047619",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Nora Alrajebah"
+      ]
+    },
+    {
+      "key": "doi:10.3233/tad-2011-0312",
+      "title": "On the implementation of text to Arabic Sign Language converter on mobile phones",
+      "year": 2011,
+      "date": "2011-05-19",
+      "venue": "Technology and Disability",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.3233/tad-2011-0312",
+      "url": "https://doi.org/10.3233/tad-2011-0312",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ialp.2011.18",
+      "title": "The Effect of Arabic Language on Reading English for Arab EFL Learners: An Eye Tracking Study",
+      "year": 2011,
+      "date": "2011-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1109/ialp.2011.18",
+      "url": "https://doi.org/10.1109/ialp.2011.18",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Kholod S. Al-Khalifah",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-642-22327-3_3",
+      "title": "Automatic Generation of Semantic Features and Lexical Relations Using OWL Ontologies",
+      "year": 2011,
+      "date": "2011-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-3-642-22327-3_3",
+      "url": "https://doi.org/10.1007/978-3-642-22327-3_3",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa",
+        "Alia Bahanshal",
+        "Iman Al-Oudah"
+      ]
+    },
+    {
+      "key": "doi:10.1145/2095536.2095604",
+      "title": "Exploring political activities in the Saudi Twitterverse",
+      "year": 2011,
+      "date": "2011-12-05",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1145/2095536.2095604",
+      "url": "https://doi.org/10.1145/2095536.2095604",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.3991/ijim.v5i2.1530",
+      "title": "On the Development of a Web-Based M-Learning System for Dual Screen Handheld Game Consoles",
+      "year": 2011,
+      "date": "2011-03-30",
+      "venue": "International Journal of Interactive Mobile Technologies (iJIM)",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.3991/ijim.v5i2.1530",
+      "url": "https://doi.org/10.3991/ijim.v5i2.1530",
+      "oa": true,
+      "oa_url": "https://online-journals.org/index.php/i-jim/article/download/1530/1680",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/iccitechnol.2011.5762660",
+      "title": "Towards improving machine translation using user generated content",
+      "year": 2011,
+      "date": "2011-03-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1109/iccitechnol.2011.5762660",
+      "url": "https://doi.org/10.1109/iccitechnol.2011.5762660",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Atheer S. Al-Khalifa",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2011.99",
+      "title": "Incorporating the Prisoners' Dilemma in Peer-Assessment: An Experimental Study",
+      "year": 2011,
+      "date": "2011-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/icalt.2011.99",
+      "url": "https://doi.org/10.1109/icalt.2011.99",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Henda Chorfi",
+        "Afnan A. Al-Subaihin",
+        "Amal Al-Ibrahim",
+        "Maha Al-Yahya"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2011.112",
+      "title": "LEXI: A Semantic Tool to Enrich Lexical Competence of Language Learners",
+      "year": 2011,
+      "date": "2011-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/icalt.2011.112",
+      "url": "https://doi.org/10.1109/icalt.2011.112",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa",
+        "Alia Bahanshal",
+        "Iman Al-Oudah"
+      ]
+    },
+    {
+      "key": "doi:10.1007/s10209-010-0215-7",
+      "title": "The accessibility of Saudi Arabia government Web sites: an exploratory study",
+      "year": 2010,
+      "date": "2010-12-08",
+      "venue": "Universal Access in the Information Society",
+      "type": "journal",
+      "cites": 68,
+      "doi": "10.1007/s10209-010-0215-7",
+      "url": "https://doi.org/10.1007/s10209-010-0215-7",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1735103.1735849",
+      "title": "E-Learning and ICT Integration in Colleges and Universities in Saudi Arabia",
+      "year": 2010,
+      "date": "2010-03-01",
+      "venue": "eLearn",
+      "type": "journal",
+      "cites": 34,
+      "doi": "10.1145/1735103.1735849",
+      "url": "https://doi.org/10.1145/1735103.1735849",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2010.5664223",
+      "title": "Measuring the credibility of Arabic text content in Twitter",
+      "year": 2010,
+      "date": "2010-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 31,
+      "doi": "10.1109/icdim.2010.5664223",
+      "url": "https://doi.org/10.1109/icdim.2010.5664223",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rasha M. Al‐Eidan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1930321.1930370",
+      "title": "Heuristic evaluation of the usability of e-government websites",
+      "year": 2010,
+      "date": "2010-10-25",
+      "venue": "",
+      "type": "journal",
+      "cites": 28,
+      "doi": "10.1145/1930321.1930370",
+      "url": "https://doi.org/10.1145/1930321.1930370",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-642-14100-3_32",
+      "title": "Introducing Arabic Sign Language for Mobile Phones",
+      "year": 2010,
+      "date": "2010-01-01",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 14,
+      "doi": "10.1007/978-3-642-14100-3_32",
+      "url": "https://doi.org/10.1007/978-3-642-14100-3_32",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1967486.1967593",
+      "title": "An approach to compare two ontological models for representing quranic words",
+      "year": 2010,
+      "date": "2010-11-08",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1145/1967486.1967593",
+      "url": "https://doi.org/10.1145/1967486.1967593",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Alia Bahanshal",
+        "Iman Al-Odah",
+        "Nawal Al-Helwah"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1821982.1833511",
+      "title": "Eye Tracking and e-Learning",
+      "year": 2010,
+      "date": "2010-06-01",
+      "venue": "eLearn",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1145/1821982.1833511",
+      "url": "https://doi.org/10.1145/1821982.1833511",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Remya George"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1795374.1821980",
+      "title": "Finding a Place for Twitter in Higher Education",
+      "year": 2010,
+      "date": "2010-05-01",
+      "venue": "eLearn",
+      "type": "journal",
+      "cites": 10,
+      "doi": "10.1145/1795374.1821980",
+      "url": "https://doi.org/10.1145/1795374.1821980",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1930321.1930378",
+      "title": "Exploring the accessibility of Saudi Arabia e-government websites",
+      "year": 2010,
+      "date": "2010-10-25",
+      "venue": "",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1145/1930321.1930378",
+      "url": "https://doi.org/10.1145/1930321.1930378",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/nlpke.2010.5587768",
+      "title": "An ontological model for representing computational lexicons a componential based approach",
+      "year": 2010,
+      "date": "2010-08-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 7,
+      "doi": "10.1109/nlpke.2010.5587768",
+      "url": "https://doi.org/10.1109/nlpke.2010.5587768",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Maha Al-Yahya",
+        "Hend S. Al‐Khalifa",
+        "Alia Bahanshal",
+        "Iman Al-Odah",
+        "Nawal Al-Helwah"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1867651.1867683",
+      "title": "Overcoming gender segregation in service learning projects",
+      "year": 2010,
+      "date": "2010-10-07",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1145/1867651.1867683",
+      "url": "https://doi.org/10.1145/1867651.1867683",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1967486.1967644",
+      "title": "Building ontological models from Arabic Wikipedia",
+      "year": 2010,
+      "date": "2010-11-08",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "10.1145/1967486.1967644",
+      "url": "https://doi.org/10.1145/1967486.1967644",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Alrajebah",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1874590.1874610",
+      "title": "Introducing Islamic history with an Arabic adaptive web-based information system",
+      "year": 2010,
+      "date": "2010-06-14",
+      "venue": "",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.1145/1874590.1874610",
+      "url": "https://doi.org/10.1145/1874590.1874610",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1626550.1642193",
+      "title": "The State of Distance Education in Saudi Arabia",
+      "year": 2009,
+      "date": "2009-10-01",
+      "venue": "eLearn",
+      "type": "journal",
+      "cites": 36,
+      "doi": "10.1145/1626550.1642193",
+      "url": "https://doi.org/10.1145/1626550.1642193",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ctit.2009.5423145",
+      "title": "SemQ: A proposed framework for representing semantic opposition in the Holy Quran using Semantic Web technologies",
+      "year": 2009,
+      "date": "2009-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 34,
+      "doi": "10.1109/ctit.2009.5423145",
+      "url": "https://doi.org/10.1109/ctit.2009.5423145",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Alia Bahanshal",
+        "Iman Al-Odah"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1806338.1806421",
+      "title": "AraTation",
+      "year": 2009,
+      "date": "2009-12-14",
+      "venue": "",
+      "type": "journal",
+      "cites": 26,
+      "doi": "10.1145/1806338.1806421",
+      "url": "https://doi.org/10.1145/1806338.1806421",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Layan M. Bin Saleh",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ctit.2009.5423128",
+      "title": "A framework for integrating usability evaluations methods: The Mawhiba web portal case study",
+      "year": 2009,
+      "date": "2009-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 18,
+      "doi": "10.1109/ctit.2009.5423128",
+      "url": "https://doi.org/10.1109/ctit.2009.5423128",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Areej Al‐Wabil",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1806338.1806455",
+      "title": "Towards the measurement of Arabic Weblogs credibility automatically",
+      "year": 2009,
+      "date": "2009-12-14",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1145/1806338.1806455",
+      "url": "https://doi.org/10.1145/1806338.1806455",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Rasha M. Al‐Eidan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1109/ctit.2009.5423109",
+      "title": "Coping with current web evolution: The miniconference approach",
+      "year": 2009,
+      "date": "2009-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/ctit.2009.5423109",
+      "url": "https://doi.org/10.1109/ctit.2009.5423109",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "t:promoting web accessibility in a web applications engineering course: a case from saudi arabia.",
+      "title": "Promoting Web Accessibility In A Web Applications Engineering Course: A Case From Saudi Arabia.",
+      "year": 2009,
+      "date": "2009-01-01",
+      "venue": "Information and Communication Technologies and Accessibility",
+      "type": "conference",
+      "cites": 0,
+      "doi": "",
+      "url": "https://dblp.uni-trier.de/db/conf/icta/icta2009.html#Al-Khalifa09",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-540-70540-6_159",
+      "title": "Utilizing QR Code and Mobile Phones for Blinds and Visually Impaired People",
+      "year": 2008,
+      "date": "2008-07-14",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 98,
+      "doi": "10.1007/978-3-540-70540-6_159",
+      "url": "https://doi.org/10.1007/978-3-540-70540-6_159",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icdim.2008.4746711",
+      "title": "Towards the development of an automatic readability measurements for arabic language",
+      "year": 2008,
+      "date": "2008-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 43,
+      "doi": "10.1109/icdim.2008.4746711",
+      "url": "https://doi.org/10.1109/icdim.2008.4746711",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Amani Al-Ajlan",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1454105.1454109",
+      "title": "Twitter in academia",
+      "year": 2008,
+      "date": "2008-09-01",
+      "venue": "eLearn",
+      "type": "journal",
+      "cites": 29,
+      "doi": "10.1145/1454105.1454109",
+      "url": "https://doi.org/10.1145/1454105.1454109",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1497308.1497378",
+      "title": "Building an Arabic learning object repository with an ad hoc recommendation engine",
+      "year": 2008,
+      "date": "2008-11-24",
+      "venue": "",
+      "type": "journal",
+      "cites": 20,
+      "doi": "10.1145/1497308.1497378",
+      "url": "https://doi.org/10.1145/1497308.1497378",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1109/innovations.2008.4781655",
+      "title": "Mobile SRS: A classroom communication and assessment service",
+      "year": 2008,
+      "date": "2008-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.1109/innovations.2008.4781655",
+      "url": "https://doi.org/10.1109/innovations.2008.4781655",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1408940.1408944",
+      "title": "Automatic document-level semantic metadata annotation using folksonomies and domain ontologies",
+      "year": 2008,
+      "date": "2008-09-01",
+      "venue": "ACM SIGWEB Newsletter",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1145/1408940.1408944",
+      "url": "https://doi.org/10.1145/1408940.1408944",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Jessica Rubart"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1414558.1414602",
+      "title": "Towards a better understanding of the it program at a female saudi university",
+      "year": 2008,
+      "date": "2008-10-16",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1145/1414558.1414602",
+      "url": "https://doi.org/10.1145/1414558.1414602",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Nadia Al-Ghreimil",
+        "Maha Al-Yahya"
+      ]
+    },
+    {
+      "key": "doi:10.1109/innovations.2008.4781678",
+      "title": "Exploring the factors of online engagement in the era of Web 2.0: An experimental approach",
+      "year": 2008,
+      "date": "2008-12-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1109/innovations.2008.4781678",
+      "url": "https://doi.org/10.1109/innovations.2008.4781678",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-1-4020-8735-6_38",
+      "title": "TSD: A Proposed Algorithm for Solving Tags Ambiguity",
+      "year": 2008,
+      "date": "2008-08-14",
+      "venue": "",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.1007/978-1-4020-8735-6_38",
+      "url": "https://doi.org/10.1007/978-1-4020-8735-6_38",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.4018/jswis.2007010102",
+      "title": "Exploring the Value of Folksonomies for Creating Semantic Metadata",
+      "year": 2007,
+      "date": "2007-01-01",
+      "venue": "International Journal on Semantic Web and Information Systems",
+      "type": "journal",
+      "cites": 45,
+      "doi": "10.4018/jswis.2007010102",
+      "url": "https://doi.org/10.4018/jswis.2007010102",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1286240.1286288",
+      "title": "Towards better understanding of folksonomic patterns",
+      "year": 2007,
+      "date": "2007-09-10",
+      "venue": "",
+      "type": "journal",
+      "cites": 33,
+      "doi": "10.1145/1286240.1286288",
+      "url": "https://doi.org/10.1145/1286240.1286288",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.1109/icalt.2007.216",
+      "title": "Replacing the Monolithic LOM: A Folksonomic Approach",
+      "year": 2007,
+      "date": "2007-07-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 11,
+      "doi": "10.1109/icalt.2007.216",
+      "url": "https://doi.org/10.1109/icalt.2007.216",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.5220/0001269903910396",
+      "title": "CREATING STRUCTURE FROM DISORDER - Using Folksonomies to Create Semantic Metadata",
+      "year": 2007,
+      "date": "2007-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 9,
+      "doi": "10.5220/0001269903910396",
+      "url": "https://doi.org/10.5220/0001269903910396",
+      "oa": true,
+      "oa_url": "https://doi.org/10.5220/0001269903910396",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis",
+        "L Gilbert"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-3-540-75195-3_30",
+      "title": "FAsTA: A Folksonomy-Based Automatic Metadata Generator",
+      "year": 2007,
+      "date": "2007-08-18",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 6,
+      "doi": "10.1007/978-3-540-75195-3_30",
+      "url": "https://doi.org/10.1007/978-3-540-75195-3_30",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "t:arabic text-to-speech synthesis: a preliminary evaluation",
+      "title": "Arabic Text-To-Speech Synthesis: A Preliminary Evaluation",
+      "year": 2007,
+      "date": "2007-06-25",
+      "venue": "EdMedia: World Conference on Educational Media and Technology",
+      "type": "conference",
+      "cites": 5,
+      "doi": "",
+      "url": "https://www.learntechlib.org/p/26017/proceedings_26017.pdf",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Areej Al‐Wabil",
+        "Hend S. Al‐Khalifa",
+        "Wafa Al-Saleh"
+      ]
+    },
+    {
+      "key": "doi:10.1109/iit.2007.4430482",
+      "title": "CoolRank: A Social Solution for Ranking Bookmarked Web Resources",
+      "year": 2007,
+      "date": "2007-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.1109/iit.2007.4430482",
+      "url": "https://doi.org/10.1109/iit.2007.4430482",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "doi:10.1007/978-1-4020-6262-9_25",
+      "title": "Delicious Learning Resources",
+      "year": 2007,
+      "date": "2007-08-31",
+      "venue": "",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-1-4020-6262-9_25",
+      "url": "https://doi.org/10.1007/978-1-4020-6262-9_25",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.4018/978-1-59904-002-8.ch095",
+      "title": "Mobile Phones for People with Disabilities",
+      "year": 2007,
+      "date": "2007-01-01",
+      "venue": "IGI Global eBooks",
+      "type": "book",
+      "cites": 0,
+      "doi": "10.4018/978-1-59904-002-8.ch095",
+      "url": "https://doi.org/10.4018/978-1-59904-002-8.ch095",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "doi:10.1145/1149941.1149956",
+      "title": "The evolution of metadata from standards to semantics in E-learning applications",
+      "year": 2006,
+      "date": "2006-08-22",
+      "venue": "",
+      "type": "journal",
+      "cites": 86,
+      "doi": "10.1145/1149941.1149956",
+      "url": "https://doi.org/10.1145/1149941.1149956",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.1109/innovations.2006.301880",
+      "title": "Measuring the Semantic Value of Folksonomies",
+      "year": 2006,
+      "date": "2006-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 31,
+      "doi": "10.1109/innovations.2006.301880",
+      "url": "https://doi.org/10.1109/innovations.2006.301880",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "t:folksonomies versus automatic keyword extraction: an empirical study",
+      "title": "Folksonomies versus Automatic Keyword Extraction: An Empirical Study",
+      "year": 2006,
+      "date": "2006-10-01",
+      "venue": "ePrints Soton (University of Southampton)",
+      "type": "journal",
+      "cites": 30,
+      "doi": "",
+      "url": "https://openalex.org/W1506333580",
+      "oa": true,
+      "oa_url": "https://eprints.soton.ac.uk/263155/2/IADIS_FvK_2006.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.1109/innovations.2006.301927",
+      "title": "FolksAnnotation: A Semantic Metadata Tool for Annotating Learning Resources Using Folksonomies and Domain Ontologies",
+      "year": 2006,
+      "date": "2006-11-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 22,
+      "doi": "10.1109/innovations.2006.301927",
+      "url": "https://doi.org/10.1109/innovations.2006.301927",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "t:harnessing the wisdom of crowds: how to semantically annotate web resource using folksonomies",
+      "title": "Harnessing the wisdom of crowds: how to semantically annotate web resource using folksonomies",
+      "year": 2006,
+      "date": "2006-01-01",
+      "venue": "ePrints Soton (University of Southampton)",
+      "type": "journal",
+      "cites": 3,
+      "doi": "",
+      "url": "https://eprints.soton.ac.uk/263158/1/IADIS_POSTER_2006.doc",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "t:from web 1.0 to web 2.0 and beyond: is the web becoming more accessible for people with visual impairments?",
+      "title": "From Web 1.0 to Web 2.0 and Beyond: Is the Web Becoming More Accessible for People with Visual Impairments?",
+      "year": 2006,
+      "date": "2006-01-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 2,
+      "doi": "",
+      "url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.96.9802",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
+      "key": "t:aracore: an arabic learning object metadata for indexing learning resources",
+      "title": "ARACORE: AN ARABIC LEARNING OBJECT METADATA FOR INDEXING LEARNING RESOURCES",
+      "year": 2005,
+      "date": "2005-01-01",
+      "venue": "ePrints Soton (University of Southampton)",
+      "type": "journal",
+      "cites": 7,
+      "doi": "",
+      "url": "https://openalex.org/W1615844283",
+      "oa": true,
+      "oa_url": "https://eprints.soton.ac.uk/263220/1/AraCore.pdf",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "doi:10.1002/spe.501",
+      "title": "Towards a computerized Arabic Braille environment",
+      "year": 2003,
+      "date": "2003-04-04",
+      "venue": "Software Practice and Experience",
+      "type": "journal",
+      "cites": 13,
+      "doi": "10.1002/spe.501",
+      "url": "https://doi.org/10.1002/spe.501",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "AbdulMalik S. Al‐Salman",
+        "Hend S. Al‐Khalifa"
+      ]
+    }
+  ]
+}
