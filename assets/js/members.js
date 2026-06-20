@@ -28,7 +28,7 @@ function leadCard(m, lang){
   const bio = lang==="ar"?(m.bio_ar||m.area_ar):(m.bio_en||m.area_en);
   const photo = m.photo
     ? `<img class="lead-card__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}">`
-    : `<div class="lead-card__photo" style="display:grid;place-items:center;color:#fff;font-family:var(--font-display);font-size:62px;background:${m.color||'#0f5c4a'}">${initials(m.name_en)}</div>`;
+    : `<div class="lead-card__photo" style="display:grid;place-items:center;color:#fff;font-family:var(--font-display);font-size:62px;background:${m.color||'#00638c'}">${initials(m.name_en)}</div>`;
   return `<div class="lead-card reveal">
     ${photo}
     <div>
@@ -45,7 +45,7 @@ function memberCard(m, lang){
   const name = lang==="ar"?m.name_ar:m.name_en;
   const avatar = m.photo
     ? `<img class="member__photo" src="${memEsc(m.photo)}" alt="${memEsc(name)}">`
-    : `<div class="member__avatar" style="background:${m.color||'#0f5c4a'}">${initials(m.name_en)}</div>`;
+    : `<div class="member__avatar" style="background:${m.color||'#00638c'}">${initials(m.name_en)}</div>`;
   return `<div class="card member reveal">
     ${avatar}
     <h3>${memEsc(name)}</h3>
