@@ -12,13 +12,13 @@
       "link": "https://doi.org/10.63317/559a7pqqchr2"
     },
     {
-      "status": "current",
+      "status": "past",
       "title_en": "Eye-Tracking & Arabic Readability (AraEyebility)",
       "title_ar": "تتبّع حركة العين وسهولة قراءة العربية (AraEyebility)",
       "desc_en": "Eye-tracking corpora and models that measure how Arabic is read to assess text readability and complexity across readers.",
       "desc_ar": "مدوّنات ونماذج تتبّع حركة العين لقياس كيفية قراءة العربية وتقدير سهولة القراءة وتعقيد النص.",
       "tags": ["Eye Tracking", "Readability"],
-      "year": "2021–",
+      "year": "2021–2025",
       "link": "https://doi.org/10.3390/computation13050108"
     },
     {
@@ -32,17 +32,17 @@
       "link": "https://doi.org/10.1109/aiccsa66935.2025.11315303"
     },
     {
-      "status": "current",
+      "status": "past",
       "title_en": "Arabic LLMs — Survey & Benchmarking",
       "title_ar": "النماذج اللغوية العربية — مسح ومقارنة مرجعية",
       "desc_en": "An ongoing survey and evaluation of large language models for Arabic and its dialects, with open benchmarks and resources.",
       "desc_ar": "مسح وتقييم مستمر للنماذج اللغوية الكبيرة للعربية ولهجاتها، مع مقاييس ومصادر مفتوحة.",
       "tags": ["LLMs", "Survey", "Benchmark"],
-      "year": "2024–",
+      "year": "2024",
       "link": "https://github.com/iwan-rg/ArabicLLMs"
     },
     {
-      "status": "current",
+      "status": "past",
       "title_en": "Mumtathil — PDPL Compliance",
       "title_ar": "مُمتثل — الامتثال لنظام حماية البيانات",
       "desc_en": "An NLP system that automatically identifies compliance with Saudi Arabia's Personal Data Protection Law (PDPL).",
