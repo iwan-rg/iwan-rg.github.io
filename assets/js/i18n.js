@@ -12,6 +12,7 @@ const I18N = {
     "nav.research": "Research",
     "nav.publications": "Publications",
     "nav.members": "Members",
+    "nav.projects": "Projects",
     "nav.resources": "Resources",
     "nav.join": "Join Us",
     "lang.switch": "العربية",
@@ -121,6 +122,15 @@ const I18N = {
     "res.likes": "likes",
     "res.viewall": "View all",
     "res.loading": "Loading…",
+
+    "proj.eyebrow": "What we build",
+    "proj.title": "Projects",
+    "proj.lead": "Selected past and ongoing projects — datasets, benchmarks, and systems for Arabic language technology.",
+    "proj.current": "Current projects",
+    "proj.past": "Past projects",
+    "proj.current.badge": "Ongoing",
+    "proj.past.badge": "Completed",
+    "proj.link": "Learn more",
   },
 
   ar: {
@@ -131,6 +141,7 @@ const I18N = {
     "nav.research": "أبحاثنا",
     "nav.publications": "المنشورات",
     "nav.members": "الأعضاء",
+    "nav.projects": "المشاريع",
     "nav.resources": "المصادر",
     "nav.join": "انضم إلينا",
     "lang.switch": "English",
@@ -240,6 +251,15 @@ const I18N = {
     "res.likes": "إعجاب",
     "res.viewall": "عرض الكل",
     "res.loading": "جارٍ التحميل…",
+
+    "proj.eyebrow": "ما نبنيه",
+    "proj.title": "المشاريع",
+    "proj.lead": "مختارات من مشاريعنا الحالية والسابقة — مجموعات بيانات ومقاييس وأنظمة لتقنيات اللغة العربية.",
+    "proj.current": "المشاريع الحالية",
+    "proj.past": "المشاريع السابقة",
+    "proj.current.badge": "جارٍ",
+    "proj.past.badge": "مكتمل",
+    "proj.link": "اعرف المزيد",
   }
 };
 

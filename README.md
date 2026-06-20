@@ -20,7 +20,9 @@ favicon). **Drop the official logo artwork in as `assets/img/iwan-logo.png`**
 | `index.html` | Home: hero, focus areas, live "recent publications" |
 | `publications.html` | Full publication list — searchable, filterable, auto-updated |
 | `members.html` | Team roster, rendered from `data/members.json` |
+| `projects.html` | Past & current projects, rendered from `data/projects.json` |
 | `resources.html` | Live GitHub repos + Hugging Face models/datasets |
+| `join.html` | Embedded Join Us application form |
 
 ## How publications stay current
 1. **Nightly:** `.github/workflows/update-publications.yml` runs

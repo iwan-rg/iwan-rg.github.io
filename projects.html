@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Publications — iWAN Research Group</title>
-<meta name="description" content="Live, automatically updated list of iWAN Research Group publications, aggregated from OpenAlex.">
+<title>Projects — iWAN Research Group</title>
+<meta name="description" content="Past and current projects of the iWAN Research Group — datasets, benchmarks, and systems for Arabic language technology.">
 <link rel="icon" href="assets/img/favicon.ico" sizes="any">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -35,45 +35,30 @@
 
 <section class="pagehead">
   <div class="wrap">
-    <span class="eyebrow reveal" data-i18n="pub.eyebrow">Open research</span>
-    <h1 class="reveal" data-i18n="pub.title">Publications</h1>
-    <p class="section-lead reveal" data-i18n="pub.lead">A live, automatically updated record of the group's research output.</p>
-    <p class="pubmeta reveal" id="pub-updated" style="margin-top:10px"></p>
+    <span class="eyebrow reveal" data-i18n="proj.eyebrow">What we build</span>
+    <h1 class="reveal" data-i18n="proj.title">Projects</h1>
+    <p class="section-lead reveal" data-i18n="proj.lead">Selected past and ongoing projects — datasets, benchmarks, and systems for Arabic language technology.</p>
   </div>
 </section>
 
 <section class="section" style="padding-top:24px">
   <div class="wrap">
-    <div class="pubbar reveal">
-      <label class="pubsearch">
-        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-        <input id="pub-search" type="search" data-i18n-attr="placeholder:pub.search" placeholder="Search…">
-      </label>
-      <div class="pubfilters">
-        <button class="chip is-on" data-filter="all" data-i18n="pub.f.all">All</button>
-        <button class="chip" data-filter="journal" data-i18n="pub.f.journal">Journal</button>
-        <button class="chip" data-filter="conference" data-i18n="pub.f.conference">Conference</button>
-        <button class="chip" data-filter="preprint" data-i18n="pub.f.preprint">Preprint</button>
-        <button class="chip" data-filter="book" data-i18n="pub.f.book">Book / Chapter</button>
-      </div>
-      <span class="pubmeta" id="pub-meta"></span>
-    </div>
-    <div id="pub-list"></div>
+    <div id="projects-root"><div class="state"><div class="spinner"></div><span data-i18n="res.loading">Loading…</span></div></div>
   </div>
 </section>
 
 <footer class="footer">
   <div class="footer__bar" style="border:0;justify-content:center">
-    <span>© <span id="year">2026</span> <span data-i18n="foot.rights">iWAN Research Group · King Saud University.</span> · <span data-i18n="foot.built">Publications auto-updated from OpenAlex.</span></span>
+    <span>© <span id="year">2026</span> <span data-i18n="foot.rights">iWAN Research Group · King Saud University.</span></span>
   </div>
 </footer>
 
 <script src="assets/js/i18n.js"></script>
 <script src="assets/js/main.js"></script>
-<script src="assets/js/publications.js"></script>
+<script src="assets/js/projects.js"></script>
 <script>
   document.getElementById("year").textContent = new Date().getFullYear();
-  initPublicationsPage();
+  initProjectsPage();
 </script>
 </body>
 </html>

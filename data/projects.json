@@ -1,0 +1,85 @@
+{
+  "_comment": "Edit this file to manage the Projects page. status: current | past. Provide bilingual title/desc. tags: array of short labels. link: optional URL (repo, paper DOI, dataset). year: free text e.g. '2025–' or '2021'. These entries are grounded in the group's repos/papers — please verify and expand.",
+  "projects": [
+    {
+      "status": "current",
+      "title_en": "ADAB — Arabic Politeness Benchmark",
+      "title_ar": "أدب — مرجع قياس التأدّب العربي",
+      "desc_en": "A large-scale Arabic dataset and benchmark for automated politeness and computational sociopragmatics, used to evaluate language models.",
+      "desc_ar": "مجموعة بيانات ومرجع قياس واسع النطاق للتأدّب العربي والبراغماتية الاجتماعية الحاسوبية، لتقييم النماذج اللغوية.",
+      "tags": ["Datasets", "Sociopragmatics", "LLMs"],
+      "year": "2026",
+      "link": "https://doi.org/10.63317/559a7pqqchr2"
+    },
+    {
+      "status": "current",
+      "title_en": "Eye-Tracking & Arabic Readability (AraEyebility)",
+      "title_ar": "تتبّع حركة العين وسهولة قراءة العربية (AraEyebility)",
+      "desc_en": "Eye-tracking corpora and models that measure how Arabic is read to assess text readability and complexity across readers.",
+      "desc_ar": "مدوّنات ونماذج تتبّع حركة العين لقياس كيفية قراءة العربية وتقدير سهولة القراءة وتعقيد النص.",
+      "tags": ["Eye Tracking", "Readability"],
+      "year": "2021–",
+      "link": "https://doi.org/10.3390/computation13050108"
+    },
+    {
+      "status": "current",
+      "title_en": "The Prompting Brain — Neuro-Cognitive NLP",
+      "title_ar": "الدماغ والتلقين — المعالجة العصبية الإدراكية",
+      "desc_en": "Studying neurocognitive markers of expertise in guiding large language models, linking brain and cognition to prompting.",
+      "desc_ar": "دراسة المؤشرات العصبية-الإدراكية للخبرة في توجيه النماذج اللغوية الكبيرة، وربط الدماغ والإدراك بالتلقين.",
+      "tags": ["Neuro-Cognitive", "LLMs"],
+      "year": "2025–",
+      "link": "https://doi.org/10.1109/aiccsa66935.2025.11315303"
+    },
+    {
+      "status": "current",
+      "title_en": "Arabic LLMs — Survey & Benchmarking",
+      "title_ar": "النماذج اللغوية العربية — مسح ومقارنة مرجعية",
+      "desc_en": "An ongoing survey and evaluation of large language models for Arabic and its dialects, with open benchmarks and resources.",
+      "desc_ar": "مسح وتقييم مستمر للنماذج اللغوية الكبيرة للعربية ولهجاتها، مع مقاييس ومصادر مفتوحة.",
+      "tags": ["LLMs", "Survey", "Benchmark"],
+      "year": "2024–",
+      "link": "https://github.com/iwan-rg/ArabicLLMs"
+    },
+    {
+      "status": "current",
+      "title_en": "Mumtathil — PDPL Compliance",
+      "title_ar": "مُمتثل — الامتثال لنظام حماية البيانات",
+      "desc_en": "An NLP system that automatically identifies compliance with Saudi Arabia's Personal Data Protection Law (PDPL).",
+      "desc_ar": "نظام معالجة لغة يتعرّف تلقائيًا على الامتثال لنظام حماية البيانات الشخصية السعودي.",
+      "tags": ["NLP", "Privacy", "Compliance"],
+      "year": "2026",
+      "link": "https://doi.org/10.1371/journal.pone.0351074"
+    },
+    {
+      "status": "past",
+      "title_en": "ArabicSurvey — ANLP Survey Hub",
+      "title_ar": "ArabicSurvey — مرجع مسوحات معالجة العربية",
+      "desc_en": "A curated repository of survey and review papers in Arabic Natural Language Processing, widely used by the community.",
+      "desc_ar": "مستودع منسّق لأوراق المسح والمراجعة في معالجة اللغة العربية، يستخدمه المجتمع البحثي على نطاق واسع.",
+      "tags": ["Survey", "Open Resource"],
+      "year": "2023",
+      "link": "https://github.com/iwan-rg/ArabicSurvey"
+    },
+    {
+      "status": "past",
+      "title_en": "Arabic Topic Modeling (BERTopic)",
+      "title_ar": "نمذجة المواضيع العربية (BERTopic)",
+      "desc_en": "An experimental study applying BERT-based topic modeling (BERTopic) to Arabic text, with code and resources.",
+      "desc_ar": "دراسة تجريبية لتطبيق نمذجة المواضيع المعتمدة على BERT (BERTopic) على النص العربي، مع الأكواد والمصادر.",
+      "tags": ["Topic Modeling", "BERT"],
+      "year": "2021",
+      "link": "https://github.com/iwan-rg/Arabic-Topic-Modeling"
+    },
+    {
+      "status": "past",
+      "title_en": "Multilingual NER Datasets",
+      "title_ar": "مجموعات بيانات التعرف على الكيانات متعددة اللغات",
+      "desc_en": "40+ translated WikiANN / CoNLL named-entity recognition datasets released openly to support cross-lingual research.",
+      "desc_ar": "أكثر من 40 مجموعة بيانات مترجمة للتعرف على الكيانات (WikiANN / CoNLL) أُتيحت بشكل مفتوح لدعم البحث متعدد اللغات.",
+      "tags": ["NER", "Datasets", "Cross-lingual"],
+      "year": "2024",
+      "link": "https://huggingface.co/iwan-rg"
+    }
+  ]
+}
