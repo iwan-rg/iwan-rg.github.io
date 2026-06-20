@@ -13,6 +13,7 @@ const I18N = {
     "nav.publications": "Publications",
     "nav.members": "Members",
     "nav.resources": "Resources",
+    "nav.join": "Join Us",
     "lang.switch": "العربية",
 
     "hero.eyebrow": "King Saud University · Riyadh",
@@ -98,6 +99,7 @@ const I18N = {
     "mem.join.formtitle": "Application form",
     "mem.join.formlead": "Complete the form below to apply to join iWAN. The form is in Arabic.",
     "mem.join.fallback": "Trouble viewing the form? Open it on the iWAN site ↗",
+    "join.lead": "We're always looking for motivated graduate students, researchers, and collaborators in Arabic language technology. Apply using the form below.",
 
     "res.eyebrow": "Build with us",
     "res.title": "Resources",
@@ -126,6 +128,7 @@ const I18N = {
     "nav.publications": "المنشورات",
     "nav.members": "الأعضاء",
     "nav.resources": "المصادر",
+    "nav.join": "انضم إلينا",
     "lang.switch": "English",
 
     "hero.eyebrow": "جامعة الملك سعود · الرياض",
@@ -211,6 +214,7 @@ const I18N = {
     "mem.join.formtitle": "نموذج الانضمام",
     "mem.join.formlead": "عبّئ النموذج أدناه لتقديم طلب الانضمام إلى إيوان.",
     "mem.join.fallback": "تواجه مشكلة في عرض النموذج؟ افتحه على موقع إيوان ↗",
+    "join.lead": "نبحث دائمًا عن طلاب دراسات عليا وباحثين ومتعاونين متحمّسين في مجال تقنيات اللغة العربية. قدّم طلبك عبر النموذج أدناه.",
 
     "res.eyebrow": "ابْنِ معنا",
     "res.title": "المصادر",
