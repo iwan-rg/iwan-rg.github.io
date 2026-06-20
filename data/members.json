@@ -62,8 +62,8 @@
       "name_ar": "نوف الفير",
       "role_en": "Assistant Professor",
       "role_ar": "أستاذة مساعدة",
-      "area_en": "Topic modeling, sentiment analysis & hate-speech detection",
-      "area_ar": "نمذجة المواضيع، تحليل المشاعر وكشف خطاب الكراهية",
+      "area_en": "Text simplification and language models",
+      "area_ar": "تبسيط النصوص والنماذج اللغوية",
       "color": "#5d7682",
       "photo": "",
       "links": { "openalex": "https://openalex.org/A5126231795" }

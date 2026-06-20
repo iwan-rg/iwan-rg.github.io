@@ -52,6 +52,10 @@ const I18N = {
     "focus.5d": "Topic modeling, morphology, and the linguistic foundations of Arabic text.",
     "focus.6t": "Responsible AI",
     "focus.6d": "Fairness, politeness, bias, and the social impact of Arabic language models.",
+    "focus.7t": "Eye Tracking",
+    "focus.7d": "Eye-movement studies of Arabic reading, readability, and text accessibility.",
+    "focus.8t": "Neuro-Cognitive NLP",
+    "focus.8d": "Bridging language models with human cognition, attention, and brain-inspired processing.",
 
     "home.pubs.title": "Recent publications",
     "home.pubs.lead": "Automatically synced from OpenAlex — always current.",
@@ -167,6 +171,10 @@ const I18N = {
     "focus.5d": "نمذجة المواضيع والصرف والأسس اللغوية للنص العربي.",
     "focus.6t": "الذكاء الاصطناعي المسؤول",
     "focus.6d": "العدالة والتأدّب والتحيّز والأثر الاجتماعي للنماذج اللغوية العربية.",
+    "focus.7t": "تتبّع حركة العين",
+    "focus.7d": "دراسات حركة العين لقراءة العربية وسهولة القراءة وإتاحة النصوص.",
+    "focus.8t": "المعالجة العصبية-الإدراكية",
+    "focus.8d": "ربط النماذج اللغوية بالإدراك البشري والانتباه والمعالجة المستوحاة من الدماغ.",
 
     "home.pubs.title": "أحدث المنشورات",
     "home.pubs.lead": "تُحدَّث تلقائيًا من OpenAlex — محدّثة دائمًا.",

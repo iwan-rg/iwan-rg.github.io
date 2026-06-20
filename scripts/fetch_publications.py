@@ -9,6 +9,7 @@ Reads author OpenAlex IDs from data/authors.json. No API key required.
 """
 import json
 import os
+import re
 import sys
 import time
 import urllib.parse
@@ -88,7 +89,10 @@ def normalize(w):
     authors = [a.get("author", {}).get("display_name") for a in w.get("authorships", [])]
     authors = [a for a in authors if a]
     title = w.get("display_name") or w.get("title") or "Untitled"
-    key = ("doi:" + doi.lower()) if doi else ("t:" + " ".join(title.lower().split()))
+    # Punctuation/whitespace-insensitive title key so versions of the same paper
+    # (publisher DOI vs arXiv DOI vs no DOI, "-" vs "--") collapse into one.
+    tkey = re.sub(r"[\W_]+", "", title.lower())
+    key = ("k:" + tkey) if tkey else (("doi:" + doi.lower()) if doi else "t:" + title.lower())
     return {
         "key": key,
         "title": title,
@@ -121,15 +125,41 @@ def main():
         except Exception as e:  # noqa: BLE001
             print(f"  ! failed for {aid}: {e}", file=sys.stderr)
 
-    # dedupe by key, keep the record with the most citations
-    by_key = {}
+    # group by title key, then pick the best representative per group and
+    # aggregate citation counts / backfill venue+doi across the versions.
+    groups = {}
     for w in raw:
         n = normalize(w)
-        ex = by_key.get(n["key"])
-        if ex is None or n["cites"] > ex["cites"]:
-            by_key[n["key"]] = n
+        groups.setdefault(n["key"], []).append(n)
 
-    pubs = sorted(by_key.values(), key=lambda p: (-p["year"], -p["cites"], p["title"]))
+    def real_venue(p):
+        v = (p["venue"] or "").lower()
+        return bool(v) and "arxiv" not in v and "open mind" not in v
+
+    def real_doi(p):
+        return bool(p["doi"]) and not p["doi"].startswith("10.48550")
+
+    def rank(p):
+        # prefer published over preprint, then a real venue, real DOI, then citations
+        return (0 if p["type"] == "preprint" else 1, real_venue(p), real_doi(p), p["cites"])
+
+    pubs = []
+    for grp in groups.values():
+        rep = dict(max(grp, key=rank))
+        rep["cites"] = max(x["cites"] for x in grp)
+        if not real_venue(rep):
+            for x in grp:
+                if real_venue(x):
+                    rep["venue"] = x["venue"]
+                    break
+        if not rep["doi"]:
+            for x in grp:
+                if x["doi"]:
+                    rep["doi"], rep["url"] = x["doi"], x["url"]
+                    break
+        pubs.append(rep)
+
+    pubs = sorted(pubs, key=lambda p: (-p["year"], -p["cites"], p["title"]))
 
     out = {
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),

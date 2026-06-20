@@ -38,6 +38,13 @@ const TYPE_LABEL = {
   book:"Book / Chapter", other:"Article"
 };
 
+// punctuation/whitespace-insensitive title key (keeps Arabic letters) so
+// different versions of the same paper collapse together
+function titleKey(title){
+  const k = (title||"").toLowerCase().replace(/[^\p{L}\p{N}]+/gu,"");
+  return k ? "k:"+k : null;
+}
+
 function normalizeOA(w){
   const src = (w.primary_location && w.primary_location.source) || null;
   const venue = src ? src.display_name : "";
@@ -46,9 +53,10 @@ function normalizeOA(w){
             : (w.primary_location && w.primary_location.landing_page_url) ? w.primary_location.landing_page_url
             : w.id;
   const authors = (w.authorships||[]).map(a=> a.author ? a.author.display_name : "").filter(Boolean);
+  const title = w.display_name || w.title || "Untitled";
   return {
-    key: doi ? "doi:"+doi.toLowerCase() : "t:"+(w.display_name||w.title||"").toLowerCase().replace(/\s+/g," ").trim(),
-    title: w.display_name || w.title || "Untitled",
+    key: titleKey(title) || (doi ? "doi:"+doi.toLowerCase() : "t:"+title.toLowerCase()),
+    title,
     year: w.publication_year || 0,
     date: w.publication_date || "",
     venue, type: classifyType(w.type, w.type_crossref, src ? src.type : ""),
@@ -61,12 +69,22 @@ function normalizeOA(w){
 }
 
 function dedupe(list){
-  const seen = new Map();
-  for(const p of list){
-    const ex = seen.get(p.key);
-    if(!ex || (p.cites||0) > (ex.cites||0)) seen.set(p.key, p);
+  const groups = new Map();
+  for(const p of list){ const a = groups.get(p.key) || []; a.push(p); groups.set(p.key, a); }
+  const realVenue = p => { const v=(p.venue||"").toLowerCase(); return !!v && !v.includes("arxiv") && !v.includes("open mind"); };
+  const realDoi = p => !!p.doi && !p.doi.startsWith("10.48550");
+  const rank = p => [p.type==="preprint"?0:1, realVenue(p)?1:0, realDoi(p)?1:0, p.cites||0];
+  const cmp = (a,b) => { for(let i=0;i<a.length;i++){ if(a[i]!==b[i]) return a[i]-b[i]; } return 0; };
+  const out = [];
+  for(const g of groups.values()){
+    let rep = g.reduce((best,p)=> cmp(rank(p),rank(best))>0 ? p : best, g[0]);
+    rep = Object.assign({}, rep);
+    rep.cites = Math.max(...g.map(x=>x.cites||0));
+    if(!realVenue(rep)){ const v = g.find(realVenue); if(v) rep.venue = v.venue; }
+    if(!rep.doi){ const d = g.find(x=>x.doi); if(d){ rep.doi = d.doi; rep.url = d.url; } }
+    out.push(rep);
   }
-  return [...seen.values()];
+  return out;
 }
 
 async function fetchAuthorWorks(id){
