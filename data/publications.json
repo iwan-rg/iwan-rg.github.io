@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T11:28:30+00:00",
+  "updated": "2026-06-21T08:10:16+00:00",
   "count": 258,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -1422,7 +1422,7 @@
       "date": "2018-12-19",
       "venue": "Journal of Sensors",
       "type": "journal",
-      "cites": 61,
+      "cites": 62,
       "doi": "10.1155/2018/5853917",
       "url": "https://doi.org/10.1155/2018/5853917",
       "oa": true,
