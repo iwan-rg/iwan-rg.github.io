@@ -41,8 +41,13 @@
       "area_en": "Arabic NLP, morphology & parsing",
       "area_ar": "معالجة اللغة العربية، الصرف والتحليل النحوي",
       "color": "#00638c",
-      "photo": "",
-      "links": { "openalex": "https://openalex.org/A5086802719" }
+      "photo": "assets/img/Sharefah.jpeg",
+      "links": {
+        "scholar": "https://scholar.google.com/citations?user=ESAO7yAAAAAJ&hl=en",
+        "openalex": "https://openalex.org/A5086802719",
+        "x": "https://x.com/sharefaah",
+        "web": "https://faculty.ksu.edu.sa/en/sharefah"
+      }
     },
     {
       "group": "faculty",
@@ -54,7 +59,12 @@
       "area_ar": "معالجة اللغة العربية، النماذج اللغوية",
       "color": "#2ea3d6",
       "photo": "",
-      "links": { "openalex": "https://openalex.org/A5044468810" }
+      "links": {
+        "scholar": "https://scholar.google.com/citations?user=ECutThUAAAAJ&hl=en",
+        "openalex": "https://openalex.org/A5044468810",
+        "x": "https://x.com/reem__fahad",
+        "web": "https://faculty.ksu.edu.sa/en/ralgifary"
+      }
     },
     {
       "group": "faculty",
@@ -66,7 +76,12 @@
       "area_ar": "تبسيط النصوص والنماذج اللغوية",
       "color": "#5d7682",
       "photo": "",
-      "links": { "openalex": "https://openalex.org/A5126231795" }
+      "links": {
+        "scholar": "https://scholar.google.com/citations?user=F6n1iXwAAAAJ&hl=en",
+        "openalex": "https://openalex.org/A5126231795",
+        "x": "https://x.com/Nalfear",
+        "web": "https://faculty.ksu.edu.sa/en/nalfear/cv"
+      }
     }
   ]
 }
