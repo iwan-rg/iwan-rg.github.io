@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-22T09:21:57+00:00",
-  "count": 258,
+  "updated": "2026-06-23T06:59:06+00:00",
+  "count": 259,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -43,6 +43,22 @@
         "Reem Fahad Alqifari",
         "Ameera M. Almasoud",
         "Sharefah Ahmed Al-Ghamdi"
+      ]
+    },
+    {
+      "key": "k:alʻaranjiyyaanexpertannotatedcorpusofcovertlinguistichybridizationinmodernarabicnewstext",
+      "title": "Al-ʻAranjiyya: An Expert-Annotated Corpus of Covert Linguistic Hybridization in Modern Arabic News Text",
+      "year": 2026,
+      "date": "2026-06-21",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.5281/zenodo.20785051",
+      "url": "https://doi.org/10.5281/zenodo.20785051",
+      "oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.20785051",
+      "authors": [
+        "Hend S. Al‐Khalifa"
       ]
     },
     {
@@ -698,7 +714,7 @@
       "date": "2022-12-16",
       "venue": "arXiv (Cornell University)",
       "type": "journal",
-      "cites": 7,
+      "cites": 8,
       "doi": "10.48550/arxiv.2212.09523",
       "url": "https://doi.org/10.48550/arxiv.2212.09523",
       "oa": true,
