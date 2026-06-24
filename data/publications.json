@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T06:59:06+00:00",
+  "updated": "2026-06-24T06:56:41+00:00",
   "count": 259,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -391,7 +391,7 @@
       "date": "2024-09-09",
       "venue": "Electronics",
       "type": "journal",
-      "cites": 7,
+      "cites": 8,
       "doi": "10.3390/electronics13173574",
       "url": "https://doi.org/10.3390/electronics13173574",
       "oa": true,
