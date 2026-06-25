@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T06:56:41+00:00",
+  "updated": "2026-06-25T06:56:22+00:00",
   "count": 259,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -248,6 +248,25 @@
       ]
     },
     {
+      "key": "k:thelandscapeofarabiclargelanguagemodelsallmsaneweraforarabiclanguagetechnology",
+      "title": "The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology",
+      "year": 2025,
+      "date": "2025-06-02",
+      "venue": "ArXiv.org",
+      "type": "preprint",
+      "cites": 1,
+      "doi": "10.48550/arxiv.2506.01340",
+      "url": "https://doi.org/10.48550/arxiv.2506.01340",
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2506.01340",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Nadir Durrani",
+        "Hend S. Al‐Khalifa",
+        "Firoj Alam"
+      ]
+    },
+    {
       "key": "k:thepromptingbrainneurocognitivemarkersofexpertiseinguidinglargelanguagemodels",
       "title": "The Prompting Brain: Neurocognitive Markers of Expertise in Guiding Large Language Models",
       "year": 2025,
@@ -300,25 +319,6 @@
         "Ibtehal Baazeem",
         "Hend S. Al‐Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:thelandscapeofarabiclargelanguagemodelsallmsaneweraforarabiclanguagetechnology",
-      "title": "The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology",
-      "year": 2025,
-      "date": "2025-06-02",
-      "venue": "ArXiv.org",
-      "type": "preprint",
-      "cites": 0,
-      "doi": "10.48550/arxiv.2506.01340",
-      "url": "https://doi.org/10.48550/arxiv.2506.01340",
-      "oa": true,
-      "oa_url": "https://arxiv.org/pdf/2506.01340",
-      "authors": [
-        "Shahad Al-Khalifa",
-        "Nadir Durrani",
-        "Hend S. Al‐Khalifa",
-        "Firoj Alam"
       ]
     },
     {
@@ -806,7 +806,7 @@
       "date": "2021-01-01",
       "venue": "Procedia Computer Science",
       "type": "journal",
-      "cites": 184,
+      "cites": 185,
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
