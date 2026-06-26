@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T06:56:22+00:00",
+  "updated": "2026-06-26T07:02:45+00:00",
   "count": 259,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -190,6 +190,28 @@
       ]
     },
     {
+      "key": "k:multiproseamultilabelarabicdatasetforpropagandasentimentandemotiondetection",
+      "title": "MultiProSE: A Multi-label Arabic Dataset for Propaganda, Sentiment, and Emotion Detection",
+      "year": 2025,
+      "date": "2025-06-30",
+      "venue": "Lecture notes in computer science",
+      "type": "book",
+      "cites": 3,
+      "doi": "10.1007/978-3-031-97141-9_11",
+      "url": "https://doi.org/10.1007/978-3-031-97141-9_11",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Lubna Al-Henaki",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman",
+        "Hajar Alqubayshi",
+        "Hind Al-Twailay",
+        "Gheeda Alghamdi",
+        "Hawra Aljasim"
+      ]
+    },
+    {
       "key": "k:araeyebilityeyetrackingdataforarabictextreadability",
       "title": "AraEyebility: Eye-Tracking Data for Arabic Text Readability",
       "year": 2025,
@@ -205,28 +227,6 @@
         "Ibtehal Baazeem",
         "Hend S. Al‐Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:multiproseamultilabelarabicdatasetforpropagandasentimentandemotiondetection",
-      "title": "MultiProSE: A Multi-label Arabic Dataset for Propaganda, Sentiment, and Emotion Detection",
-      "year": 2025,
-      "date": "2025-06-30",
-      "venue": "Lecture notes in computer science",
-      "type": "book",
-      "cites": 2,
-      "doi": "10.1007/978-3-031-97141-9_11",
-      "url": "https://doi.org/10.1007/978-3-031-97141-9_11",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Lubna Al-Henaki",
-        "Hend S. Al‐Khalifa",
-        "AbdulMalik S. Al‐Salman",
-        "Hajar Alqubayshi",
-        "Hind Al-Twailay",
-        "Gheeda Alghamdi",
-        "Hawra Aljasim"
       ]
     },
     {
@@ -990,7 +990,7 @@
       "date": "2020-12-01",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 130,
+      "cites": 131,
       "doi": "10.3390/app10238614",
       "url": "https://doi.org/10.3390/app10238614",
       "oa": true,
