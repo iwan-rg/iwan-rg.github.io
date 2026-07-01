@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-30T07:03:07+00:00",
-  "count": 259,
+  "updated": "2026-07-01T07:20:02+00:00",
+  "count": 261,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -43,6 +43,26 @@
         "Reem Fahad Alqifari",
         "Ameera M. Almasoud",
         "Sharefah Ahmed Al-Ghamdi"
+      ]
+    },
+    {
+      "key": "k:arhaha2026thesharedtaskonarabichumorautomaticgeneration",
+      "title": "ARHAHA 2026: The Shared Task on Arabic Humor Automatic Generation",
+      "year": 2026,
+      "date": "2026-05-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.63317/4hh2u3dppb58",
+      "url": "https://doi.org/10.63317/4hh2u3dppb58",
+      "oa": true,
+      "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/pdf/2026.osact-1.16.pdf",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend Al-Khalifa",
+        "Reem Fahad Alqifari",
+        "Nourah Alangari",
+        "Manal M. Albahlal"
       ]
     },
     {
@@ -132,6 +152,29 @@
       "authors": [
         "Malak Mashaabi",
         "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:theadabeval2026sharedtaskonarabicpolitenessdetection",
+      "title": "The AdabEval 2026 Shared Task on Arabic Politeness Detection",
+      "year": 2026,
+      "date": "2026-05-01",
+      "venue": "",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.63317/3sbqjqbib67c",
+      "url": "https://doi.org/10.63317/3sbqjqbib67c",
+      "oa": true,
+      "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/pdf/2026.osact-1.17.pdf",
+      "authors": [
+        "Reem Fahad Alqifari",
+        "Hend Al-Khalifa",
+        "Nadia Ghezaiel",
+        "Maria Bounnit",
+        "Hend Hamed Alhazmi",
+        "Ameera M. Almasoud",
+        "Sharefah Ahmed Al-Ghamdi",
+        "Noof Abdullah Alfear"
       ]
     },
     {
@@ -2529,7 +2572,7 @@
       "date": "2014-10-01",
       "venue": "",
       "type": "journal",
-      "cites": 164,
+      "cites": 165,
       "doi": "10.1109/cw.2014.41",
       "url": "https://doi.org/10.1109/cw.2014.41",
       "oa": false,
@@ -3252,7 +3295,7 @@
       "date": "2012-01-01",
       "venue": "Lecture notes in computer science",
       "type": "book",
-      "cites": 77,
+      "cites": 78,
       "doi": "10.1007/978-3-642-34478-7_69",
       "url": "https://doi.org/10.1007/978-3-642-34478-7_69",
       "oa": false,
