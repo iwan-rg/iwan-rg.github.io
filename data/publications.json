@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-01T07:20:02+00:00",
-  "count": 261,
+  "updated": "2026-07-02T06:50:33+00:00",
+  "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -151,6 +151,22 @@
       "oa_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0351074&type=printable",
       "authors": [
         "Malak Mashaabi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:promptengineeringexpertisebatterypeeb",
+      "title": "Prompt Engineering Expertise Battery (PEEB)",
+      "year": 2026,
+      "date": "2026-06-30",
+      "venue": "Open Science Framework",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.17605/osf.io/gp8bx",
+      "url": "https://doi.org/10.17605/osf.io/gp8bx",
+      "oa": true,
+      "oa_url": "https://doi.org/10.17605/osf.io/gp8bx",
+      "authors": [
         "Hend S. Al‐Khalifa"
       ]
     },
@@ -1988,7 +2004,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1112,
+      "cites": 1113,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
