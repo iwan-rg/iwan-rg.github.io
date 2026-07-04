@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T06:42:23+00:00",
+  "updated": "2026-07-04T06:28:28+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -159,7 +159,7 @@
       "title": "Prompt Engineering Expertise Battery (PEEB)",
       "year": 2026,
       "date": "2026-06-30",
-      "venue": "Open Science Framework",
+      "venue": "Open MIND",
       "type": "journal",
       "cites": 0,
       "doi": "10.17605/osf.io/gp8bx",
@@ -311,7 +311,7 @@
       "title": "The Landscape of Arabic Large Language Models (ALLMs): A New Era for Arabic Language Technology",
       "year": 2025,
       "date": "2025-06-02",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "type": "preprint",
       "cites": 1,
       "doi": "10.48550/arxiv.2506.01340",
@@ -479,6 +479,23 @@
       ]
     },
     {
+      "key": "k:arabicparaphrasedparallelsyntheticdataset",
+      "title": "Arabic paraphrased parallel synthetic dataset",
+      "year": 2024,
+      "date": "2024-10-10",
+      "venue": "Data in Brief",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1016/j.dib.2024.111004",
+      "url": "https://doi.org/10.1016/j.dib.2024.111004",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1016/j.dib.2024.111004",
+      "authors": [
+        "Noora Aref Al-Shameri",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
       "key": "k:naturallanguageprocessingpatentslandscapeanalysis",
       "title": "Natural Language Processing Patents Landscape Analysis",
       "year": 2024,
@@ -494,23 +511,6 @@
         "Hend S. Al‐Khalifa",
         "Taif AlOmar",
         "Ghala AlOlyyan"
-      ]
-    },
-    {
-      "key": "k:arabicparaphrasedparallelsyntheticdataset",
-      "title": "Arabic paraphrased parallel synthetic dataset",
-      "year": 2024,
-      "date": "2024-10-10",
-      "venue": "Data in Brief",
-      "type": "journal",
-      "cites": 4,
-      "doi": "10.1016/j.dib.2024.111004",
-      "url": "https://doi.org/10.1016/j.dib.2024.111004",
-      "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.dib.2024.111004",
-      "authors": [
-        "Noora Aref Al-Shameri",
-        "Hend S. Al‐Khalifa"
       ]
     },
     {
@@ -555,7 +555,7 @@
       "title": "CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset",
       "year": 2024,
       "date": "2024-08-22",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "type": "preprint",
       "cites": 1,
       "doi": "10.48550/arxiv.2408.12362",
