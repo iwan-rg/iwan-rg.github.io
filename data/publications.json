@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T06:28:28+00:00",
+  "updated": "2026-07-05T06:50:17+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -717,7 +717,7 @@
       "date": "2023-10-19",
       "venue": "Data",
       "type": "journal",
-      "cites": 6,
+      "cites": 7,
       "doi": "10.3390/data8100155",
       "url": "https://doi.org/10.3390/data8100155",
       "oa": true,
