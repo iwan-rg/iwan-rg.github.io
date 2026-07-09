@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T06:06:57+00:00",
+  "updated": "2026-07-09T06:54:25+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -212,6 +212,25 @@
       ]
     },
     {
+      "key": "k:constructingandevaluatingarabicstancexasocialmediadatasetforarabicstancedetection",
+      "title": "Constructing and evaluating ArabicStanceX: a social media dataset for Arabic stance detection",
+      "year": 2025,
+      "date": "2025-06-19",
+      "venue": "Frontiers in Artificial Intelligence",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.3389/frai.2025.1615800",
+      "url": "https://doi.org/10.3389/frai.2025.1615800",
+      "oa": true,
+      "oa_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1615800/pdf",
+      "authors": [
+        "Ali Alkhathlan",
+        "Faris Alahmadi",
+        "Faris Kateb",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
       "key": "k:englisharabichybridsemantictextchunkingbasedonfinetuningbert",
       "title": "English-Arabic Hybrid Semantic Text Chunking Based on Fine-Tuning BERT",
       "year": 2025,
@@ -226,25 +245,6 @@
       "authors": [
         "Mai Alammar",
         "Khalil El Hindi",
-        "Hend S. Al‐Khalifa"
-      ]
-    },
-    {
-      "key": "k:constructingandevaluatingarabicstancexasocialmediadatasetforarabicstancedetection",
-      "title": "Constructing and evaluating ArabicStanceX: a social media dataset for Arabic stance detection",
-      "year": 2025,
-      "date": "2025-06-19",
-      "venue": "Frontiers in Artificial Intelligence",
-      "type": "journal",
-      "cites": 3,
-      "doi": "10.3389/frai.2025.1615800",
-      "url": "https://doi.org/10.3389/frai.2025.1615800",
-      "oa": true,
-      "oa_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1615800/pdf",
-      "authors": [
-        "Ali Alkhathlan",
-        "Faris Alahmadi",
-        "Faris Kateb",
         "Hend S. Al‐Khalifa"
       ]
     },
@@ -538,7 +538,7 @@
       "date": "2024-10-09",
       "venue": "Universal Access in the Information Society",
       "type": "journal",
-      "cites": 2,
+      "cites": 3,
       "doi": "10.1007/s10209-024-01140-z",
       "url": "https://doi.org/10.1007/s10209-024-01140-z",
       "oa": false,
