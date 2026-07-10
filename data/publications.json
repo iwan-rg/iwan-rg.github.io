@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T06:54:25+00:00",
+  "updated": "2026-07-10T06:54:39+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -432,7 +432,7 @@
       "date": "2024-02-05",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 20,
+      "cites": 21,
       "doi": "10.1007/s44230-024-00061-7",
       "url": "https://doi.org/10.1007/s44230-024-00061-7",
       "oa": true,
@@ -450,7 +450,7 @@
       "date": "2024-09-09",
       "venue": "Electronics",
       "type": "journal",
-      "cites": 8,
+      "cites": 9,
       "doi": "10.3390/electronics13173574",
       "url": "https://doi.org/10.3390/electronics13173574",
       "oa": true,
@@ -657,6 +657,25 @@
       ]
     },
     {
+      "key": "k:chatgptacrossarabictwitterastudyoftopicssentimentsandsarcasm",
+      "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
+      "year": 2023,
+      "date": "2023-11-14",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 16,
+      "doi": "10.3390/data8110171",
+      "url": "https://doi.org/10.3390/data8110171",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/8/11/171/pdf?version=1699974341",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Fatima Alhumaidhi",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
       "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
       "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
       "year": 2023,
@@ -672,25 +691,6 @@
         "Sharefah A. Al-Ghamdi",
         "Hend S. Al‐Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:chatgptacrossarabictwitterastudyoftopicssentimentsandsarcasm",
-      "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
-      "year": 2023,
-      "date": "2023-11-14",
-      "venue": "Data",
-      "type": "journal",
-      "cites": 15,
-      "doi": "10.3390/data8110171",
-      "url": "https://doi.org/10.3390/data8110171",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2306-5729/8/11/171/pdf?version=1699974341",
-      "authors": [
-        "Shahad Al-Khalifa",
-        "Fatima Alhumaidhi",
-        "Hind M. Alotaibi",
-        "Hend S. Al‐Khalifa"
       ]
     },
     {
