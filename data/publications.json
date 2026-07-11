@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T06:54:39+00:00",
+  "updated": "2026-07-11T05:48:55+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -15,7 +15,7 @@
       "doi": "10.1145/3807946",
       "url": "https://doi.org/10.1145/3807946",
       "oa": true,
-      "oa_url": "https://arxiv.org/pdf/2410.20238",
+      "oa_url": "https://doi.org/10.1145/3807946",
       "authors": [
         "Malak Mashaabi",
         "Shahad Al-Khalifa",
