@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T06:05:53+00:00",
+  "updated": "2026-07-22T06:04:25+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -212,6 +212,24 @@
       ]
     },
     {
+      "key": "k:englisharabichybridsemantictextchunkingbasedonfinetuningbert",
+      "title": "English-Arabic Hybrid Semantic Text Chunking Based on Fine-Tuning BERT",
+      "year": 2025,
+      "date": "2025-06-16",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.3390/computation13060151",
+      "url": "https://doi.org/10.3390/computation13060151",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/6/151/pdf?version=1750063742",
+      "authors": [
+        "Mai Alammar",
+        "Khalil El Hindi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
       "key": "k:constructingandevaluatingarabicstancexasocialmediadatasetforarabicstancedetection",
       "title": "Constructing and evaluating ArabicStanceX: a social media dataset for Arabic stance detection",
       "year": 2025,
@@ -227,24 +245,6 @@
         "Ali Alkhathlan",
         "Faris Alahmadi",
         "Faris Kateb",
-        "Hend S. Al‐Khalifa"
-      ]
-    },
-    {
-      "key": "k:englisharabichybridsemantictextchunkingbasedonfinetuningbert",
-      "title": "English-Arabic Hybrid Semantic Text Chunking Based on Fine-Tuning BERT",
-      "year": 2025,
-      "date": "2025-06-16",
-      "venue": "Computation",
-      "type": "journal",
-      "cites": 4,
-      "doi": "10.3390/computation13060151",
-      "url": "https://doi.org/10.3390/computation13060151",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2079-3197/13/6/151/pdf?version=1750063742",
-      "authors": [
-        "Mai Alammar",
-        "Khalil El Hindi",
         "Hend S. Al‐Khalifa"
       ]
     },
@@ -2004,7 +2004,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1117,
+      "cites": 1118,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
