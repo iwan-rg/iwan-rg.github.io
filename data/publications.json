@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T06:09:42+00:00",
+  "updated": "2026-07-24T06:04:00+00:00",
   "count": 262,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -865,7 +865,7 @@
       "date": "2021-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 186,
+      "cites": 187,
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
