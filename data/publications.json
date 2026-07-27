@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-26T06:14:48+00:00",
-  "count": 262,
+  "updated": "2026-07-27T06:41:55+00:00",
+  "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -166,6 +166,22 @@
       "url": "https://doi.org/10.17605/osf.io/gp8bx",
       "oa": true,
       "oa_url": "https://doi.org/10.17605/osf.io/gp8bx",
+      "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:registernotscalepredictingarabiclexicaldecisionlatenciesfromtwelvelanguagemodelsdataandcoderelease",
+      "title": "Register, Not Scale: Predicting Arabic Lexical Decision Latencies from Twelve Language Models (data and code release)",
+      "year": 2026,
+      "date": "2026-07-25",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.5281/zenodo.21560035",
+      "url": "https://doi.org/10.5281/zenodo.21560035",
+      "oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.21560035",
       "authors": [
         "Hend S. Al‐Khalifa"
       ]
@@ -404,7 +420,7 @@
       "date": "2024-03-01",
       "venue": "Multimodal Technologies and Interaction",
       "type": "journal",
-      "cites": 68,
+      "cites": 69,
       "doi": "10.3390/mti8030021",
       "url": "https://doi.org/10.3390/mti8030021",
       "oa": true,
