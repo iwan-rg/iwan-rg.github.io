@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T05:58:58+00:00",
+  "updated": "2026-07-31T06:23:00+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -530,6 +530,25 @@
       ]
     },
     {
+      "key": "k:accessibilitybarriersinarabicnewswebsitesforvisuallyimpairedusersamixedmethodevaluationapproach",
+      "title": "Accessibility barriers in arabic news websites for visually impaired users: a mixed-method evaluation approach",
+      "year": 2024,
+      "date": "2024-10-09",
+      "venue": "Universal Access in the Information Society",
+      "type": "journal",
+      "cites": 4,
+      "doi": "10.1007/s10209-024-01140-z",
+      "url": "https://doi.org/10.1007/s10209-024-01140-z",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Duaa AlSaeed",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa",
+        "Nadia Al-Ghreimil"
+      ]
+    },
+    {
       "key": "k:quantifyinggenderbiasinarabicpretrainedlanguagemodels",
       "title": "Quantifying Gender Bias in Arabic Pre-Trained Language Models",
       "year": 2024,
@@ -545,25 +564,6 @@
         "Wafa Alrajhi",
         "Hend S. Al‐Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:accessibilitybarriersinarabicnewswebsitesforvisuallyimpairedusersamixedmethodevaluationapproach",
-      "title": "Accessibility barriers in arabic news websites for visually impaired users: a mixed-method evaluation approach",
-      "year": 2024,
-      "date": "2024-10-09",
-      "venue": "Universal Access in the Information Society",
-      "type": "journal",
-      "cites": 3,
-      "doi": "10.1007/s10209-024-01140-z",
-      "url": "https://doi.org/10.1007/s10209-024-01140-z",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Duaa AlSaeed",
-        "Hind M. Alotaibi",
-        "Hend S. Al‐Khalifa",
-        "Nadia Al-Ghreimil"
       ]
     },
     {
@@ -1455,7 +1455,7 @@
       "title": "Grammar checking and relation extraction in text: approaches, techniques and open challenges",
       "year": 2019,
       "date": "2019-06-14",
-      "venue": "Program electronic library and information systems",
+      "venue": "Data Technologies and Applications",
       "type": "journal",
       "cites": 2,
       "doi": "10.1108/dta-01-2019-0001",
