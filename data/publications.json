@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T06:23:00+00:00",
+  "updated": "2026-08-01T06:10:11+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -647,8 +647,8 @@
       "cites": 64,
       "doi": "10.1145/3594806.3596572",
       "url": "https://doi.org/10.1145/3594806.3596572",
-      "oa": false,
-      "oa_url": null,
+      "oa": true,
+      "oa_url": "https://dl.acm.org/doi/pdf/10.1145/3594806.3596572",
       "authors": [
         "Abeer Alessa",
         "Hend S. Al‐Khalifa"
@@ -2998,7 +2998,7 @@
       "doi": "10.1016/j.jksuci.2014.10.001",
       "url": "https://doi.org/10.1016/j.jksuci.2014.10.001",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.jksuci.2014.10.001",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1319157814000457/pdf",
       "authors": [
         "Hend S. Al‐Khalifa"
       ]
@@ -3537,7 +3537,7 @@
       "doi": "10.1016/j.procs.2012.06.130",
       "url": "https://doi.org/10.1016/j.procs.2012.06.130",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.procs.2012.06.130",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1877050912004875/pdf",
       "authors": [
         "Atheer S. Al-Khalifa",
         "Hend S. Al‐Khalifa"
