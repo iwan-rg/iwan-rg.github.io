@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T06:10:11+00:00",
+  "updated": "2026-08-02T06:11:25+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -1554,7 +1554,7 @@
       "doi": "10.1016/j.procs.2018.10.482",
       "url": "https://doi.org/10.1016/j.procs.2018.10.482",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.procs.2018.10.482",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1877050918321860/pdf",
       "authors": [
         "Nora Madi",
         "Hend S. Al‐Khalifa"
@@ -1806,11 +1806,11 @@
       "date": "2017-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 141,
+      "cites": 142,
       "doi": "10.1016/j.procs.2017.10.094",
       "url": "https://doi.org/10.1016/j.procs.2017.10.094",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.procs.2017.10.094",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1877050917321518/pdf",
       "authors": [
         "Nora Al-Twairesh",
         "Hend S. Al‐Khalifa",
@@ -2217,7 +2217,7 @@
       "doi": "10.63317/3fwynhvmk5mq",
       "url": "https://doi.org/10.63317/3fwynhvmk5mq",
       "oa": true,
-      "oa_url": "https://doi.org/10.63317/3fwynhvmk5mq",
+      "oa_url": "http://www.lrec-conf.org/proceedings/lrec2016/pdf/619_Paper.pdf",
       "authors": [
         "Nora Al-Twairesh",
         "Abeer Aldayel",
