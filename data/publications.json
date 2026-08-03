@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:11:25+00:00",
+  "updated": "2026-08-03T06:34:10+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -673,6 +673,24 @@
       ]
     },
     {
+      "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
+      "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
+      "year": 2023,
+      "date": "2023-03-27",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 17,
+      "doi": "10.3390/app13074225",
+      "url": "https://doi.org/10.3390/app13074225",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/13/7/4225/pdf?version=1679901443",
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
       "key": "k:chatgptacrossarabictwitterastudyoftopicssentimentsandsarcasm",
       "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
       "year": 2023,
@@ -689,24 +707,6 @@
         "Fatima Alhumaidhi",
         "Hind M. Alotaibi",
         "Hend S. Al‐Khalifa"
-      ]
-    },
-    {
-      "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
-      "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
-      "year": 2023,
-      "date": "2023-03-27",
-      "venue": "Applied Sciences",
-      "type": "journal",
-      "cites": 16,
-      "doi": "10.3390/app13074225",
-      "url": "https://doi.org/10.3390/app13074225",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2076-3417/13/7/4225/pdf?version=1679901443",
-      "authors": [
-        "Sharefah A. Al-Ghamdi",
-        "Hend S. Al‐Khalifa",
-        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -1645,7 +1645,7 @@
       "doi": "10.1016/j.dib.2018.11.146",
       "url": "https://doi.org/10.1016/j.dib.2018.11.146",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.dib.2018.11.146",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S2352340918315397/pdf",
       "authors": [
         "Nora Madi",
         "Hend S. Al‐Khalifa"
@@ -2120,7 +2120,7 @@
       "doi": "10.1016/j.procs.2016.04.017",
       "url": "https://doi.org/10.1016/j.procs.2016.04.017",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.procs.2016.04.017",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S187705091630031X/pdf",
       "authors": [
         "Sihaam Alotaibi",
         "Maha Al-Yahya",
