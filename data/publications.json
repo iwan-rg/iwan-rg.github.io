@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T06:34:10+00:00",
+  "updated": "2026-08-04T06:03:47+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -885,7 +885,7 @@
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
-      "oa_url": "https://doi.org/10.1016/j.procs.2021.05.096",
+      "oa_url": "https://www.sciencedirect.com/science/article/pii/S1877050921012199/pdf",
       "authors": [
         "Abeer Abuzayed",
         "Hend S. Al‐Khalifa"
