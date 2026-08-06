@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:02:07+00:00",
+  "updated": "2026-08-06T06:04:29+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -2020,7 +2020,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1118,
+      "cites": 1119,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
