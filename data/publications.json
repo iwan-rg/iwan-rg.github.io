@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T04:39:38+00:00",
+  "updated": "2026-08-12T05:01:59+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -11,7 +11,7 @@
       "date": "2026-04-09",
       "venue": "ACM Transactions on Asian and Low-Resource Language Information Processing",
       "type": "journal",
-      "cites": 8,
+      "cites": 9,
       "doi": "10.1145/3807946",
       "url": "https://doi.org/10.1145/3807946",
       "oa": true,
@@ -160,7 +160,7 @@
       "year": 2026,
       "date": "2026-06-30",
       "venue": "Open MIND",
-      "type": "journal",
+      "type": "preprint",
       "cites": 0,
       "doi": "10.17605/osf.io/gp8bx",
       "url": "https://doi.org/10.17605/osf.io/gp8bx",
@@ -216,7 +216,7 @@
       "date": "2025-01-06",
       "venue": "Discover Computing",
       "type": "journal",
-      "cites": 8,
+      "cites": 9,
       "doi": "10.1007/s10791-024-09489-8",
       "url": "https://doi.org/10.1007/s10791-024-09489-8",
       "oa": true,
@@ -420,7 +420,7 @@
       "date": "2024-03-01",
       "venue": "Multimodal Technologies and Interaction",
       "type": "journal",
-      "cites": 69,
+      "cites": 70,
       "doi": "10.3390/mti8030021",
       "url": "https://doi.org/10.3390/mti8030021",
       "oa": true,
@@ -495,6 +495,24 @@
       ]
     },
     {
+      "key": "k:naturallanguageprocessingpatentslandscapeanalysis",
+      "title": "Natural Language Processing Patents Landscape Analysis",
+      "year": 2024,
+      "date": "2024-03-31",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 6,
+      "doi": "10.3390/data9040052",
+      "url": "https://doi.org/10.3390/data9040052",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/9/4/52/pdf?version=1711870823",
+      "authors": [
+        "Hend S. Al‐Khalifa",
+        "Taif AlOmar",
+        "Ghala AlOlyyan"
+      ]
+    },
+    {
       "key": "k:arabicparaphrasedparallelsyntheticdataset",
       "title": "Arabic paraphrased parallel synthetic dataset",
       "year": 2024,
@@ -509,24 +527,6 @@
       "authors": [
         "Noora Aref Al-Shameri",
         "Hend S. Al‐Khalifa"
-      ]
-    },
-    {
-      "key": "k:naturallanguageprocessingpatentslandscapeanalysis",
-      "title": "Natural Language Processing Patents Landscape Analysis",
-      "year": 2024,
-      "date": "2024-03-31",
-      "venue": "Data",
-      "type": "journal",
-      "cites": 5,
-      "doi": "10.3390/data9040052",
-      "url": "https://doi.org/10.3390/data9040052",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2306-5729/9/4/52/pdf?version=1711870823",
-      "authors": [
-        "Hend S. Al‐Khalifa",
-        "Taif AlOmar",
-        "Ghala AlOlyyan"
       ]
     },
     {
@@ -661,7 +661,7 @@
       "date": "2023-05-13",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 32,
+      "cites": 33,
       "doi": "10.1007/s44230-023-00024-4",
       "url": "https://doi.org/10.1007/s44230-023-00024-4",
       "oa": true,
@@ -788,7 +788,7 @@
       "year": 2022,
       "date": "2022-12-16",
       "venue": "arXiv (Cornell University)",
-      "type": "preprint",
+      "type": "journal",
       "cites": 8,
       "doi": "10.48550/arxiv.2212.09523",
       "url": "https://doi.org/10.48550/arxiv.2212.09523",
@@ -881,7 +881,7 @@
       "date": "2021-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 188,
+      "cites": 189,
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
@@ -1065,7 +1065,7 @@
       "date": "2020-12-01",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 132,
+      "cites": 133,
       "doi": "10.3390/app10238614",
       "url": "https://doi.org/10.3390/app10238614",
       "oa": true,
@@ -1082,7 +1082,7 @@
       "date": "2020-11-16",
       "venue": "Journal of Medical Internet Research",
       "type": "journal",
-      "cites": 82,
+      "cites": 83,
       "doi": "10.2196/22609",
       "url": "https://doi.org/10.2196/22609",
       "oa": true,
@@ -1641,7 +1641,7 @@
       "date": "2018-12-04",
       "venue": "Data in Brief",
       "type": "other",
-      "cites": 9,
+      "cites": 10,
       "doi": "10.1016/j.dib.2018.11.146",
       "url": "https://doi.org/10.1016/j.dib.2018.11.146",
       "oa": true,
@@ -2020,7 +2020,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1121,
+      "cites": 1126,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -2207,28 +2207,6 @@
       ]
     },
     {
-      "key": "k:madadareadabilityannotationtoolforarabictext",
-      "title": "MADAD: A Readability Annotation Tool for Arabic Text",
-      "year": 2016,
-      "date": "2016-05-01",
-      "venue": "",
-      "type": "other",
-      "cites": 5,
-      "doi": "10.63317/3fwynhvmk5mq",
-      "url": "https://doi.org/10.63317/3fwynhvmk5mq",
-      "oa": true,
-      "oa_url": "http://www.lrec-conf.org/proceedings/lrec2016/pdf/619_Paper.pdf",
-      "authors": [
-        "Nora Al-Twairesh",
-        "Abeer Aldayel",
-        "Hend S. Al‐Khalifa",
-        "Maha Al-Yahya",
-        "Sinaa Alageel",
-        "Norah O. Abanmy",
-        "Nouf AlShenaifi"
-      ]
-    },
-    {
       "key": "k:enhancingwebaccessibilitybyimplementingcontextawareproxy",
       "title": "Enhancing web accessibility by implementing context aware proxy",
       "year": 2016,
@@ -2243,6 +2221,28 @@
       "authors": [
         "Najd A. Al-Mouh",
         "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:madadareadabilityannotationtoolforarabictext",
+      "title": "MADAD: A Readability Annotation Tool for Arabic Text",
+      "year": 2016,
+      "date": "2016-05-01",
+      "venue": "",
+      "type": "other",
+      "cites": 4,
+      "doi": "10.63317/3fwynhvmk5mq",
+      "url": "https://doi.org/10.63317/3fwynhvmk5mq",
+      "oa": true,
+      "oa_url": "http://www.lrec-conf.org/proceedings/lrec2016/pdf/619_Paper.pdf",
+      "authors": [
+        "Nora Al-Twairesh",
+        "Abeer Aldayel",
+        "Hend S. Al‐Khalifa",
+        "Maha Al-Yahya",
+        "Sinaa Alageel",
+        "Norah O. Abanmy",
+        "Nouf AlShenaifi"
       ]
     },
     {
@@ -4212,7 +4212,7 @@
       "date": "2009-12-14",
       "venue": "",
       "type": "other",
-      "cites": 26,
+      "cites": 25,
       "doi": "10.1145/1806338.1806421",
       "url": "https://doi.org/10.1145/1806338.1806421",
       "oa": false,
@@ -4635,7 +4635,7 @@
       "type": "other",
       "cites": 30,
       "doi": "",
-      "url": "https://openalex.org/W1506333580",
+      "url": "https://eprints.soton.ac.uk/264292/1/IADIS_FvK_2006.pdf",
       "oa": true,
       "oa_url": "https://eprints.soton.ac.uk/263155/2/IADIS_FvK_2006.pdf",
       "authors": [
@@ -4696,14 +4696,14 @@
     },
     {
       "key": "k:aracoreanarabiclearningobjectmetadataforindexinglearningresources",
-      "title": "ARACORE: AN ARABIC LEARNING OBJECT METADATA FOR INDEXING LEARNING RESOURCES",
+      "title": "AraCore: An Arabic Learning Object Metadata for Indexing Learning Resources",
       "year": 2005,
       "date": "2005-01-01",
       "venue": "ePrints Soton (University of Southampton)",
       "type": "other",
       "cites": 7,
       "doi": "",
-      "url": "https://openalex.org/W1615844283",
+      "url": "https://eprints.soton.ac.uk/263220/1/AraCore.pdf",
       "oa": true,
       "oa_url": "https://eprints.soton.ac.uk/263220/1/AraCore.pdf",
       "authors": [
