@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:57:22+00:00",
+  "updated": "2026-08-19T03:58:20+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -559,7 +559,7 @@
       "doi": "10.1109/access.2024.3404668",
       "url": "https://doi.org/10.1109/access.2024.3404668",
       "oa": true,
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/6287639/6514899/10537164.pdf",
+      "oa_url": "https://doi.org/10.1109/access.2024.3404668",
       "authors": [
         "Wafa Alrajhi",
         "Hend S. Al‐Khalifa",
@@ -2100,7 +2100,7 @@
       "doi": "10.1177/155014776152342",
       "url": "https://doi.org/10.1177/155014776152342",
       "oa": true,
-      "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/155014776152342",
+      "oa_url": "https://doi.org/10.1177/155014776152342",
       "authors": [
         "Ahmad Alnafessah",
         "Mai Al-Ammar",
@@ -3314,8 +3314,8 @@
       "cites": 0,
       "doi": "10.1007/978-3-642-39473-7_37",
       "url": "https://doi.org/10.1007/978-3-642-39473-7_37",
-      "oa": true,
-      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-39473-7_37.pdf",
+      "oa": false,
+      "oa_url": null,
       "authors": [
         "Hend S. Al‐Khalifa"
       ]
