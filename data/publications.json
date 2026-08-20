@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T03:58:20+00:00",
+  "updated": "2026-08-20T03:57:58+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -448,7 +448,7 @@
       "date": "2024-02-05",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 23,
+      "cites": 24,
       "doi": "10.1007/s44230-024-00061-7",
       "url": "https://doi.org/10.1007/s44230-024-00061-7",
       "oa": true,
@@ -658,7 +658,7 @@
       "key": "k:handwrittenarabiccharacterrecognitionforchildrenwritingusingconvolutionalneuralnetworkandstrokeidentification",
       "title": "Handwritten Arabic Character Recognition for Children Writing Using Convolutional Neural Network and Stroke Identification",
       "year": 2023,
-      "date": "2023-05-13",
+      "date": "2023-05-12",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
       "cites": 34,
@@ -881,7 +881,7 @@
       "date": "2021-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 190,
+      "cites": 191,
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
@@ -3314,8 +3314,8 @@
       "cites": 0,
       "doi": "10.1007/978-3-642-39473-7_37",
       "url": "https://doi.org/10.1007/978-3-642-39473-7_37",
-      "oa": false,
-      "oa_url": null,
+      "oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-39473-7_37.pdf",
       "authors": [
         "Hend S. Al‐Khalifa"
       ]
