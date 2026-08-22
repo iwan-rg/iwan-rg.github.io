@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T04:00:31+00:00",
+  "updated": "2026-08-22T03:56:05+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -78,6 +78,27 @@
       "oa": true,
       "oa_url": "https://doi.org/10.5281/zenodo.20785051",
       "authors": [
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:effectsofafullyimmersivevirtualrealityexercisegameonfearofmovementpainanddisabilityinpeoplewithchronicnonspecificlowbackpainapilotrandomizedcontrolledtrial",
+      "title": "Effects of a Fully Immersive Virtual Reality Exercise Game on Fear of Movement, Pain, and Disability in People with Chronic Non-Specific Low Back Pain: A Pilot Randomized Controlled Trial",
+      "year": 2026,
+      "date": "2026-08-20",
+      "venue": "Healthcare",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.3390/healthcare14162641",
+      "url": "https://doi.org/10.3390/healthcare14162641",
+      "oa": true,
+      "oa_url": "https://doi.org/10.3390/healthcare14162641",
+      "authors": [
+        "Hana Alsobayel",
+        "kholoud Almufaireej",
+        "Dalia Alimam",
+        "Hamad Alduaij",
+        "Afaf Shaheen",
         "Hend S. Al‐Khalifa"
       ]
     },
@@ -661,7 +682,7 @@
       "date": "2023-05-12",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 34,
+      "cites": 35,
       "doi": "10.1007/s44230-023-00024-4",
       "url": "https://doi.org/10.1007/s44230-023-00024-4",
       "oa": true,
@@ -898,7 +919,7 @@
       "date": "2021-01-01",
       "venue": "Complexity",
       "type": "journal",
-      "cites": 102,
+      "cites": 103,
       "doi": "10.1155/2021/5516945",
       "url": "https://doi.org/10.1155/2021/5516945",
       "oa": true,
@@ -1513,7 +1534,7 @@
       "date": "2018-12-19",
       "venue": "Journal of Sensors",
       "type": "journal",
-      "cites": 63,
+      "cites": 64,
       "doi": "10.1155/2018/5853917",
       "url": "https://doi.org/10.1155/2018/5853917",
       "oa": true,
@@ -1652,24 +1673,6 @@
       ]
     },
     {
-      "key": "k:rabbitrunanimmersivevirtualrealitygameforpromotingphysicalactivitiesamongpeoplewithlowbackpainltsupgtampdaggerltsupgt",
-      "title": "RabbitRun: An Immersive Virtual Reality Game for Promoting Physical Activities Among People with Low Back Pain &lt;sup&gt;&amp;dagger;&lt;/sup&gt;",
-      "year": 2018,
-      "date": "2018-10-29",
-      "venue": "Preprints.org",
-      "type": "preprint",
-      "cites": 8,
-      "doi": "10.20944/preprints201810.0677.v1",
-      "url": "https://doi.org/10.20944/preprints201810.0677.v1",
-      "oa": true,
-      "oa_url": "https://www.preprints.org/manuscript/201810.0677/v1/download",
-      "authors": [
-        "Amal Alazba",
-        "Hend S. Al‐Khalifa",
-        "Hana Alsobayel"
-      ]
-    },
-    {
       "key": "k:aproposedgameforpromotingphysicalactivitiesamongpeoplewithlowbackpainusingvirtualreality",
       "title": "A Proposed Game for Promoting Physical Activities among People with Low Back Pain using Virtual Reality",
       "year": 2018,
@@ -1747,7 +1750,7 @@
     },
     {
       "key": "k:blindflmwebbasedtoolsforkeystrokelevelpredictiveassessmentofvisuallyimpairedsmartphoneinteraction",
-      "title": "Blind FLM Web-Based Tools for Keystroke-Level Predictive Assessment of Visually Impaired Smartphone Interaction",
+      "title": "Blind FLM Web-Based Tools for Keystroke-Level Predictive Assessment of Visually Impaired Smartphone Interaction",
       "year": 2018,
       "date": "2018-01-01",
       "venue": "Lecture notes in computer science",
