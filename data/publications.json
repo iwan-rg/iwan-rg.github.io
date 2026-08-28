@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T14:11:57+00:00",
+  "updated": "2026-08-28T15:22:18+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -286,6 +286,24 @@
       ]
     },
     {
+      "key": "k:araeyebilityeyetrackingdataforarabictextreadability",
+      "title": "AraEyebility: Eye-Tracking Data for Arabic Text Readability",
+      "year": 2025,
+      "date": "2025-05-05",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 3,
+      "doi": "10.3390/computation13050108",
+      "url": "https://doi.org/10.3390/computation13050108",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/5/108/pdf?version=1746517519",
+      "authors": [
+        "Ibtehal Baazeem",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
       "key": "k:multiproseamultilabelarabicdatasetforpropagandasentimentandemotiondetection",
       "title": "MultiProSE: A Multi-label Arabic Dataset for Propaganda, Sentiment, and Emotion Detection",
       "year": 2025,
@@ -305,24 +323,6 @@
         "Hind Al-Twailay",
         "Gheeda Alghamdi",
         "Hawra Aljasim"
-      ]
-    },
-    {
-      "key": "k:araeyebilityeyetrackingdataforarabictextreadability",
-      "title": "AraEyebility: Eye-Tracking Data for Arabic Text Readability",
-      "year": 2025,
-      "date": "2025-05-05",
-      "venue": "Computation",
-      "type": "journal",
-      "cites": 2,
-      "doi": "10.3390/computation13050108",
-      "url": "https://doi.org/10.3390/computation13050108",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2079-3197/13/5/108/pdf?version=1746517519",
-      "authors": [
-        "Ibtehal Baazeem",
-        "Hend S. Al‐Khalifa",
-        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -694,6 +694,25 @@
       ]
     },
     {
+      "key": "k:chatgptacrossarabictwitterastudyoftopicssentimentsandsarcasm",
+      "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
+      "year": 2023,
+      "date": "2023-11-14",
+      "venue": "Data",
+      "type": "journal",
+      "cites": 17,
+      "doi": "10.3390/data8110171",
+      "url": "https://doi.org/10.3390/data8110171",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2306-5729/8/11/171/pdf?version=1699974341",
+      "authors": [
+        "Shahad Al-Khalifa",
+        "Fatima Alhumaidhi",
+        "Hind M. Alotaibi",
+        "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
       "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
       "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
       "year": 2023,
@@ -709,25 +728,6 @@
         "Sharefah A. Al-Ghamdi",
         "Hend S. Al‐Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:chatgptacrossarabictwitterastudyoftopicssentimentsandsarcasm",
-      "title": "ChatGPT across Arabic Twitter: A Study of Topics, Sentiments, and Sarcasm",
-      "year": 2023,
-      "date": "2023-11-14",
-      "venue": "Data",
-      "type": "journal",
-      "cites": 16,
-      "doi": "10.3390/data8110171",
-      "url": "https://doi.org/10.3390/data8110171",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2306-5729/8/11/171/pdf?version=1699974341",
-      "authors": [
-        "Shahad Al-Khalifa",
-        "Fatima Alhumaidhi",
-        "Hind M. Alotaibi",
-        "Hend S. Al‐Khalifa"
       ]
     },
     {
@@ -919,7 +919,7 @@
       "date": "2021-01-01",
       "venue": "Complexity",
       "type": "journal",
-      "cites": 103,
+      "cites": 104,
       "doi": "10.1155/2021/5516945",
       "url": "https://doi.org/10.1155/2021/5516945",
       "oa": true,
@@ -2023,7 +2023,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1133,
+      "cites": 1132,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -2607,7 +2607,7 @@
       "date": "2014-10-01",
       "venue": "",
       "type": "other",
-      "cites": 166,
+      "cites": 165,
       "doi": "10.1109/cw.2014.41",
       "url": "https://doi.org/10.1109/cw.2014.41",
       "oa": false,
@@ -3750,7 +3750,7 @@
       "date": "2011-03-01",
       "venue": "",
       "type": "other",
-      "cites": 9,
+      "cites": 10,
       "doi": "10.1109/iccitechnol.2011.5762661",
       "url": "https://doi.org/10.1109/iccitechnol.2011.5762661",
       "oa": false,
