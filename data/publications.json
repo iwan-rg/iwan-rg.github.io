@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T07:58:39+00:00",
+  "updated": "2026-09-05T07:39:59+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -551,6 +551,24 @@
       ]
     },
     {
+      "key": "k:quantifyinggenderbiasinarabicpretrainedlanguagemodels",
+      "title": "Quantifying Gender Bias in Arabic Pre-Trained Language Models",
+      "year": 2024,
+      "date": "2024-01-01",
+      "venue": "IEEE Access",
+      "type": "journal",
+      "cites": 5,
+      "doi": "10.1109/access.2024.3404668",
+      "url": "https://doi.org/10.1109/access.2024.3404668",
+      "oa": true,
+      "oa_url": "https://doi.org/10.1109/access.2024.3404668",
+      "authors": [
+        "Wafa Alrajhi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
       "key": "k:accessibilitybarriersinarabicnewswebsitesforvisuallyimpairedusersamixedmethodevaluationapproach",
       "title": "Accessibility barriers in arabic news websites for visually impaired users: a mixed-method evaluation approach",
       "year": 2024,
@@ -567,24 +585,6 @@
         "Hind M. Alotaibi",
         "Hend S. Al‐Khalifa",
         "Nadia Al-Ghreimil"
-      ]
-    },
-    {
-      "key": "k:quantifyinggenderbiasinarabicpretrainedlanguagemodels",
-      "title": "Quantifying Gender Bias in Arabic Pre-Trained Language Models",
-      "year": 2024,
-      "date": "2024-01-01",
-      "venue": "IEEE Access",
-      "type": "journal",
-      "cites": 4,
-      "doi": "10.1109/access.2024.3404668",
-      "url": "https://doi.org/10.1109/access.2024.3404668",
-      "oa": true,
-      "oa_url": "https://doi.org/10.1109/access.2024.3404668",
-      "authors": [
-        "Wafa Alrajhi",
-        "Hend S. Al‐Khalifa",
-        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
