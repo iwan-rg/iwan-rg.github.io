@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T07:39:59+00:00",
+  "updated": "2026-09-06T07:53:54+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -3330,7 +3330,7 @@
       "date": "2012-01-01",
       "venue": "Lecture notes in computer science",
       "type": "other",
-      "cites": 78,
+      "cites": 79,
       "doi": "10.1007/978-3-642-34478-7_69",
       "url": "https://doi.org/10.1007/978-3-642-34478-7_69",
       "oa": false,
