@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T08:08:36+00:00",
+  "updated": "2026-09-10T08:08:03+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -522,7 +522,7 @@
       "date": "2024-03-31",
       "venue": "Data",
       "type": "journal",
-      "cites": 6,
+      "cites": 7,
       "doi": "10.3390/data9040052",
       "url": "https://doi.org/10.3390/data9040052",
       "oa": true,
@@ -2023,7 +2023,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1134,
+      "cites": 1135,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -4699,7 +4699,7 @@
     },
     {
       "key": "k:aracoreanarabiclearningobjectmetadataforindexinglearningresources",
-      "title": "AraCore: An Arabic Learning Object Metadata for Indexing Learning Resources",
+      "title": "ARACORE: AN ARABIC LEARNING OBJECT METADATA FOR INDEXING LEARNING RESOURCES",
       "year": 2005,
       "date": "2005-01-01",
       "venue": "ePrints Soton (University of Southampton)",
