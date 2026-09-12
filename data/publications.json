@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T08:02:55+00:00",
+  "updated": "2026-09-12T07:54:52+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -186,7 +186,7 @@
       "doi": "10.17605/osf.io/gp8bx",
       "url": "https://doi.org/10.17605/osf.io/gp8bx",
       "oa": true,
-      "oa_url": "https://doi.org/10.17605/osf.io/gp8bx",
+      "oa_url": "https://osf.io/gp8bx",
       "authors": [
         "Hend S. Al‐Khalifa"
       ]
@@ -919,7 +919,7 @@
       "date": "2021-01-01",
       "venue": "Complexity",
       "type": "journal",
-      "cites": 104,
+      "cites": 105,
       "doi": "10.1155/2021/5516945",
       "url": "https://doi.org/10.1155/2021/5516945",
       "oa": true,
