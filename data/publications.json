@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T08:38:54+00:00",
+  "updated": "2026-09-18T08:14:24+00:00",
   "count": 263,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -682,7 +682,7 @@
       "date": "2023-05-12",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 35,
+      "cites": 36,
       "doi": "10.1007/s44230-023-00024-4",
       "url": "https://doi.org/10.1007/s44230-023-00024-4",
       "oa": true,
@@ -691,6 +691,24 @@
         "Mais Alheraki",
         "Rawan Al-Matham",
         "Hend S. Al‐Khalifa"
+      ]
+    },
+    {
+      "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
+      "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
+      "year": 2023,
+      "date": "2023-03-27",
+      "venue": "Applied Sciences",
+      "type": "journal",
+      "cites": 18,
+      "doi": "10.3390/app13074225",
+      "url": "https://doi.org/10.3390/app13074225",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2076-3417/13/7/4225/pdf?version=1679901443",
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Hend S. Al‐Khalifa",
+        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -710,24 +728,6 @@
         "Fatima Alhumaidhi",
         "Hind M. Alotaibi",
         "Hend S. Al‐Khalifa"
-      ]
-    },
-    {
-      "key": "k:finetuningbertbasedpretrainedmodelsforarabicdependencyparsing",
-      "title": "Fine-Tuning BERT-Based Pre-Trained Models for Arabic Dependency Parsing",
-      "year": 2023,
-      "date": "2023-03-27",
-      "venue": "Applied Sciences",
-      "type": "journal",
-      "cites": 17,
-      "doi": "10.3390/app13074225",
-      "url": "https://doi.org/10.3390/app13074225",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2076-3417/13/7/4225/pdf?version=1679901443",
-      "authors": [
-        "Sharefah A. Al-Ghamdi",
-        "Hend S. Al‐Khalifa",
-        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1138,
+      "cites": 1141,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
