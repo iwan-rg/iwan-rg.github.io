@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T09:15:12+00:00",
-  "count": 271,
+  "updated": "2026-09-28T09:46:24+00:00",
+  "count": 269,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -271,7 +271,7 @@
         "Sowmya Vajjala",
         "Benjamin Rice",
         "Azril Hafizi Amirudin",
-        "Jesujoba O. Alabi",
+        "Jesujoba Oluwadara Alabi",
         "Srikant Panda",
         "Yassine Toughrai",
         "Bruhan Kyomuhendo",
@@ -1233,7 +1233,7 @@
       "date": "2021-03-22",
       "venue": "Communications of the ACM",
       "type": "journal",
-      "cites": 108,
+      "cites": 109,
       "doi": "10.1145/3447735",
       "url": "https://doi.org/10.1145/3447735",
       "oa": true,
@@ -1519,23 +1519,6 @@
         "Maram AlMousa",
         "Hend Suliman Al-Khalifa",
         "Hana Alsobayel"
-      ]
-    },
-    {
-      "key": "k:hatespeechdetectioninsauditwittersphereadeeplearningapproach",
-      "title": "Hate Speech Detection in Saudi Twittersphere: A Deep Learning Approach",
-      "year": 2020,
-      "date": "2020-12-01",
-      "venue": "",
-      "type": "journal",
-      "cites": 11,
-      "doi": "",
-      "url": "https://www.aclweb.org/anthology/2020.wanlp-1.2/",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Raghad Alshaalan",
-        "Hend Suliman Al-Khalifa"
       ]
     },
     {
@@ -2337,7 +2320,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1144,
+      "cites": 1145,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -4003,7 +3986,7 @@
         "Maryam Al-Kanhal",
         "Hailah Al-Nafisah",
         "Noura Al-soukaih",
-        "Raja Rizwan Hussain",
+        "Elaf Al-hussain",
         "Moneerah Al-onzi"
       ]
     },
@@ -4245,25 +4228,6 @@
         "Afnan A. Al-Subaihin",
         "Amal Al-Ibrahim",
         "Maha M. Al-Yahya"
-      ]
-    },
-    {
-      "key": "k:lexiasemantictooltoenrichlexicalcompetenceoflanguagelearners",
-      "title": "LEXI: A Semantic Tool to Enrich Lexical Competence of Language Learners",
-      "year": 2011,
-      "date": "2011-07-01",
-      "venue": "",
-      "type": "other",
-      "cites": 0,
-      "doi": "10.1109/icalt.2011.112",
-      "url": "https://doi.org/10.1109/icalt.2011.112",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Maha M. Al-Yahya",
-        "Hend Suliman Al-Khalifa",
-        "Alia O. Bahanshal",
-        "Iman Al-Oudah"
       ]
     },
     {
