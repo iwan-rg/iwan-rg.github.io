@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28T09:46:24+00:00",
-  "count": 269,
+  "updated": "2026-09-29T09:49:21+00:00",
+  "count": 270,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -1437,7 +1437,7 @@
       "date": "2020-05-01",
       "venue": "Edinburgh Research Explorer (University of Edinburgh)",
       "type": "other",
-      "cites": 55,
+      "cites": 54,
       "doi": "",
       "url": "https://www.research.ed.ac.uk/en/publications/61d93e1d-580c-4a19-a044-2b7f67033eba",
       "oa": true,
@@ -1457,7 +1457,7 @@
       "date": "2020-08-29",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 39,
+      "cites": 40,
       "doi": "10.3390/app10175984",
       "url": "https://doi.org/10.3390/app10175984",
       "oa": true,
@@ -2425,7 +2425,7 @@
         "Sihaam Alotaibi",
         "Maha M. Al-Yahya",
         "Hend Suliman Al-Khalifa",
-        "Sinaa Alageel",
+        "Sinaa Al-Aqeel",
         "Norah Othman Abanmy"
       ]
     },
@@ -3194,7 +3194,7 @@
       "oa_url": null,
       "authors": [
         "Sara A. Al-Doweesh",
-        "Felwah A. Al-Hamed",
+        "Falwah Alhamed",
         "Hend Suliman Al-Khalifa"
       ]
     },
@@ -4231,6 +4231,25 @@
       ]
     },
     {
+      "key": "k:lexiasemantictooltoenrichlexicalcompetenceoflanguagelearners",
+      "title": "LEXI: A Semantic Tool to Enrich Lexical Competence of Language Learners",
+      "year": 2011,
+      "date": "2011-07-01",
+      "venue": "",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.1109/icalt.2011.112",
+      "url": "https://doi.org/10.1109/icalt.2011.112",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Maha M. Al-Yahya",
+        "Hend Suliman Al-Khalifa",
+        "Alia O. Bahanshal",
+        "Iman Al-Oudah"
+      ]
+    },
+    {
       "key": "k:theaccessibilityofsaudiarabiagovernmentwebsitesanexploratorystudy",
       "title": "The accessibility of Saudi Arabia government Web sites: an exploratory study",
       "year": 2010,
@@ -4789,23 +4808,6 @@
       ]
     },
     {
-      "key": "k:fastaafolksonomybasedautomaticmetadatagenerator",
-      "title": "FAsTA: A Folksonomy-Based Automatic Metadata Generator",
-      "year": 2007,
-      "date": "2007-08-18",
-      "venue": "Lecture notes in computer science",
-      "type": "other",
-      "cites": 6,
-      "doi": "10.1007/978-3-540-75195-3_30",
-      "url": "https://doi.org/10.1007/978-3-540-75195-3_30",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Hend Suliman Al-Khalifa",
-        "Hugh Davis"
-      ]
-    },
-    {
       "key": "k:arabictexttospeechsynthesisapreliminaryevaluation",
       "title": "Arabic Text-To-Speech Synthesis: A Preliminary Evaluation",
       "year": 2007,
@@ -4821,6 +4823,23 @@
         "Areej Al‐Wabil",
         "Hend Suliman Al-Khalifa",
         "Wafa Al-Saleh"
+      ]
+    },
+    {
+      "key": "k:fastaafolksonomybasedautomaticmetadatagenerator",
+      "title": "FAsTA: A Folksonomy-Based Automatic Metadata Generator",
+      "year": 2007,
+      "date": "2007-08-18",
+      "venue": "Lecture notes in computer science",
+      "type": "other",
+      "cites": 5,
+      "doi": "10.1007/978-3-540-75195-3_30",
+      "url": "https://doi.org/10.1007/978-3-540-75195-3_30",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Hend Suliman Al-Khalifa",
+        "Hugh Davis"
       ]
     },
     {
@@ -4891,23 +4910,6 @@
       ]
     },
     {
-      "key": "k:measuringthesemanticvalueoffolksonomies",
-      "title": "Measuring the Semantic Value of Folksonomies",
-      "year": 2006,
-      "date": "2006-11-01",
-      "venue": "",
-      "type": "other",
-      "cites": 31,
-      "doi": "10.1109/innovations.2006.301880",
-      "url": "https://doi.org/10.1109/innovations.2006.301880",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Hend Suliman Al-Khalifa",
-        "Hugh Davis"
-      ]
-    },
-    {
       "key": "k:folksonomiesversusautomatickeywordextractionanempiricalstudy",
       "title": "Folksonomies versus Automatic Keyword Extraction: An Empirical Study",
       "year": 2006,
@@ -4919,6 +4921,23 @@
       "url": "https://eprints.soton.ac.uk/264292/1/IADIS_FvK_2006.pdf",
       "oa": true,
       "oa_url": "https://eprints.soton.ac.uk/263155/2/IADIS_FvK_2006.pdf",
+      "authors": [
+        "Hend Suliman Al-Khalifa",
+        "Hugh Davis"
+      ]
+    },
+    {
+      "key": "k:measuringthesemanticvalueoffolksonomies",
+      "title": "Measuring the Semantic Value of Folksonomies",
+      "year": 2006,
+      "date": "2006-11-01",
+      "venue": "",
+      "type": "other",
+      "cites": 30,
+      "doi": "10.1109/innovations.2006.301880",
+      "url": "https://doi.org/10.1109/innovations.2006.301880",
+      "oa": false,
+      "oa_url": null,
       "authors": [
         "Hend Suliman Al-Khalifa",
         "Hugh Davis"
