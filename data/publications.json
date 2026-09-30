@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T09:49:21+00:00",
+  "updated": "2026-09-30T09:42:00+00:00",
   "count": 270,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -131,8 +131,8 @@
         "Idris Abdulmumin",
         "Raia Abu Ahmad",
         "Esther Adenuga",
-        "Amit Agarwal",
-        "Amit Agarwal",
+        "Agarwal, Amit",
+        "Agarwal, Amit",
         "Cristina Aggazzotti",
         "Jesujoba Alabi",
         "Hend Al-Khalifa",
@@ -502,7 +502,7 @@
       "date": "2025-01-06",
       "venue": "Discover Computing",
       "type": "journal",
-      "cites": 9,
+      "cites": 10,
       "doi": "10.1007/s10791-024-09489-8",
       "url": "https://doi.org/10.1007/s10791-024-09489-8",
       "oa": true,
@@ -979,7 +979,7 @@
       "date": "2023-07-05",
       "venue": "",
       "type": "other",
-      "cites": 66,
+      "cites": 67,
       "doi": "10.1145/3594806.3596572",
       "url": "https://doi.org/10.1145/3594806.3596572",
       "oa": true,
@@ -1437,7 +1437,7 @@
       "date": "2020-05-01",
       "venue": "Edinburgh Research Explorer (University of Edinburgh)",
       "type": "other",
-      "cites": 54,
+      "cites": 52,
       "doi": "",
       "url": "https://www.research.ed.ac.uk/en/publications/61d93e1d-580c-4a19-a044-2b7f67033eba",
       "oa": true,
@@ -1556,7 +1556,7 @@
         "Hend Suliman Al-Khalifa",
         "Hind M. Alotaibi",
         "Raghad Alshalan",
-        "Nourah Almutlaq",
+        "Nourah Al-Mutlaq",
         "Shahad Alshalan",
         "Hind Taleb Bintaleb",
         "Areej Mansour AlSahow"
@@ -1800,7 +1800,7 @@
       "oa_url": null,
       "authors": [
         "Nora Madi",
-        "Nourah Almutlaq",
+        "Nourah Al-Mutlaq",
         "Hend Suliman Al-Khalifa"
       ]
     },
@@ -2320,7 +2320,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1145,
+      "cites": 1144,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -2970,7 +2970,7 @@
       "authors": [
         "Muna Al‐Razgan",
         "Hend Suliman Al-Khalifa",
-        "Mona Alshahrani"
+        "Mona D. Al-Shahrani"
       ]
     },
     {
@@ -3318,7 +3318,7 @@
       "authors": [
         "Muna Al‐Razgan",
         "Hend Suliman Al-Khalifa",
-        "Mona Alshahrani",
+        "Mona D. Al-Shahrani",
         "Hessah H. AlAjmi"
       ]
     },
