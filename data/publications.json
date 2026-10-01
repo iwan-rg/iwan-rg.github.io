@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T09:42:00+00:00",
+  "updated": "2026-10-01T10:07:45+00:00",
   "count": 270,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -979,7 +979,7 @@
       "date": "2023-07-05",
       "venue": "",
       "type": "other",
-      "cites": 67,
+      "cites": 66,
       "doi": "10.1145/3594806.3596572",
       "url": "https://doi.org/10.1145/3594806.3596572",
       "oa": true,
