@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T09:50:05+00:00",
+  "updated": "2026-10-11T09:59:57+00:00",
   "count": 270,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -19,6 +19,27 @@
       "authors": [
         "Malak Mashaabi",
         "Shahad Al-Khalifa",
+        "Hend Suliman Al-Khalifa"
+      ]
+    },
+    {
+      "key": "k:effectsofafullyimmersivevirtualrealityexercisegameonfearofmovementpainanddisabilityinpeoplewithchronicnonspecificlowbackpainapilotrandomizedcontrolledtrial",
+      "title": "Effects of a Fully Immersive Virtual Reality Exercise Game on Fear of Movement, Pain, and Disability in People with Chronic Non-Specific Low Back Pain: A Pilot Randomized Controlled Trial",
+      "year": 2026,
+      "date": "2026-08-20",
+      "venue": "Healthcare",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.3390/healthcare14162641",
+      "url": "https://doi.org/10.3390/healthcare14162641",
+      "oa": true,
+      "oa_url": "https://doi.org/10.3390/healthcare14162641",
+      "authors": [
+        "Hana Alsobayel",
+        "kholoud Almufaireej",
+        "Dalia M. Alimam",
+        "Hamad Alduaij",
+        "Afaf Shaheen",
         "Hend Suliman Al-Khalifa"
       ]
     },
@@ -310,27 +331,6 @@
       ]
     },
     {
-      "key": "k:effectsofafullyimmersivevirtualrealityexercisegameonfearofmovementpainanddisabilityinpeoplewithchronicnonspecificlowbackpainapilotrandomizedcontrolledtrial",
-      "title": "Effects of a Fully Immersive Virtual Reality Exercise Game on Fear of Movement, Pain, and Disability in People with Chronic Non-Specific Low Back Pain: A Pilot Randomized Controlled Trial",
-      "year": 2026,
-      "date": "2026-08-20",
-      "venue": "Healthcare",
-      "type": "journal",
-      "cites": 0,
-      "doi": "10.3390/healthcare14162641",
-      "url": "https://doi.org/10.3390/healthcare14162641",
-      "oa": true,
-      "oa_url": "https://doi.org/10.3390/healthcare14162641",
-      "authors": [
-        "Hana Alsobayel",
-        "kholoud Almufaireej",
-        "Dalia M. Alimam",
-        "Hamad Alduaij",
-        "Afaf Shaheen",
-        "Hend Suliman Al-Khalifa"
-      ]
-    },
-    {
       "key": "k:hadsalargescaleparallelbenchmarkforphysicalcommonsensereasoning",
       "title": "HADS: A Large-Scale Parallel Benchmark for Physical Commonsense Reasoning",
       "year": 2026,
@@ -588,7 +588,7 @@
       "oa": true,
       "oa_url": "https://www.mdpi.com/2079-3197/13/5/108/pdf?version=1746517519",
       "authors": [
-        "Ibtehal Baazeem",
+        "Ibtehal S. Baazeem",
         "Hend Suliman Al-Khalifa",
         "AbdulMalik S. Al‐Salman"
       ]
@@ -735,7 +735,7 @@
       "oa": true,
       "oa_url": "https://www.mdpi.com/2079-3197/13/11/258/pdf?version=1762171624",
       "authors": [
-        "Ibtehal Baazeem",
+        "Ibtehal S. Baazeem",
         "Hend Suliman Al-Khalifa",
         "AbdulMalik S. Al‐Salman"
       ]
@@ -1345,7 +1345,7 @@
       "oa": true,
       "oa_url": "https://www.mdpi.com/2076-3417/11/18/8607/pdf?version=1631874337",
       "authors": [
-        "Ibtehal Baazeem",
+        "Ibtehal S. Baazeem",
         "Hend Suliman Al-Khalifa",
         "AbdulMalik S. Al‐Salman"
       ]
@@ -1425,7 +1425,7 @@
       "date": "2020-12-01",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 134,
+      "cites": 135,
       "doi": "10.3390/app10238614",
       "url": "https://doi.org/10.3390/app10238614",
       "oa": true,
@@ -2354,7 +2354,7 @@
       "oa_url": null,
       "authors": [
         "Hend Suliman Al-Khalifa",
-        "Ibtehal Baazeem",
+        "Ibtehal S. Baazeem",
         "Reem A. Alamer"
       ]
     },
@@ -2655,7 +2655,7 @@
       "oa": false,
       "oa_url": null,
       "authors": [
-        "Ibtehal Baazeem",
+        "Ibtehal S. Baazeem",
         "Hend Suliman Al-Khalifa"
       ]
     },
