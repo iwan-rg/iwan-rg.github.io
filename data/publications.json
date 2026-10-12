@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T09:59:57+00:00",
+  "updated": "2026-10-12T10:48:44+00:00",
   "count": 270,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -780,7 +780,7 @@
       "date": "2024-03-01",
       "venue": "Multimodal Technologies and Interaction",
       "type": "journal",
-      "cites": 74,
+      "cites": 73,
       "doi": "10.3390/mti8030021",
       "url": "https://doi.org/10.3390/mti8030021",
       "oa": true,
