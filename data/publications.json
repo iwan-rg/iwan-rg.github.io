@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T10:48:44+00:00",
-  "count": 270,
+  "updated": "2026-10-13T10:35:17+00:00",
+  "count": 271,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -61,9 +61,9 @@
         "Maria Bounnit",
         "Hend Hamed Alhazmi",
         "Noof Abdullah Alfear",
-        "Reem Fahad Alqifari",
+        "Reem Alqifari",
         "Ameera M. Almasoud",
-        "Sharefah Ahmed Al-Ghamdi"
+        "Sharefah A. Al-Ghamdi"
       ]
     },
     {
@@ -81,9 +81,9 @@
       "authors": [
         "Ameera M. Almasoud",
         "Hend Al-Khalifa",
-        "Reem Fahad Alqifari",
+        "Reem Alqifari",
         "Nourah Alangari",
-        "Manal M. Albahlal"
+        "Manal Al-Bahlal"
       ]
     },
     {
@@ -155,7 +155,7 @@
         "Agarwal, Amit",
         "Agarwal, Amit",
         "Cristina Aggazzotti",
-        "Jesujoba Alabi",
+        "Jesujoba Oluwadara Alabi",
         "Hend Al-Khalifa",
         "Reem Alqifari",
         "Nicholas Andrews",
@@ -179,7 +179,7 @@
         "Genta Indra Winata",
         "Amr Keleg",
         "Kun Kerdthaisong",
-        "Ilker Kesen",
+        "İlker Kesen",
         "Jun Kevin",
         "Yiyuan Li",
         "Sarah K. K. Luger",
@@ -321,7 +321,7 @@
         "Kamohelo Makaaka",
         "Vicky Feliren",
         "Inshirah Idris",
-        "Hande Celikkanat",
+        "Hande Çelikkanat",
         "Abdulhamid Abubakar",
         "Jean Maillard",
         "Benoît Sagot",
@@ -371,6 +371,27 @@
         "Muhammad Abdul-Mageed",
         "Abdenour Hadid",
         "Hamzah Luqman"
+      ]
+    },
+    {
+      "key": "k:helpfulorharmfulatokenlevelevaluationofllmresponsestoaccessibilityorientededucationalqueries",
+      "title": "Helpful or harmful? A token-level evaluation of LLM responses to accessibility-oriented educational queries",
+      "year": 2026,
+      "date": "2026-10-11",
+      "venue": "Universal Access in the Information Society",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.1007/s10209-026-01387-8",
+      "url": "https://doi.org/10.1007/s10209-026-01387-8",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Hend Al-Khalifa",
+        "Shahad Al-Khalifa",
+        "Srikant Panda",
+        "Amit Agarwal",
+        "Hitesh Laxmichand Patel"
       ]
     },
     {
@@ -510,13 +531,13 @@
       "oa": true,
       "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/pdf/2026.osact-1.17.pdf",
       "authors": [
-        "Reem Fahad Alqifari",
+        "Reem Alqifari",
         "Hend Al-Khalifa",
         "Nadia Ghezaiel",
         "Maria Bounnit",
         "Hend Hamed Alhazmi",
         "Ameera M. Almasoud",
-        "Sharefah Ahmed Al-Ghamdi",
+        "Sharefah A. Al-Ghamdi",
         "Noof Abdullah Alfear"
       ]
     },
@@ -603,8 +624,8 @@
       "cites": 3,
       "doi": "10.1007/978-3-031-97141-9_11",
       "url": "https://doi.org/10.1007/978-3-031-97141-9_11",
-      "oa": false,
-      "oa_url": null,
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2502.08319",
       "authors": [
         "Lubna Al-Henaki",
         "Hend Suliman Al-Khalifa",
@@ -662,8 +683,8 @@
       "cites": 1,
       "doi": "10.1109/aiccsa66935.2025.11315303",
       "url": "https://doi.org/10.1109/aiccsa66935.2025.11315303",
-      "oa": false,
-      "oa_url": null,
+      "oa": true,
+      "oa_url": "https://arxiv.org/pdf/2508.14869",
       "authors": [
         "Hend Suliman Al-Khalifa",
         "Raneem Almansour",
@@ -927,24 +948,6 @@
       ]
     },
     {
-      "key": "k:cleananercorpidentifyingandcorrectingincorrectlabelsintheanercorpdataset",
-      "title": "CLEANANERCorp: Identifying and Correcting Incorrect Labels in the ANERcorp Dataset",
-      "year": 2024,
-      "date": "2024-08-22",
-      "venue": "arXiv (Cornell University)",
-      "type": "preprint",
-      "cites": 1,
-      "doi": "10.48550/arxiv.2408.12362",
-      "url": "https://doi.org/10.48550/arxiv.2408.12362",
-      "oa": true,
-      "oa_url": "https://arxiv.org/pdf/2408.12362",
-      "authors": [
-        "Mashael Al-Duwais",
-        "Hend Suliman Al-Khalifa",
-        "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
       "key": "k:metaevaluationofsentencesimplificationmetrics",
       "title": "Meta-Evaluation of Sentence Simplification Metrics",
       "year": 2024,
@@ -960,6 +963,24 @@
         "Noof Abdullah Alfear",
         "Dimitar Kazakov",
         "Hend Al-Khalifa"
+      ]
+    },
+    {
+      "key": "k:anovelapproachforrootselectioninthedependencyparsing",
+      "title": "A Novel Approach for Root Selection in the Dependency Parsing",
+      "year": 2024,
+      "date": "2024-05-01",
+      "venue": "Language Resources and Evaluation Conference (LREC)",
+      "type": "other",
+      "cites": 0,
+      "doi": "10.63317/4on7swwuy7hz",
+      "url": "https://doi.org/10.63317/4on7swwuy7hz",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sharefah A. Al-Ghamdi",
+        "Hend Al-Khalifa",
+        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -1004,7 +1025,7 @@
       "date": "2023-07-05",
       "venue": "International Conference on PErvasive Technologies Related to Assistive Environments (PETRA)",
       "type": "other",
-      "cites": 67,
+      "cites": 72,
       "doi": "10.1145/3594806.3596572",
       "url": "https://doi.org/10.1145/3594806.3596572",
       "oa": true,
@@ -1021,7 +1042,7 @@
       "date": "2023-05-12",
       "venue": "Human-Centric Intelligent Systems",
       "type": "journal",
-      "cites": 37,
+      "cites": 40,
       "doi": "10.1007/s44230-023-00024-4",
       "url": "https://doi.org/10.1007/s44230-023-00024-4",
       "oa": true,
@@ -1241,7 +1262,7 @@
       "date": "2021-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 193,
+      "cites": 192,
       "doi": "10.1016/j.procs.2021.05.096",
       "url": "https://doi.org/10.1016/j.procs.2021.05.096",
       "oa": true,
@@ -1258,7 +1279,7 @@
       "date": "2021-03-22",
       "venue": "Communications of the ACM",
       "type": "journal",
-      "cites": 111,
+      "cites": 109,
       "doi": "10.1145/3447735",
       "url": "https://doi.org/10.1145/3447735",
       "oa": true,
@@ -1414,7 +1435,7 @@
       "oa": false,
       "oa_url": null,
       "authors": [
-        "Daliyah Hesham Alzeer",
+        "Daliyah Alzeer",
         "Hend Suliman Al-Khalifa"
       ]
     },
@@ -1425,7 +1446,7 @@
       "date": "2020-12-01",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 135,
+      "cites": 134,
       "doi": "10.3390/app10238614",
       "url": "https://doi.org/10.3390/app10238614",
       "oa": true,
@@ -1482,7 +1503,7 @@
       "date": "2020-08-29",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 44,
+      "cites": 43,
       "doi": "10.3390/app10175984",
       "url": "https://doi.org/10.3390/app10175984",
       "oa": true,
@@ -1854,7 +1875,7 @@
       "date": "2018-05-22",
       "venue": "arXiv (Cornell University)",
       "type": "preprint",
-      "cites": 27,
+      "cites": 26,
       "doi": "10.48550/arxiv.1805.08533",
       "url": "https://doi.org/10.48550/arxiv.1805.08533",
       "oa": true,
@@ -1964,7 +1985,7 @@
       "date": "2018-12-04",
       "venue": "Data in Brief",
       "type": "other",
-      "cites": 11,
+      "cites": 10,
       "doi": "10.1016/j.dib.2018.11.146",
       "url": "https://doi.org/10.1016/j.dib.2018.11.146",
       "oa": true,
@@ -2111,7 +2132,7 @@
       "date": "2017-01-01",
       "venue": "Procedia Computer Science",
       "type": "other",
-      "cites": 144,
+      "cites": 143,
       "doi": "10.1016/j.procs.2017.10.094",
       "url": "https://doi.org/10.1016/j.procs.2017.10.094",
       "oa": true,
@@ -2130,7 +2151,7 @@
       "date": "2017-06-16",
       "venue": "Computer Applications in Engineering Education",
       "type": "journal",
-      "cites": 25,
+      "cites": 24,
       "doi": "10.1002/cae.21848",
       "url": "https://doi.org/10.1002/cae.21848",
       "oa": false,
@@ -2325,7 +2346,7 @@
       "date": "2016-05-16",
       "venue": "Sensors",
       "type": "journal",
-      "cites": 1139,
+      "cites": 1134,
       "doi": "10.3390/s16050707",
       "url": "https://doi.org/10.3390/s16050707",
       "oa": true,
@@ -2465,7 +2486,7 @@
       "oa": false,
       "oa_url": null,
       "authors": [
-        "Sharefah A. A-Ghamdi",
+        "Sharefah A. Al-Ghamdi",
         "Noha Al-Rajhi",
         "Nouf M. Al-Onaizy",
         "Hend Suliman Al-Khalifa"
@@ -3014,22 +3035,6 @@
       ]
     },
     {
-      "key": "k:scientometricassessmentofsaudipublicationproductivityincomputerscienceintheperiodof19782012",
-      "title": "Scientometric assessment of Saudi publication productivity in computer science in the period of 1978-2012",
-      "year": 2014,
-      "date": "2014-06-10",
-      "venue": "International Journal of Web Information Systems",
-      "type": "journal",
-      "cites": 24,
-      "doi": "10.1108/ijwis-01-2014-0001",
-      "url": "https://doi.org/10.1108/ijwis-01-2014-0001",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Hend Suliman Al-Khalifa"
-      ]
-    },
-    {
       "key": "k:asystemforsentimentanalysisofcolloquialarabicusinghumancomputation",
       "title": "A System for Sentiment Analysis of Colloquial Arabic Using Human Computation",
       "year": 2014,
@@ -3043,6 +3048,22 @@
       "oa_url": "https://downloads.hindawi.com/journals/tswj/2014/631394.pdf",
       "authors": [
         "Afnan A. Al-Subaihin",
+        "Hend Suliman Al-Khalifa"
+      ]
+    },
+    {
+      "key": "k:scientometricassessmentofsaudipublicationproductivityincomputerscienceintheperiodof19782012",
+      "title": "Scientometric assessment of Saudi publication productivity in computer science in the period of 1978-2012",
+      "year": 2014,
+      "date": "2014-06-10",
+      "venue": "International Journal of Web Information Systems",
+      "type": "journal",
+      "cites": 23,
+      "doi": "10.1108/ijwis-01-2014-0001",
+      "url": "https://doi.org/10.1108/ijwis-01-2014-0001",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
         "Hend Suliman Al-Khalifa"
       ]
     },
@@ -3070,7 +3091,7 @@
       "date": "2014-01-01",
       "venue": "",
       "type": "journal",
-      "cites": 9,
+      "cites": 8,
       "doi": "",
       "url": "https://dblp.uni-trier.de/db/conf/icchp/icchp2014-1.html#Al-MouhAA14",
       "oa": false,
@@ -3388,7 +3409,7 @@
       "date": "2013-09-14",
       "venue": "Arabian Journal for Science and Engineering",
       "type": "journal",
-      "cites": 19,
+      "cites": 18,
       "doi": "10.1007/s13369-013-0791-y",
       "url": "https://doi.org/10.1007/s13369-013-0791-y",
       "oa": false,
@@ -3651,7 +3672,7 @@
       "date": "2012-12-03",
       "venue": "International Conference on Information Integration and Web-based Applications & Services (iiWAS)",
       "type": "other",
-      "cites": 34,
+      "cites": 33,
       "doi": "10.1145/2428736.2428813",
       "url": "https://doi.org/10.1145/2428736.2428813",
       "oa": false,
@@ -3928,7 +3949,7 @@
       "date": "2011-12-05",
       "venue": "International Conference on Information Integration and Web-based Applications and Services (iiWAS)",
       "type": "other",
-      "cites": 53,
+      "cites": 52,
       "doi": "10.1145/2095536.2095651",
       "url": "https://doi.org/10.1145/2095536.2095651",
       "oa": false,
@@ -3996,24 +4017,6 @@
       ]
     },
     {
-      "key": "k:exploitingarabicwikipediaforautomaticontologygenerationaproposedapproach",
-      "title": "Exploiting Arabic Wikipedia for automatic ontology generation: A proposed approach",
-      "year": 2011,
-      "date": "2011-06-01",
-      "venue": "",
-      "type": "other",
-      "cites": 12,
-      "doi": "10.1109/stair.2011.5995767",
-      "url": "https://doi.org/10.1109/stair.2011.5995767",
-      "oa": false,
-      "oa_url": null,
-      "authors": [
-        "Nora Alrajebah",
-        "Hend Suliman Al-Khalifa",
-        "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
       "key": "k:anmlearningsystembasedonmobilephonesandquickresponsecodes",
       "title": "An M-Learning System Based on Mobile Phones and Quick Response Codes",
       "year": 2011,
@@ -4043,6 +4046,24 @@
       "oa_url": null,
       "authors": [
         "Hend Suliman Al-Khalifa"
+      ]
+    },
+    {
+      "key": "k:exploitingarabicwikipediaforautomaticontologygenerationaproposedapproach",
+      "title": "Exploiting Arabic Wikipedia for automatic ontology generation: A proposed approach",
+      "year": 2011,
+      "date": "2011-06-01",
+      "venue": "",
+      "type": "other",
+      "cites": 11,
+      "doi": "10.1109/stair.2011.5995767",
+      "url": "https://doi.org/10.1109/stair.2011.5995767",
+      "oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nora Alrajebah",
+        "Hend Suliman Al-Khalifa",
+        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -4498,7 +4519,7 @@
       "date": "2009-12-01",
       "venue": "",
       "type": "other",
-      "cites": 32,
+      "cites": 31,
       "doi": "10.1109/ctit.2009.5423145",
       "url": "https://doi.org/10.1109/ctit.2009.5423145",
       "oa": false,
@@ -4617,7 +4638,7 @@
       "date": "2008-11-01",
       "venue": "International Conference on Digital Information Management",
       "type": "other",
-      "cites": 43,
+      "cites": 42,
       "doi": "10.1109/icdim.2008.4746711",
       "url": "https://doi.org/10.1109/icdim.2008.4746711",
       "oa": false,
@@ -4750,7 +4771,7 @@
       "date": "2007-01-01",
       "venue": "International Journal on Semantic Web and Information Systems",
       "type": "journal",
-      "cites": 45,
+      "cites": 44,
       "doi": "10.4018/jswis.2007010102",
       "url": "https://doi.org/10.4018/jswis.2007010102",
       "oa": false,
