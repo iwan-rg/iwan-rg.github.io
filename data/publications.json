@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T08:33:55+00:00",
-  "count": 31,
+  "updated": "2026-10-22T08:36:06+00:00",
+  "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -45,6 +45,26 @@
         "Reem Fahad Alqifari",
         "Nourah Alangari",
         "Manal Al-Bahlal"
+      ]
+    },
+    {
+      "key": "k:atsightawearablemobilearchitectureforbidirectionalchildsafetymonitoringandguardianinitiatedintervention",
+      "title": "AtSight: A Wearable–Mobile Architecture for Bidirectional Child Safety Monitoring and Guardian-Initiated Intervention",
+      "year": 2026,
+      "date": "2026-10-20",
+      "venue": "Electronics",
+      "type": "journal",
+      "cites": 0,
+      "doi": "10.3390/electronics15204839",
+      "url": "https://doi.org/10.3390/electronics15204839",
+      "oa": true,
+      "oa_url": "https://doi.org/10.3390/electronics15204839",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Noha Aljohani",
+        "Najd Alsabi",
+        "Leena Almusharraf",
+        "Riyam Karbala"
       ]
     },
     {
