@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:39:16+00:00",
+  "updated": "2026-10-29T09:57:33+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -766,7 +766,7 @@
       "title": "A proposed semantic machine translation system for translating Arabic text to Arabic sign language",
       "year": 2011,
       "date": "2011-04-05",
-      "venue": "",
+      "venue": "Kuwait Conference on e-Services and e-Systems",
       "type": "other",
       "cites": 21,
       "doi": "10.1145/2107556.2107579",
