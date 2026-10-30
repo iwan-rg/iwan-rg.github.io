@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T09:57:33+00:00",
+  "updated": "2026-10-30T10:00:03+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -172,7 +172,7 @@
       "title": "CommonLID: Re-evaluating State-of-the-Art Language Identification Performance on Web Data",
       "year": 2026,
       "date": "2026-01-01",
-      "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+      "venue": "Proceedings of the conference - Association for Computational Linguistics. Meeting",
       "type": "other",
       "cites": 0,
       "doi": "10.18653/v1/2026.acl-long.1527",
