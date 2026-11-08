@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T10:07:22+00:00",
+  "updated": "2026-11-08T10:21:46+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -11,7 +11,7 @@
       "date": "2026-01-01",
       "venue": "Proceedings of the conference - Association for Computational Linguistics. Meeting",
       "type": "other",
-      "cites": 4,
+      "cites": 10,
       "doi": "10.18653/v1/2026.acl-long.1527",
       "url": "https://doi.org/10.18653/v1/2026.acl-long.1527",
       "oa": true,
@@ -474,7 +474,7 @@
       "date": "2023-03-27",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 21,
+      "cites": 26,
       "doi": "10.3390/app13074225",
       "url": "https://doi.org/10.3390/app13074225",
       "oa": true,
@@ -492,7 +492,7 @@
       "date": "2020-10-12",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 5,
+      "cites": 6,
       "doi": "10.3390/app10207092",
       "url": "https://doi.org/10.3390/app10207092",
       "oa": true,
@@ -526,6 +526,24 @@
       ]
     },
     {
+      "key": "k:handlingbigdatascalabilityinbiologicaldomainusingparallelanddistributedprocessingacaseofthreebiologicalsemanticsimilaritymeasures",
+      "title": "Handling Big Data Scalability in Biological Domain Using Parallel and Distributed Processing: A Case of Three Biological Semantic Similarity Measures",
+      "year": 2019,
+      "date": "2019-01-27",
+      "venue": "BioMed Research International",
+      "type": "journal",
+      "cites": 8,
+      "doi": "10.1155/2019/6750296",
+      "url": "https://doi.org/10.1155/2019/6750296",
+      "oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/bmri/2019/6750296.pdf",
+      "authors": [
+        "Ameera M. Almasoud",
+        "Hend Suliman Al-Khalifa",
+        "AbdulMalik S. Al‐Salman"
+      ]
+    },
+    {
       "key": "k:questionansweringsystemsapproachesandchallenges",
       "title": "Question Answering Systems Approaches and Challenges",
       "year": 2019,
@@ -539,24 +557,6 @@
       "oa_url": "https://doi.org/10.26615/issn.2603-2821.2019_011",
       "authors": [
         "Reem Fahad Alqifari"
-      ]
-    },
-    {
-      "key": "k:handlingbigdatascalabilityinbiologicaldomainusingparallelanddistributedprocessingacaseofthreebiologicalsemanticsimilaritymeasures",
-      "title": "Handling Big Data Scalability in Biological Domain Using Parallel and Distributed Processing: A Case of Three Biological Semantic Similarity Measures",
-      "year": 2019,
-      "date": "2019-01-27",
-      "venue": "BioMed Research International",
-      "type": "journal",
-      "cites": 7,
-      "doi": "10.1155/2019/6750296",
-      "url": "https://doi.org/10.1155/2019/6750296",
-      "oa": true,
-      "oa_url": "https://downloads.hindawi.com/journals/bmri/2019/6750296.pdf",
-      "authors": [
-        "Ameera M. Almasoud",
-        "Hend Suliman Al-Khalifa",
-        "AbdulMalik S. Al‐Salman"
       ]
     },
     {
@@ -639,7 +639,7 @@
       "date": "2016-09-01",
       "venue": "International Conference on Information Technology Based Higher Education and Training (ITHET)",
       "type": "other",
-      "cites": 5,
+      "cites": 6,
       "doi": "10.1109/ithet.2016.7760696",
       "url": "https://doi.org/10.1109/ithet.2016.7760696",
       "oa": false,
@@ -749,7 +749,7 @@
       "date": "2012-10-22",
       "venue": "International Conference on Theory and Practice of Electronic Governance",
       "type": "other",
-      "cites": 8,
+      "cites": 9,
       "doi": "10.1145/2463728.2463776",
       "url": "https://doi.org/10.1145/2463728.2463776",
       "oa": false,
