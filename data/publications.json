@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:57:52+00:00",
+  "updated": "2026-11-14T10:25:08+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -420,7 +420,7 @@
       "date": "2024-05-01",
       "venue": "Language Resources and Evaluation Conference (LREC)",
       "type": "other",
-      "cites": 2,
+      "cites": 3,
       "doi": "10.63317/2k438wqndxce",
       "url": "https://doi.org/10.63317/2k438wqndxce",
       "oa": true,
