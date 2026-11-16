@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T10:52:32+00:00",
+  "updated": "2026-11-16T11:16:26+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -508,7 +508,7 @@
       "key": "k:alowcostgazebasedarabicaugmentativeandalternativecommunicationsystemforpeoplewithseverespeechandmotorimpairments",
       "title": "A Low-Cost Gaze-Based Arabic Augmentative and Alternative Communication System for People with Severe Speech and Motor Impairments",
       "year": 2020,
-      "date": "2020-01-01",
+      "date": "2020-09-24",
       "venue": "Lecture notes in computer science",
       "type": "other",
       "cites": 3,
