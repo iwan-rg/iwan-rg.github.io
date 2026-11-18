@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T11:51:26+00:00",
+  "updated": "2026-11-18T11:41:01+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -768,7 +768,7 @@
       "date": "2011-04-05",
       "venue": "Kuwait Conference on e-Services and e-Systems",
       "type": "other",
-      "cites": 29,
+      "cites": 30,
       "doi": "10.1145/2107556.2107579",
       "url": "https://doi.org/10.1145/2107556.2107579",
       "oa": false,
