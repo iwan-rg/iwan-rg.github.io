@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T11:38:51+00:00",
+  "updated": "2026-11-20T11:38:56+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -474,7 +474,7 @@
       "date": "2023-03-27",
       "venue": "Applied Sciences",
       "type": "journal",
-      "cites": 40,
+      "cites": 41,
       "doi": "10.3390/app13074225",
       "url": "https://doi.org/10.3390/app13074225",
       "oa": true,
