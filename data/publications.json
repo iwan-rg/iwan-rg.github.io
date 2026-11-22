@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T11:00:12+00:00",
+  "updated": "2026-11-22T11:23:50+00:00",
   "count": 32,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -432,6 +432,24 @@
       ]
     },
     {
+      "key": "k:arabictemporalcommonsenseunderstanding",
+      "title": "Arabic Temporal Common Sense Understanding",
+      "year": 2024,
+      "date": "2024-12-28",
+      "venue": "Computation",
+      "type": "journal",
+      "cites": 1,
+      "doi": "10.3390/computation13010005",
+      "url": "https://doi.org/10.3390/computation13010005",
+      "oa": true,
+      "oa_url": "https://www.mdpi.com/2079-3197/13/1/5/pdf?version=1735377191",
+      "authors": [
+        "Reem Fahad Alqifari",
+        "Hend Suliman Al-Khalifa",
+        "Simon O’Keefe"
+      ]
+    },
+    {
       "key": "k:anovelapproachforrootselectioninthedependencyparsing",
       "title": "A Novel Approach for Root Selection in the Dependency Parsing",
       "year": 2024,
@@ -447,24 +465,6 @@
         "Sharefah Ahmed Al-Ghamdi",
         "Hend Al-Khalifa",
         "AbdulMalik S. Al‐Salman"
-      ]
-    },
-    {
-      "key": "k:arabictemporalcommonsenseunderstanding",
-      "title": "Arabic Temporal Common Sense Understanding",
-      "year": 2024,
-      "date": "2024-12-28",
-      "venue": "Computation",
-      "type": "journal",
-      "cites": 0,
-      "doi": "10.3390/computation13010005",
-      "url": "https://doi.org/10.3390/computation13010005",
-      "oa": true,
-      "oa_url": "https://www.mdpi.com/2079-3197/13/1/5/pdf?version=1735377191",
-      "authors": [
-        "Reem Fahad Alqifari",
-        "Hend Suliman Al-Khalifa",
-        "Simon O’Keefe"
       ]
     },
     {
