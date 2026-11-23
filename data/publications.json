@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T11:23:50+00:00",
-  "count": 32,
+  "updated": "2026-11-23T12:38:39+00:00",
+  "count": 31,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
   "publications": [
@@ -378,39 +378,6 @@
         "Raghad Al-Dajani",
         "Aljawharah Al-Howidy",
         "Sharefah Ahmed Al-Ghamdi"
-      ]
-    },
-    {
-      "key": "k:frontmatter",
-      "title": "Front Matter",
-      "year": 2025,
-      "date": "2025-01-01",
-      "venue": "Arabic Natural Language Processing Workshop (WANLP)",
-      "type": "other",
-      "cites": 0,
-      "doi": "10.18653/v1/2025.arabicnlp-main.0",
-      "url": "https://doi.org/10.18653/v1/2025.arabicnlp-main.0",
-      "oa": true,
-      "oa_url": "https://aclanthology.org/2025.arabicnlp-main.0.pdf",
-      "authors": [
-        "Kareem Mohamed Darwish",
-        "Ahmed Jundi Ali",
-        "Ibrahim Abu Farha",
-        "Samia Touileb",
-        "Imed Zitouni",
-        "Ahmed Abdelalí",
-        "Sharefah Ahmed Al-Ghamdi",
-        "Sakhar Alkhereyf",
-        "Wajdi Zaghouani",
-        "Salam Khalifa",
-        "Badr AlKhamissi",
-        "Rawan N. Al-Matham",
-        "Injy Hamed",
-        "Zaid Alyafeai",
-        "Areeb Alowisheq",
-        "Go Inoue",
-        "Khalil Mrini",
-        "Waad Thuwaini Alshammari"
       ]
     },
     {
