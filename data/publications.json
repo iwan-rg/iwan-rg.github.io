@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T12:54:11+00:00",
+  "updated": "2026-11-26T12:32:30+00:00",
   "count": 31,
   "source": "OpenAlex",
   "highlight_author": "Al-Khalifa",
@@ -129,7 +129,7 @@
       "oa": true,
       "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.244.pdf",
       "authors": [
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Nadia Ghezaiel",
         "Maria Bounnit",
         "Hend Hamed Alhazmi",
@@ -173,7 +173,7 @@
       "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/pdf/2026.osact-1.17.pdf",
       "authors": [
         "Reem Fahad Alqifari",
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Nadia Ghezaiel",
         "Maria Bounnit",
         "Hend Hamed Alhazmi",
@@ -196,7 +196,7 @@
       "oa_url": "http://www.lrec-conf.org/proceedings/lrec2026/workshops/osact/pdf/2026.osact-1.16.pdf",
       "authors": [
         "Ameera M. Almasoud",
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Reem Fahad Alqifari",
         "Nourah Alangari",
         "Manal Al-Bahlal"
@@ -252,7 +252,7 @@
       "oa": true,
       "oa_url": "https://doi.org/10.1145/3800424.3800432",
       "authors": [
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Sharefah Ahmed Al-Ghamdi"
       ]
     },
@@ -277,7 +277,7 @@
         "Amit Agarwal",
         "Cristina Aggazzotti",
         "Jesujoba Oluwadara Alabi",
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Reem Fahad Alqifari",
         "Nicholas Andrews",
         "Michael Anugraha",
@@ -353,7 +353,7 @@
       "oa_url": null,
       "authors": [
         "Sharefah Ahmed Al-Ghamdi",
-        "Hend Al-Khalifa",
+        "Hend Suliman Al-Khalifa",
         "Shahad Al-Khalifa",
         "Srikant Panda",
         "Amit Agarwal",
@@ -395,7 +395,7 @@
       "authors": [
         "Noof Abdullah Alfear",
         "Dimitar Kazakov",
-        "Hend Al-Khalifa"
+        "Hend Suliman Al-Khalifa"
       ]
     },
     {
